@@ -1,0 +1,443 @@
+{
+  "metadata": {
+    "schema_version": "1.0.0",
+    "component": "Component_1_Feasibility_Analysis",
+    "generated_at": "2026-09-26T11:06:56.475304+00:00",
+    "target_region": "Sri Lanka - Colombo District focus"
+  },
+  "business_input": {
+    "business_stage": "New",
+    "business_category": "Bakery",
+    "district": "Colombo",
+    "province": "Western",
+    "location_type": "Suburban Commercial Hub (Homagama)",
+    "proposed_action": "Establish New Bakery Branch",
+    "competition_level": "Moderate",
+    "available_capital_lkr": 800000.0,
+    "loan_amount_lkr": 200000.0,
+    "monthly_budget_lkr": 150000.0,
+    "initial_inventory_cost_lkr": 180000.0,
+    "expected_price_lkr": 350.0,
+    "expected_customers_per_day": 45,
+    "customer_demand_score": 75,
+    "expected_operating_days_per_month": 26,
+    "entrepreneur_experience_years": 4,
+    "location_suitability_score": 4,
+    "available_staff_count": 3,
+    "required_staff_count": 3,
+    "available_equipment_score": 4,
+    "required_equipment_score": 4,
+    "supplier_availability_score": 5
+  },
+  "feasibility_analysis": {
+    "predicted_label": "Conditionally Feasible",
+    "confidence_score": 0.42,
+    "probabilities": {
+      "Conditionally Feasible": 0.42,
+      "Feasible": 0.325,
+      "Infeasible": 0.255
+    }
+  },
+  "explainability": {
+    "base_value": 0.3354,
+    "positive_drivers": [
+      {
+        "feature": "Available Capital (LKR)",
+        "impact_score": 0.0764,
+        "direction": "Positive Driver"
+      },
+      {
+        "feature": "Expected Product Price (LKR)",
+        "impact_score": 0.0541,
+        "direction": "Positive Driver"
+      },
+      {
+        "feature": "Business Stage Existing",
+        "impact_score": 0.0319,
+        "direction": "Positive Driver"
+      },
+      {
+        "feature": "Business Stage New",
+        "impact_score": 0.0272,
+        "direction": "Positive Driver"
+      },
+      {
+        "feature": "Monthly Operating Budget (LKR)",
+        "impact_score": 0.0209,
+        "direction": "Positive Driver"
+      },
+      {
+        "feature": "Expected Daily Customers",
+        "impact_score": 0.0175,
+        "direction": "Positive Driver"
+      },
+      {
+        "feature": "Required Equipment Score (1-5)",
+        "impact_score": 0.0161,
+        "direction": "Positive Driver"
+      }
+    ],
+    "negative_drivers": [
+      {
+        "feature": "Available Equipment Score (1-5)",
+        "impact_score": -0.0494,
+        "direction": "Hurdle / Constraint"
+      },
+      {
+        "feature": "Proposed Action Start",
+        "impact_score": -0.048,
+        "direction": "Hurdle / Constraint"
+      },
+      {
+        "feature": "Available Staff Count",
+        "impact_score": -0.0437,
+        "direction": "Hurdle / Constraint"
+      },
+      {
+        "feature": "Customer Demand Score (1-100)",
+        "impact_score": -0.0229,
+        "direction": "Hurdle / Constraint"
+      },
+      {
+        "feature": "Requested Loan Amount (LKR)",
+        "impact_score": -0.0202,
+        "direction": "Hurdle / Constraint"
+      },
+      {
+        "feature": "Entrepreneur Experience (Years)",
+        "impact_score": -0.0083,
+        "direction": "Hurdle / Constraint"
+      },
+      {
+        "feature": "Competition Level Low",
+        "impact_score": -0.007,
+        "direction": "Hurdle / Constraint"
+      }
+    ]
+  },
+  "strategic_recommendations": {
+    "candidate_strategies": [
+      {
+        "strategy_id": "STRAT_01",
+        "strategy_name": "Lean Bootstrapped Launch (Bakery)",
+        "strategic_focus": "Risk Mitigation & Capital Preservation",
+        "operational_approach": "Optimize initial setup for Bakery by operating lean. Focus on essential equipment and low-cost marketing to mitigate constraint around Available Equipment Score (1-5).",
+        "estimated_capital_required_lkr": 480000.0,
+        "estimated_monthly_budget_lkr": 112500.0,
+        "target_daily_customers": 36,
+        "implementation_complexity": "Low",
+        "expected_feasibility_impact": "High Risk Reduction (+15% Feasibility Probability)",
+        "criteria_scores": {
+          "financial_viability": 8.5,
+          "implementation_feasibility": 9.0,
+          "market_demand_alignment": 7.0,
+          "operational_risk": 3.0,
+          "resource_efficiency": 8.8
+        }
+      },
+      {
+        "strategy_id": "STRAT_02",
+        "strategy_name": "Market Expansion & Customer Acquisition (Bakery)",
+        "strategic_focus": "Demand Generation & High Volume",
+        "operational_approach": "Invest heavily in targeted local promotions and location visibility to overcome Moderate competition level and capture high market demand.",
+        "estimated_capital_required_lkr": 880000.0,
+        "estimated_monthly_budget_lkr": 187500.0,
+        "target_daily_customers": 58,
+        "implementation_complexity": "Moderate to High",
+        "expected_feasibility_impact": "High Revenue Potential (Requires Micro-Loan buffer)",
+        "criteria_scores": {
+          "financial_viability": 7.5,
+          "implementation_feasibility": 7.2,
+          "market_demand_alignment": 9.2,
+          "operational_risk": 6.5,
+          "resource_efficiency": 7.5
+        }
+      },
+      {
+        "strategy_id": "STRAT_03",
+        "strategy_name": "Hybrid Digital & Local Delivery Model",
+        "strategic_focus": "Digital Channel Expansion & Low Fixed Cost",
+        "operational_approach": "Combine small physical footprint with online ordering, social commerce, and local delivery partnerships to maximize customer reach in Colombo.",
+        "estimated_capital_required_lkr": 600000.0,
+        "estimated_monthly_budget_lkr": 127500.0,
+        "target_daily_customers": 49,
+        "implementation_complexity": "Moderate",
+        "expected_feasibility_impact": "Balanced Growth with Controlled Operating Expenditure",
+        "criteria_scores": {
+          "financial_viability": 8.2,
+          "implementation_feasibility": 8.5,
+          "market_demand_alignment": 8.8,
+          "operational_risk": 4.2,
+          "resource_efficiency": 8.5
+        }
+      },
+      {
+        "strategy_id": "STRAT_04",
+        "strategy_name": "Premium Quality & Niche Differentiation",
+        "strategic_focus": "High Margin & Customer Loyalty",
+        "operational_approach": "Focus on premium product quality, customized service, and unique branding to achieve higher pricing margins without depending on huge customer footfall.",
+        "estimated_capital_required_lkr": 720000.0,
+        "estimated_monthly_budget_lkr": 135000.0,
+        "target_daily_customers": 31,
+        "implementation_complexity": "Moderate",
+        "expected_feasibility_impact": "High Profit Margin Stability",
+        "criteria_scores": {
+          "financial_viability": 8.0,
+          "implementation_feasibility": 8.0,
+          "market_demand_alignment": 7.8,
+          "operational_risk": 4.8,
+          "resource_efficiency": 8.0
+        }
+      }
+    ],
+    "topsis_ranking": {
+      "top_recommended_strategy": "Hybrid Digital & Local Delivery Model",
+      "top_recommended_id": "STRAT_03",
+      "top_topsis_score": 0.7005,
+      "criteria_evaluated": [
+        "financial_viability",
+        "implementation_feasibility",
+        "market_demand_alignment",
+        "operational_risk",
+        "resource_efficiency"
+      ],
+      "weights_used": {
+        "financial_viability": 0.25,
+        "implementation_feasibility": 0.2,
+        "market_demand_alignment": 0.25,
+        "operational_risk": 0.15,
+        "resource_efficiency": 0.15
+      },
+      "ranked_strategies": [
+        {
+          "strategy_id": "STRAT_03",
+          "strategy_name": "Hybrid Digital & Local Delivery Model",
+          "strategic_focus": "Digital Channel Expansion & Low Fixed Cost",
+          "operational_approach": "Combine small physical footprint with online ordering, social commerce, and local delivery partnerships to maximize customer reach in Colombo.",
+          "estimated_capital_required_lkr": 600000.0,
+          "estimated_monthly_budget_lkr": 127500.0,
+          "target_daily_customers": 49,
+          "implementation_complexity": "Moderate",
+          "expected_feasibility_impact": "Balanced Growth with Controlled Operating Expenditure",
+          "criteria_scores": {
+            "financial_viability": 8.2,
+            "implementation_feasibility": 8.5,
+            "market_demand_alignment": 8.8,
+            "operational_risk": 4.2,
+            "resource_efficiency": 8.5
+          },
+          "topsis_score": 0.7005,
+          "distance_positive_ideal": 0.0213,
+          "distance_negative_ideal": 0.0499,
+          "rank": 1
+        },
+        {
+          "strategy_id": "STRAT_01",
+          "strategy_name": "Lean Bootstrapped Launch (Bakery)",
+          "strategic_focus": "Risk Mitigation & Capital Preservation",
+          "operational_approach": "Optimize initial setup for Bakery by operating lean. Focus on essential equipment and low-cost marketing to mitigate constraint around Available Equipment Score (1-5).",
+          "estimated_capital_required_lkr": 480000.0,
+          "estimated_monthly_budget_lkr": 112500.0,
+          "target_daily_customers": 36,
+          "implementation_complexity": "Low",
+          "expected_feasibility_impact": "High Risk Reduction (+15% Feasibility Probability)",
+          "criteria_scores": {
+            "financial_viability": 8.5,
+            "implementation_feasibility": 9.0,
+            "market_demand_alignment": 7.0,
+            "operational_risk": 3.0,
+            "resource_efficiency": 8.8
+          },
+          "topsis_score": 0.6507,
+          "distance_positive_ideal": 0.0334,
+          "distance_negative_ideal": 0.0621,
+          "rank": 2
+        },
+        {
+          "strategy_id": "STRAT_04",
+          "strategy_name": "Premium Quality & Niche Differentiation",
+          "strategic_focus": "High Margin & Customer Loyalty",
+          "operational_approach": "Focus on premium product quality, customized service, and unique branding to achieve higher pricing margins without depending on huge customer footfall.",
+          "estimated_capital_required_lkr": 720000.0,
+          "estimated_monthly_budget_lkr": 135000.0,
+          "target_daily_customers": 31,
+          "implementation_complexity": "Moderate",
+          "expected_feasibility_impact": "High Profit Margin Stability",
+          "criteria_scores": {
+            "financial_viability": 8.0,
+            "implementation_feasibility": 8.0,
+            "market_demand_alignment": 7.8,
+            "operational_risk": 4.8,
+            "resource_efficiency": 8.0
+          },
+          "topsis_score": 0.4528,
+          "distance_positive_ideal": 0.0388,
+          "distance_negative_ideal": 0.0321,
+          "rank": 3
+        },
+        {
+          "strategy_id": "STRAT_02",
+          "strategy_name": "Market Expansion & Customer Acquisition (Bakery)",
+          "strategic_focus": "Demand Generation & High Volume",
+          "operational_approach": "Invest heavily in targeted local promotions and location visibility to overcome Moderate competition level and capture high market demand.",
+          "estimated_capital_required_lkr": 880000.0,
+          "estimated_monthly_budget_lkr": 187500.0,
+          "target_daily_customers": 58,
+          "implementation_complexity": "Moderate to High",
+          "expected_feasibility_impact": "High Revenue Potential (Requires Micro-Loan buffer)",
+          "criteria_scores": {
+            "financial_viability": 7.5,
+            "implementation_feasibility": 7.2,
+            "market_demand_alignment": 9.2,
+            "operational_risk": 6.5,
+            "resource_efficiency": 7.5
+          },
+          "topsis_score": 0.3493,
+          "distance_positive_ideal": 0.0621,
+          "distance_negative_ideal": 0.0334,
+          "rank": 4
+        }
+      ]
+    }
+  },
+  "scenario_analysis": {
+    "what_if_simulations": [
+      {
+        "scenario_id": "SCEN_01",
+        "title": "+50% Capital Injection",
+        "modifications": {
+          "available_capital_lkr": 1200000.0
+        },
+        "rationale": "Test sensitivity to additional equity or family capital injection.",
+        "new_prediction": "Conditionally Feasible",
+        "new_probabilities": {
+          "Conditionally Feasible": 0.425,
+          "Feasible": 0.315,
+          "Infeasible": 0.26
+        },
+        "feasibility_probability_delta": -0.01,
+        "impact_summary": "Feasibility probability shifted from 32.50% to 31.50% (-1.00%)."
+      },
+      {
+        "scenario_id": "SCEN_02",
+        "title": "Secured SME Working Loan (LKR 500,000)",
+        "modifications": {
+          "loan_amount_lkr": 700000.0,
+          "available_capital_lkr": 1300000.0
+        },
+        "rationale": "Assess impact of formal bank credit line.",
+        "new_prediction": "Conditionally Feasible",
+        "new_probabilities": {
+          "Conditionally Feasible": 0.425,
+          "Feasible": 0.315,
+          "Infeasible": 0.26
+        },
+        "feasibility_probability_delta": -0.01,
+        "impact_summary": "Feasibility probability shifted from 32.50% to 31.50% (-1.00%)."
+      },
+      {
+        "scenario_id": "SCEN_03",
+        "title": "+30% Customer Footfall Boost",
+        "modifications": {
+          "expected_customers_per_day": 58,
+          "customer_demand_score": 90
+        },
+        "rationale": "Simulate successful targeted marketing & footfall growth.",
+        "new_prediction": "Conditionally Feasible",
+        "new_probabilities": {
+          "Conditionally Feasible": 0.465,
+          "Feasible": 0.315,
+          "Infeasible": 0.22
+        },
+        "feasibility_probability_delta": -0.01,
+        "impact_summary": "Feasibility probability shifted from 32.50% to 31.50% (-1.00%)."
+      },
+      {
+        "scenario_id": "SCEN_04",
+        "title": "Optimized Operating Cost (-20% Monthly Budget)",
+        "modifications": {
+          "monthly_budget_lkr": 120000.0
+        },
+        "rationale": "Test lean operational efficiency impact.",
+        "new_prediction": "Conditionally Feasible",
+        "new_probabilities": {
+          "Conditionally Feasible": 0.415,
+          "Feasible": 0.335,
+          "Infeasible": 0.25
+        },
+        "feasibility_probability_delta": 0.01,
+        "impact_summary": "Feasibility probability shifted from 32.50% to 33.50% (+1.00%)."
+      }
+    ],
+    "counterfactual_boundary": {
+      "counterfactual_found": false,
+      "target_outcome": "Feasible",
+      "recommendation": "Multiple operational dimensions (capital, demand, equipment) require joint enhancement."
+    }
+  },
+  "personalized_business_plan": {
+    "plan_metadata": {
+      "business_category": "Bakery",
+      "district": "Colombo",
+      "feasibility_label": "Conditionally Feasible"
+    },
+    "executive_overview": {
+      "title": "1. Executive Business Overview",
+      "business_summary": "Evaluation for a New Bakery located in Colombo, Sri Lanka. The AI feasibility decision support system predicts an outcome of 'Conditionally Feasible' with 42.0% model confidence.",
+      "key_enablers": [
+        "Available Capital (LKR)",
+        "Expected Product Price (LKR)",
+        "Business Stage Existing"
+      ],
+      "key_risk_hurdles": [
+        "Available Equipment Score (1-5)",
+        "Proposed Action Start",
+        "Available Staff Count"
+      ],
+      "recommended_primary_strategy": "Hybrid Digital & Local Delivery Model"
+    },
+    "operational_plan": {
+      "title": "2. Operational Setup & Resource Management",
+      "staffing_requirements": "Available Staff: 3 | Required Staff: 3. Staff capacity is balanced.",
+      "equipment_readiness": "Equipment Score: 4/5 vs Required: 4/5.",
+      "supplier_logistics": "Supplier Availability Score: 5/5 (Colombo SME Supply Network)."
+    },
+    "marketing_plan": {
+      "title": "3. Marketing & Customer Acquisition",
+      "demand_score": "Customer Demand Index: 75/100",
+      "target_daily_customers": 45,
+      "pricing_structure": "LKR 350.00 per unit / service",
+      "promotional_tactics": [
+        "Local targeted signage and community engagement in Colombo.",
+        "Digital social media presence targeting Colombo suburban consumers.",
+        "Introductory pricing and bundled customer loyalty promotions."
+      ]
+    },
+    "financial_plan": {
+      "title": "4. Financial Planning & Capital Requirements",
+      "available_capital_lkr": 800000.0,
+      "monthly_operating_budget_lkr": 150000.0,
+      "requested_loan_lkr": 200000.0,
+      "capital_runway_months": 5.3,
+      "counterfactual_guidance": "Multiple operational dimensions (capital, demand, equipment) require joint enhancement."
+    },
+    "action_roadmap": {
+      "title": "5. Time-Phased Action Roadmap",
+      "phase_1_immediate_0_to_3_months": [
+        "Register business name and obtain local municipal authority permits.",
+        "Implement core operational strategy: Hybrid Digital & Local Delivery Model.",
+        "Procure initial inventory and establish supplier agreement terms.",
+        "Launch targeted local social media campaign."
+      ],
+      "phase_2_growth_3_to_12_months": [
+        "Track monthly cash flow against LKR 150,000.00 operating budget.",
+        "Evaluate customer footfall and aim to hit target daily volume.",
+        "Review What-If scenario results for potential capital expansion."
+      ],
+      "phase_3_scale_1_year_plus": [
+        "Assess secondary location feasibility in neighboring Colombo hubs.",
+        "Re-run AI Feasibility pipeline with actual 12-month operational metrics."
+      ]
+    }
+  }
+}

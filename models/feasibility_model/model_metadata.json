@@ -1,0 +1,46 @@
+{
+  "model_name": "RandomForestClassifier",
+  "n_estimators": 200,
+  "random_state": 42,
+  "class_weight": "balanced",
+  "test_metrics": {
+    "accuracy": 0.8833333333333333,
+    "weighted_f1": 0.8835146189971217,
+    "roc_auc_ovr": 0.9691091140327162
+  },
+  "categorical_features": [
+    "business_stage",
+    "business_category",
+    "district",
+    "province",
+    "location_type",
+    "proposed_action",
+    "competition_level"
+  ],
+  "numerical_features": [
+    "available_capital_lkr",
+    "loan_amount_lkr",
+    "monthly_budget_lkr",
+    "initial_inventory_cost_lkr",
+    "expected_price_lkr",
+    "expected_customers_per_day",
+    "customer_demand_score",
+    "expected_operating_days_per_month",
+    "entrepreneur_experience_years",
+    "location_suitability_score",
+    "available_staff_count",
+    "required_staff_count",
+    "available_equipment_score",
+    "required_equipment_score",
+    "supplier_availability_score"
+  ],
+  "classes": [
+    "Conditionally Feasible",
+    "Feasible",
+    "Infeasible"
+  ],
+  "num_processed_features": 76,
+  "dataset_version": "1.0.0",
+  "training_sample_count": 840,
+  "test_sample_count": 180
+}
