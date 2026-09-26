@@ -1,0 +1,404 @@
+{
+    "metadata": {
+        "component_id": "Component_1",
+        "component_name": "AI-Based Business Feasibility Analysis & Personalized Growth Plan Recommendation",
+        "profile_schema_version": "1.0",
+        "case_id": "TEST_CASE_1",
+        "target_region": "Colombo District, Sri Lanka"
+    },
+    "business": {
+        "business_stage": "New",
+        "business_category": "Clothing/ Garment",
+        "location_type": "Polgasowita",
+        "district": "Colombo",
+        "province": "Western",
+        "proposed_action": "start"
+    },
+    "financial": {
+        "available_capital_lkr": 366413.0,
+        "loan_amount_lkr": 0.0,
+        "monthly_budget_lkr": 72000.0,
+        "initial_inventory_cost_lkr": 17185.0,
+        "expected_price_lkr": 1858.0
+    },
+    "market": {
+        "expected_customers_per_day": 3,
+        "customer_demand_score": 78.0,
+        "competition_level": "High",
+        "expected_operating_days_per_month": 24
+    },
+    "resources": {
+        "entrepreneur_experience_years": 0.0,
+        "location_suitability_score": 4.0,
+        "available_staff_count": 0,
+        "required_staff_count": 0,
+        "available_equipment_score": 1.0,
+        "required_equipment_score": 1.0,
+        "supplier_availability_score": 4.0
+    },
+    "feasibility": {
+        "predicted_class": "Feasible",
+        "probabilities": {
+            "Conditionally Feasible": 0.345,
+            "Feasible": 0.61,
+            "Infeasible": 0.045
+        }
+    },
+    "explanation": {
+        "shap_version": "0.52.0",
+        "expected_values": [
+            0.3353630952380954,
+            0.3337500000000001,
+            0.3308869047619048
+        ],
+        "top_global_features": [
+            {
+                "Raw Feature": "num__available_capital_lkr",
+                "Feature Name": "Available Capital (LKR)",
+                "Mean |SHAP|": 0.10142395140388269
+            },
+            {
+                "Raw Feature": "num__loan_amount_lkr",
+                "Feature Name": "Requested Loan Amount (LKR)",
+                "Mean |SHAP|": 0.0672195279988294
+            },
+            {
+                "Raw Feature": "num__customer_demand_score",
+                "Feature Name": "Customer Demand Score (1-100)",
+                "Mean |SHAP|": 0.04161451219590166
+            },
+            {
+                "Raw Feature": "num__available_equipment_score",
+                "Feature Name": "Available Equipment Score (1-5)",
+                "Mean |SHAP|": 0.029974501563957947
+            },
+            {
+                "Raw Feature": "num__available_staff_count",
+                "Feature Name": "Available Staff Count",
+                "Mean |SHAP|": 0.02552098593917579
+            }
+        ]
+    },
+    "strategies": [
+        {
+            "strategy_id": "S3",
+            "title": "Pre-Order & Wholesale Supply Partnership (Clothing/ Garment)",
+            "description": "Partner with established local mini-marts, offices, or wholesale distributors on a pre-order contract basis.",
+            "strategy_type": "B2B Partnership",
+            "initial_investment_lkr": 256000.0,
+            "monthly_operating_cost_lkr": 47000.0,
+            "expected_monthly_revenue_lkr": 159000.0,
+            "market_demand_score": 85.80000000000001,
+            "competition_mitigation_score": 3.8,
+            "resource_availability_score": 4.0,
+            "location_suitability_score": 3.5,
+            "implementation_difficulty": 2.8,
+            "risk_level": "Low-Medium",
+            "shap_risk_addressed": "Bypasses retail location dependence by securing guaranteed B2B order volumes.",
+            "S_plus": 0.0484,
+            "S_minus": 0.081,
+            "TOPSIS_Score": 0.6261,
+            "Rank": 1
+        },
+        {
+            "strategy_id": "S2",
+            "title": "Lean Micro-Setup & Local Delivery (Clothing/ Garment)",
+            "description": "Start with a low-overhead home/cloud setup leveraging social media, WhatsApp orders, and localized Sri Lankan delivery.",
+            "strategy_type": "Lean & Digital",
+            "initial_investment_lkr": 165000.0,
+            "monthly_operating_cost_lkr": 29000.0,
+            "expected_monthly_revenue_lkr": 86000.0,
+            "market_demand_score": 66.3,
+            "competition_mitigation_score": 4.2,
+            "resource_availability_score": 4.5,
+            "location_suitability_score": 3.6,
+            "implementation_difficulty": 1.8,
+            "risk_level": "Low",
+            "shap_risk_addressed": "Mitigates high initial capital shortage and loan dependency by reducing fixed overhead by 55%.",
+            "S_plus": 0.0663,
+            "S_minus": 0.1048,
+            "TOPSIS_Score": 0.6127,
+            "Rank": 2
+        },
+        {
+            "strategy_id": "S4",
+            "title": "Shared Retail Kiosk / Pop-Up Franchise (Clothing/ Garment)",
+            "description": "Rent a micro-kiosk or shared counter space within a high-footfall commercial center or supermarket hub.",
+            "strategy_type": "Micro Kiosk",
+            "initial_investment_lkr": 293000.0,
+            "monthly_operating_cost_lkr": 54000.0,
+            "expected_monthly_revenue_lkr": 174000.0,
+            "market_demand_score": 93.6,
+            "competition_mitigation_score": 3.0,
+            "resource_availability_score": 3.8,
+            "location_suitability_score": 5.0,
+            "implementation_difficulty": 2.5,
+            "risk_level": "Medium",
+            "shap_risk_addressed": "Overcomes poor location suitability score by co-locating inside high-demand commercial clusters.",
+            "S_plus": 0.0621,
+            "S_minus": 0.0794,
+            "TOPSIS_Score": 0.5609,
+            "Rank": 3
+        },
+        {
+            "strategy_id": "S1",
+            "title": "Standard Physical Commercial Setup (Clothing/ Garment)",
+            "description": "Establish a full-scale physical retail/commercial storefront in Polgasowita.",
+            "strategy_type": "Standard Physical",
+            "initial_investment_lkr": 366000.0,
+            "monthly_operating_cost_lkr": 72000.0,
+            "expected_monthly_revenue_lkr": 145000.0,
+            "market_demand_score": 78.0,
+            "competition_mitigation_score": 2.0,
+            "resource_availability_score": 3.5,
+            "location_suitability_score": 4.0,
+            "implementation_difficulty": 3.5,
+            "risk_level": "Medium",
+            "shap_risk_addressed": "Provides maximum physical visibility but requires high capital outlay.",
+            "S_plus": 0.1079,
+            "S_minus": 0.0422,
+            "TOPSIS_Score": 0.2813,
+            "Rank": 4
+        }
+    ],
+    "selected_strategy": {
+        "strategy_id": "S3",
+        "title": "Pre-Order & Wholesale Supply Partnership (Clothing/ Garment)",
+        "description": "Partner with established local mini-marts, offices, or wholesale distributors on a pre-order contract basis.",
+        "strategy_type": "B2B Partnership",
+        "initial_investment_lkr": 256000.0,
+        "monthly_operating_cost_lkr": 47000.0,
+        "expected_monthly_revenue_lkr": 159000.0,
+        "market_demand_score": 85.80000000000001,
+        "competition_mitigation_score": 3.8,
+        "resource_availability_score": 4.0,
+        "location_suitability_score": 3.5,
+        "implementation_difficulty": 2.8,
+        "risk_level": "Low-Medium",
+        "shap_risk_addressed": "Bypasses retail location dependence by securing guaranteed B2B order volumes.",
+        "S_plus": 0.0484,
+        "S_minus": 0.081,
+        "TOPSIS_Score": 0.6261,
+        "Rank": 1
+    },
+    "what_if_analysis": {
+        "simulated_scenarios": [
+            {
+                "modifications": {
+                    "available_capital_lkr": 475175
+                },
+                "original_prediction": {
+                    "class": "Conditionally Feasible",
+                    "probabilities": {
+                        "Conditionally Feasible": 0.535,
+                        "Feasible": 0.02,
+                        "Infeasible": 0.445
+                    }
+                },
+                "modified_prediction": {
+                    "class": "Conditionally Feasible",
+                    "probabilities": {
+                        "Conditionally Feasible": 0.63,
+                        "Feasible": 0.04,
+                        "Infeasible": 0.33
+                    }
+                },
+                "probability_deltas": {
+                    "Conditionally Feasible": 0.095,
+                    "Feasible": 0.02,
+                    "Infeasible": -0.115
+                },
+                "prediction_changed": false,
+                "modified_profile": {
+                    "business_stage": "New",
+                    "business_category": "Grocery/Mini-Mart",
+                    "district": "Colombo",
+                    "province": "Western",
+                    "location_type": "Dolahena",
+                    "proposed_action": "start",
+                    "available_capital_lkr": 475175,
+                    "loan_amount_lkr": 46000,
+                    "monthly_budget_lkr": 301048,
+                    "initial_inventory_cost_lkr": 130000,
+                    "expected_price_lkr": 1641,
+                    "expected_customers_per_day": 42,
+                    "competition_level": "High",
+                    "customer_demand_score": 80,
+                    "expected_operating_days_per_month": 25,
+                    "entrepreneur_experience_years": 0,
+                    "location_suitability_score": 3,
+                    "available_staff_count": 1,
+                    "required_staff_count": 2,
+                    "available_equipment_score": 1,
+                    "required_equipment_score": 2,
+                    "supplier_availability_score": 4
+                },
+                "title": "Scenario 1: Capital Increase (+LKR 300,000)"
+            },
+            {
+                "modifications": {
+                    "expected_customers_per_day": 57,
+                    "customer_demand_score": 100
+                },
+                "original_prediction": {
+                    "class": "Conditionally Feasible",
+                    "probabilities": {
+                        "Conditionally Feasible": 0.535,
+                        "Feasible": 0.02,
+                        "Infeasible": 0.445
+                    }
+                },
+                "modified_prediction": {
+                    "class": "Conditionally Feasible",
+                    "probabilities": {
+                        "Conditionally Feasible": 0.555,
+                        "Feasible": 0.02,
+                        "Infeasible": 0.425
+                    }
+                },
+                "probability_deltas": {
+                    "Conditionally Feasible": 0.02,
+                    "Feasible": 0.0,
+                    "Infeasible": -0.02
+                },
+                "prediction_changed": false,
+                "modified_profile": {
+                    "business_stage": "New",
+                    "business_category": "Grocery/Mini-Mart",
+                    "district": "Colombo",
+                    "province": "Western",
+                    "location_type": "Dolahena",
+                    "proposed_action": "start",
+                    "available_capital_lkr": 175175,
+                    "loan_amount_lkr": 46000,
+                    "monthly_budget_lkr": 301048,
+                    "initial_inventory_cost_lkr": 130000,
+                    "expected_price_lkr": 1641,
+                    "expected_customers_per_day": 57,
+                    "competition_level": "High",
+                    "customer_demand_score": 100,
+                    "expected_operating_days_per_month": 25,
+                    "entrepreneur_experience_years": 0,
+                    "location_suitability_score": 3,
+                    "available_staff_count": 1,
+                    "required_staff_count": 2,
+                    "available_equipment_score": 1,
+                    "required_equipment_score": 2,
+                    "supplier_availability_score": 4
+                },
+                "title": "Scenario 2: Customer Demand Surge (+15 Customers/Day)"
+            },
+            {
+                "modifications": {
+                    "available_capital_lkr": 475175,
+                    "expected_customers_per_day": 57,
+                    "location_suitability_score": 4
+                },
+                "original_prediction": {
+                    "class": "Conditionally Feasible",
+                    "probabilities": {
+                        "Conditionally Feasible": 0.535,
+                        "Feasible": 0.02,
+                        "Infeasible": 0.445
+                    }
+                },
+                "modified_prediction": {
+                    "class": "Conditionally Feasible",
+                    "probabilities": {
+                        "Conditionally Feasible": 0.66,
+                        "Feasible": 0.04,
+                        "Infeasible": 0.3
+                    }
+                },
+                "probability_deltas": {
+                    "Conditionally Feasible": 0.125,
+                    "Feasible": 0.02,
+                    "Infeasible": -0.145
+                },
+                "prediction_changed": false,
+                "modified_profile": {
+                    "business_stage": "New",
+                    "business_category": "Grocery/Mini-Mart",
+                    "district": "Colombo",
+                    "province": "Western",
+                    "location_type": "Dolahena",
+                    "proposed_action": "start",
+                    "available_capital_lkr": 475175,
+                    "loan_amount_lkr": 46000,
+                    "monthly_budget_lkr": 301048,
+                    "initial_inventory_cost_lkr": 130000,
+                    "expected_price_lkr": 1641,
+                    "expected_customers_per_day": 57,
+                    "competition_level": "High",
+                    "customer_demand_score": 80,
+                    "expected_operating_days_per_month": 25,
+                    "entrepreneur_experience_years": 0,
+                    "location_suitability_score": 4,
+                    "available_staff_count": 1,
+                    "required_staff_count": 2,
+                    "available_equipment_score": 1,
+                    "required_equipment_score": 2,
+                    "supplier_availability_score": 4
+                },
+                "title": "Scenario 3: Combined Capital + Demand + Location Upgrade"
+            }
+        ],
+        "counterfactual_capital_search": {
+            "status": "Not Achieved Within Search Limit",
+            "max_tested_capital": 2175175.0
+        }
+    },
+    "personalized_business_plan": {
+        "overview": {
+            "business_title": "New Clothing/ Garment Proposal (Polgasowita)",
+            "business_stage": "New",
+            "business_category": "Clothing/ Garment",
+            "target_location": "Polgasowita, Colombo District, Western Province",
+            "value_proposition": "Provide high-quality clothing/ garment products tailored to local consumer demand in Polgasowita, leveraging a b2b partnership operational model.",
+            "target_customer_profile": "Local residents, commuters, and businesses within the Polgasowita commercial catchment area."
+        },
+        "operations": {
+            "operating_model": "B2B Partnership",
+            "recommended_location_strategy": "Utilize Polgasowita location with a suitability score of 4/5.",
+            "staffing_allocation": {
+                "available_staff": 0,
+                "required_staff": 0,
+                "recommendation": "Maintain current staffing headcount."
+            },
+            "equipment_readiness": "Equipment Score: 1/5 (Required: 1/5).",
+            "supplier_sourcing": "Supplier Availability Score: 4/5 (Strong local supplier connectivity in Western Province)."
+        },
+        "marketing": {
+            "projected_daily_customers": 3,
+            "expected_price_point_lkr": 1858.0,
+            "customer_demand_score": 78.0,
+            "competition_level": "High",
+            "customer_acquisition_strategy": "Direct storefront signage, footfall discounts, and local commercial B2B flyers."
+        },
+        "financials": {
+            "initial_capital_available_lkr": 366413.0,
+            "requested_loan_amount_lkr": 0.0,
+            "recommended_strategy_investment_lkr": 256000.0,
+            "recommended_monthly_operating_cost_lkr": 47000.0,
+            "expected_monthly_revenue_lkr": 159000.0,
+            "projected_net_monthly_margin_lkr": 112000.0,
+            "primary_risk_mitigation": "Bypasses retail location dependence by securing guaranteed B2B order volumes."
+        },
+        "roadmap": {
+            "phase_1_short_term_0_to_3_months": [
+                "Secure operating site/setup in Polgasowita and finalize initial inventory worth LKR 17,185.",
+                "Allocate initial setup capital of LKR 256,000.0 into core equipment and inventory.",
+                "Establish local supplier supply contracts in Colombo District."
+            ],
+            "phase_2_medium_term_3_to_12_months": [
+                "Scale daily customer volume toward target benchmark of 3 customers/day.",
+                "Maintain monthly operating budget within strict LKR 47,000.0 ceiling.",
+                "Evaluate initial 6-month revenue performance against target monthly projection."
+            ],
+            "phase_3_long_term_1_year_plus": [
+                "Reinvest net monthly margins into product line diversification or secondary satellite channels.",
+                "Assess expansion into neighboring sub-districts in Western Province."
+            ]
+        }
+    }
+}

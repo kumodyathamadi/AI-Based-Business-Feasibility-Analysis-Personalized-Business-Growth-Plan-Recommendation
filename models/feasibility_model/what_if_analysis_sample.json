@@ -1,0 +1,200 @@
+{
+    "base_case_index": 192,
+    "base_profile": {
+        "business_stage": "New",
+        "business_category": "Grocery/Mini-Mart",
+        "district": "Colombo",
+        "province": "Western",
+        "location_type": "Dolahena",
+        "proposed_action": "start",
+        "available_capital_lkr": 175175,
+        "loan_amount_lkr": 46000,
+        "monthly_budget_lkr": 301048,
+        "initial_inventory_cost_lkr": 130000,
+        "expected_price_lkr": 1641,
+        "expected_customers_per_day": 42,
+        "competition_level": "High",
+        "customer_demand_score": 80,
+        "expected_operating_days_per_month": 25,
+        "entrepreneur_experience_years": 0,
+        "location_suitability_score": 3,
+        "available_staff_count": 1,
+        "required_staff_count": 2,
+        "available_equipment_score": 1,
+        "required_equipment_score": 2,
+        "supplier_availability_score": 4
+    },
+    "base_prediction": {
+        "class": "Conditionally Feasible",
+        "probabilities": {
+            "Conditionally Feasible": 0.535,
+            "Feasible": 0.02,
+            "Infeasible": 0.445
+        }
+    },
+    "simulated_scenarios": [
+        {
+            "modifications": {
+                "available_capital_lkr": 475175
+            },
+            "original_prediction": {
+                "class": "Conditionally Feasible",
+                "probabilities": {
+                    "Conditionally Feasible": 0.535,
+                    "Feasible": 0.02,
+                    "Infeasible": 0.445
+                }
+            },
+            "modified_prediction": {
+                "class": "Conditionally Feasible",
+                "probabilities": {
+                    "Conditionally Feasible": 0.63,
+                    "Feasible": 0.04,
+                    "Infeasible": 0.33
+                }
+            },
+            "probability_deltas": {
+                "Conditionally Feasible": 0.095,
+                "Feasible": 0.02,
+                "Infeasible": -0.115
+            },
+            "prediction_changed": false,
+            "modified_profile": {
+                "business_stage": "New",
+                "business_category": "Grocery/Mini-Mart",
+                "district": "Colombo",
+                "province": "Western",
+                "location_type": "Dolahena",
+                "proposed_action": "start",
+                "available_capital_lkr": 475175,
+                "loan_amount_lkr": 46000,
+                "monthly_budget_lkr": 301048,
+                "initial_inventory_cost_lkr": 130000,
+                "expected_price_lkr": 1641,
+                "expected_customers_per_day": 42,
+                "competition_level": "High",
+                "customer_demand_score": 80,
+                "expected_operating_days_per_month": 25,
+                "entrepreneur_experience_years": 0,
+                "location_suitability_score": 3,
+                "available_staff_count": 1,
+                "required_staff_count": 2,
+                "available_equipment_score": 1,
+                "required_equipment_score": 2,
+                "supplier_availability_score": 4
+            },
+            "title": "Scenario 1: Capital Increase (+LKR 300,000)"
+        },
+        {
+            "modifications": {
+                "expected_customers_per_day": 57,
+                "customer_demand_score": 100
+            },
+            "original_prediction": {
+                "class": "Conditionally Feasible",
+                "probabilities": {
+                    "Conditionally Feasible": 0.535,
+                    "Feasible": 0.02,
+                    "Infeasible": 0.445
+                }
+            },
+            "modified_prediction": {
+                "class": "Conditionally Feasible",
+                "probabilities": {
+                    "Conditionally Feasible": 0.555,
+                    "Feasible": 0.02,
+                    "Infeasible": 0.425
+                }
+            },
+            "probability_deltas": {
+                "Conditionally Feasible": 0.02,
+                "Feasible": 0.0,
+                "Infeasible": -0.02
+            },
+            "prediction_changed": false,
+            "modified_profile": {
+                "business_stage": "New",
+                "business_category": "Grocery/Mini-Mart",
+                "district": "Colombo",
+                "province": "Western",
+                "location_type": "Dolahena",
+                "proposed_action": "start",
+                "available_capital_lkr": 175175,
+                "loan_amount_lkr": 46000,
+                "monthly_budget_lkr": 301048,
+                "initial_inventory_cost_lkr": 130000,
+                "expected_price_lkr": 1641,
+                "expected_customers_per_day": 57,
+                "competition_level": "High",
+                "customer_demand_score": 100,
+                "expected_operating_days_per_month": 25,
+                "entrepreneur_experience_years": 0,
+                "location_suitability_score": 3,
+                "available_staff_count": 1,
+                "required_staff_count": 2,
+                "available_equipment_score": 1,
+                "required_equipment_score": 2,
+                "supplier_availability_score": 4
+            },
+            "title": "Scenario 2: Customer Demand Surge (+15 Customers/Day)"
+        },
+        {
+            "modifications": {
+                "available_capital_lkr": 475175,
+                "expected_customers_per_day": 57,
+                "location_suitability_score": 4
+            },
+            "original_prediction": {
+                "class": "Conditionally Feasible",
+                "probabilities": {
+                    "Conditionally Feasible": 0.535,
+                    "Feasible": 0.02,
+                    "Infeasible": 0.445
+                }
+            },
+            "modified_prediction": {
+                "class": "Conditionally Feasible",
+                "probabilities": {
+                    "Conditionally Feasible": 0.66,
+                    "Feasible": 0.04,
+                    "Infeasible": 0.3
+                }
+            },
+            "probability_deltas": {
+                "Conditionally Feasible": 0.125,
+                "Feasible": 0.02,
+                "Infeasible": -0.145
+            },
+            "prediction_changed": false,
+            "modified_profile": {
+                "business_stage": "New",
+                "business_category": "Grocery/Mini-Mart",
+                "district": "Colombo",
+                "province": "Western",
+                "location_type": "Dolahena",
+                "proposed_action": "start",
+                "available_capital_lkr": 475175,
+                "loan_amount_lkr": 46000,
+                "monthly_budget_lkr": 301048,
+                "initial_inventory_cost_lkr": 130000,
+                "expected_price_lkr": 1641,
+                "expected_customers_per_day": 57,
+                "competition_level": "High",
+                "customer_demand_score": 80,
+                "expected_operating_days_per_month": 25,
+                "entrepreneur_experience_years": 0,
+                "location_suitability_score": 4,
+                "available_staff_count": 1,
+                "required_staff_count": 2,
+                "available_equipment_score": 1,
+                "required_equipment_score": 2,
+                "supplier_availability_score": 4
+            },
+            "title": "Scenario 3: Combined Capital + Demand + Location Upgrade"
+        }
+    ],
+    "counterfactual_capital_search": {
+        "status": "Not Achieved Within Search Limit",
+        "max_tested_capital": 2175175.0
+    }
+}

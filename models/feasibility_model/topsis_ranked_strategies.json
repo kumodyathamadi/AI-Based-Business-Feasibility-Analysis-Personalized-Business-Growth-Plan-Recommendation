@@ -1,0 +1,223 @@
+{
+    "case_id": "TEST_CASE_1",
+    "input_profile": {
+        "business_stage": "New",
+        "business_category": "Clothing/ Garment",
+        "district": "Colombo",
+        "province": "Western",
+        "location_type": "Polgasowita",
+        "proposed_action": "start",
+        "available_capital_lkr": 366413,
+        "loan_amount_lkr": 0,
+        "monthly_budget_lkr": 72000,
+        "initial_inventory_cost_lkr": 17185,
+        "expected_price_lkr": 1858,
+        "expected_customers_per_day": 3,
+        "competition_level": "High",
+        "customer_demand_score": 78,
+        "expected_operating_days_per_month": 24,
+        "entrepreneur_experience_years": 0,
+        "location_suitability_score": 4,
+        "available_staff_count": 0,
+        "required_staff_count": 0,
+        "available_equipment_score": 1,
+        "required_equipment_score": 1,
+        "supplier_availability_score": 4
+    },
+    "prediction": {
+        "predicted_class": "Feasible",
+        "probabilities": {
+            "Conditionally Feasible": 0.345,
+            "Feasible": 0.61,
+            "Infeasible": 0.045
+        }
+    },
+    "top_ranked_strategy": {
+        "strategy_id": "S3",
+        "title": "Pre-Order & Wholesale Supply Partnership (Clothing/ Garment)",
+        "description": "Partner with established local mini-marts, offices, or wholesale distributors on a pre-order contract basis.",
+        "strategy_type": "B2B Partnership",
+        "initial_investment_lkr": 256000.0,
+        "monthly_operating_cost_lkr": 47000.0,
+        "expected_monthly_revenue_lkr": 159000.0,
+        "market_demand_score": 85.80000000000001,
+        "competition_mitigation_score": 3.8,
+        "resource_availability_score": 4.0,
+        "location_suitability_score": 3.5,
+        "implementation_difficulty": 2.8,
+        "risk_level": "Low-Medium",
+        "shap_risk_addressed": "Bypasses retail location dependence by securing guaranteed B2B order volumes.",
+        "S_plus": 0.0484,
+        "S_minus": 0.081,
+        "TOPSIS_Score": 0.6261,
+        "Rank": 1
+    },
+    "all_ranked_strategies": [
+        {
+            "strategy_id": "S3",
+            "title": "Pre-Order & Wholesale Supply Partnership (Clothing/ Garment)",
+            "description": "Partner with established local mini-marts, offices, or wholesale distributors on a pre-order contract basis.",
+            "strategy_type": "B2B Partnership",
+            "initial_investment_lkr": 256000.0,
+            "monthly_operating_cost_lkr": 47000.0,
+            "expected_monthly_revenue_lkr": 159000.0,
+            "market_demand_score": 85.80000000000001,
+            "competition_mitigation_score": 3.8,
+            "resource_availability_score": 4.0,
+            "location_suitability_score": 3.5,
+            "implementation_difficulty": 2.8,
+            "risk_level": "Low-Medium",
+            "shap_risk_addressed": "Bypasses retail location dependence by securing guaranteed B2B order volumes.",
+            "S_plus": 0.0484,
+            "S_minus": 0.081,
+            "TOPSIS_Score": 0.6261,
+            "Rank": 1
+        },
+        {
+            "strategy_id": "S2",
+            "title": "Lean Micro-Setup & Local Delivery (Clothing/ Garment)",
+            "description": "Start with a low-overhead home/cloud setup leveraging social media, WhatsApp orders, and localized Sri Lankan delivery.",
+            "strategy_type": "Lean & Digital",
+            "initial_investment_lkr": 165000.0,
+            "monthly_operating_cost_lkr": 29000.0,
+            "expected_monthly_revenue_lkr": 86000.0,
+            "market_demand_score": 66.3,
+            "competition_mitigation_score": 4.2,
+            "resource_availability_score": 4.5,
+            "location_suitability_score": 3.6,
+            "implementation_difficulty": 1.8,
+            "risk_level": "Low",
+            "shap_risk_addressed": "Mitigates high initial capital shortage and loan dependency by reducing fixed overhead by 55%.",
+            "S_plus": 0.0663,
+            "S_minus": 0.1048,
+            "TOPSIS_Score": 0.6127,
+            "Rank": 2
+        },
+        {
+            "strategy_id": "S4",
+            "title": "Shared Retail Kiosk / Pop-Up Franchise (Clothing/ Garment)",
+            "description": "Rent a micro-kiosk or shared counter space within a high-footfall commercial center or supermarket hub.",
+            "strategy_type": "Micro Kiosk",
+            "initial_investment_lkr": 293000.0,
+            "monthly_operating_cost_lkr": 54000.0,
+            "expected_monthly_revenue_lkr": 174000.0,
+            "market_demand_score": 93.6,
+            "competition_mitigation_score": 3.0,
+            "resource_availability_score": 3.8,
+            "location_suitability_score": 5.0,
+            "implementation_difficulty": 2.5,
+            "risk_level": "Medium",
+            "shap_risk_addressed": "Overcomes poor location suitability score by co-locating inside high-demand commercial clusters.",
+            "S_plus": 0.0621,
+            "S_minus": 0.0794,
+            "TOPSIS_Score": 0.5609,
+            "Rank": 3
+        },
+        {
+            "strategy_id": "S1",
+            "title": "Standard Physical Commercial Setup (Clothing/ Garment)",
+            "description": "Establish a full-scale physical retail/commercial storefront in Polgasowita.",
+            "strategy_type": "Standard Physical",
+            "initial_investment_lkr": 366000.0,
+            "monthly_operating_cost_lkr": 72000.0,
+            "expected_monthly_revenue_lkr": 145000.0,
+            "market_demand_score": 78.0,
+            "competition_mitigation_score": 2.0,
+            "resource_availability_score": 3.5,
+            "location_suitability_score": 4.0,
+            "implementation_difficulty": 3.5,
+            "risk_level": "Medium",
+            "shap_risk_addressed": "Provides maximum physical visibility but requires high capital outlay.",
+            "S_plus": 0.1079,
+            "S_minus": 0.0422,
+            "TOPSIS_Score": 0.2813,
+            "Rank": 4
+        }
+    ],
+    "sensitivity_results": [
+        {
+            "Weight Profile": "Balanced",
+            "Strategy ID": "S3",
+            "Title": "Pre-Order & Wholesale Supply Partnership (Clothing/ Garment)",
+            "TOPSIS Score": 0.6261,
+            "Rank": 1
+        },
+        {
+            "Weight Profile": "Balanced",
+            "Strategy ID": "S2",
+            "Title": "Lean Micro-Setup & Local Delivery (Clothing/ Garment)",
+            "TOPSIS Score": 0.6127,
+            "Rank": 2
+        },
+        {
+            "Weight Profile": "Balanced",
+            "Strategy ID": "S4",
+            "Title": "Shared Retail Kiosk / Pop-Up Franchise (Clothing/ Garment)",
+            "TOPSIS Score": 0.5609,
+            "Rank": 3
+        },
+        {
+            "Weight Profile": "Balanced",
+            "Strategy ID": "S1",
+            "Title": "Standard Physical Commercial Setup (Clothing/ Garment)",
+            "TOPSIS Score": 0.2813,
+            "Rank": 4
+        },
+        {
+            "Weight Profile": "Capital-Preserving (Risk-Averse)",
+            "Strategy ID": "S2",
+            "Title": "Lean Micro-Setup & Local Delivery (Clothing/ Garment)",
+            "TOPSIS Score": 0.8207,
+            "Rank": 1
+        },
+        {
+            "Weight Profile": "Capital-Preserving (Risk-Averse)",
+            "Strategy ID": "S3",
+            "Title": "Pre-Order & Wholesale Supply Partnership (Clothing/ Garment)",
+            "TOPSIS Score": 0.5692,
+            "Rank": 2
+        },
+        {
+            "Weight Profile": "Capital-Preserving (Risk-Averse)",
+            "Strategy ID": "S4",
+            "Title": "Shared Retail Kiosk / Pop-Up Franchise (Clothing/ Garment)",
+            "TOPSIS Score": 0.4213,
+            "Rank": 3
+        },
+        {
+            "Weight Profile": "Capital-Preserving (Risk-Averse)",
+            "Strategy ID": "S1",
+            "Title": "Standard Physical Commercial Setup (Clothing/ Garment)",
+            "TOPSIS Score": 0.1172,
+            "Rank": 4
+        },
+        {
+            "Weight Profile": "Revenue-Maximizing (Aggressive)",
+            "Strategy ID": "S4",
+            "Title": "Shared Retail Kiosk / Pop-Up Franchise (Clothing/ Garment)",
+            "TOPSIS Score": 0.8363,
+            "Rank": 1
+        },
+        {
+            "Weight Profile": "Revenue-Maximizing (Aggressive)",
+            "Strategy ID": "S3",
+            "Title": "Pre-Order & Wholesale Supply Partnership (Clothing/ Garment)",
+            "TOPSIS Score": 0.783,
+            "Rank": 2
+        },
+        {
+            "Weight Profile": "Revenue-Maximizing (Aggressive)",
+            "Strategy ID": "S1",
+            "Title": "Standard Physical Commercial Setup (Clothing/ Garment)",
+            "TOPSIS Score": 0.5598,
+            "Rank": 3
+        },
+        {
+            "Weight Profile": "Revenue-Maximizing (Aggressive)",
+            "Strategy ID": "S2",
+            "Title": "Lean Micro-Setup & Local Delivery (Clothing/ Garment)",
+            "TOPSIS Score": 0.2623,
+            "Rank": 4
+        }
+    ]
+}
