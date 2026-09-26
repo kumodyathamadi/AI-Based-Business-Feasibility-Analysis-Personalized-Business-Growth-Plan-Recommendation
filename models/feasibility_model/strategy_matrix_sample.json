@@ -1,0 +1,341 @@
+{
+    "generated_scenarios": [
+        {
+            "case_id": "TEST_CASE_1",
+            "input_profile": {
+                "business_stage": "New",
+                "business_category": "Clothing/ Garment",
+                "district": "Colombo",
+                "province": "Western",
+                "location_type": "Polgasowita",
+                "proposed_action": "start",
+                "available_capital_lkr": 366413,
+                "loan_amount_lkr": 0,
+                "monthly_budget_lkr": 72000,
+                "initial_inventory_cost_lkr": 17185,
+                "expected_price_lkr": 1858,
+                "expected_customers_per_day": 3,
+                "competition_level": "High",
+                "customer_demand_score": 78,
+                "expected_operating_days_per_month": 24,
+                "entrepreneur_experience_years": 0,
+                "location_suitability_score": 4,
+                "available_staff_count": 0,
+                "required_staff_count": 0,
+                "available_equipment_score": 1,
+                "required_equipment_score": 1,
+                "supplier_availability_score": 4
+            },
+            "prediction": {
+                "predicted_class": "Feasible",
+                "probabilities": {
+                    "Conditionally Feasible": 0.345,
+                    "Feasible": 0.61,
+                    "Infeasible": 0.045
+                }
+            },
+            "candidate_strategies": [
+                {
+                    "strategy_id": "S1",
+                    "title": "Standard Physical Commercial Setup (Clothing/ Garment)",
+                    "description": "Establish a full-scale physical retail/commercial storefront in Polgasowita.",
+                    "strategy_type": "Standard Physical",
+                    "initial_investment_lkr": 366000.0,
+                    "monthly_operating_cost_lkr": 72000.0,
+                    "expected_monthly_revenue_lkr": 145000.0,
+                    "market_demand_score": 78.0,
+                    "competition_mitigation_score": 2.0,
+                    "resource_availability_score": 3.5,
+                    "location_suitability_score": 4.0,
+                    "implementation_difficulty": 3.5,
+                    "risk_level": "Medium",
+                    "shap_risk_addressed": "Provides maximum physical visibility but requires high capital outlay."
+                },
+                {
+                    "strategy_id": "S2",
+                    "title": "Lean Micro-Setup & Local Delivery (Clothing/ Garment)",
+                    "description": "Start with a low-overhead home/cloud setup leveraging social media, WhatsApp orders, and localized Sri Lankan delivery.",
+                    "strategy_type": "Lean & Digital",
+                    "initial_investment_lkr": 165000.0,
+                    "monthly_operating_cost_lkr": 29000.0,
+                    "expected_monthly_revenue_lkr": 86000.0,
+                    "market_demand_score": 66.3,
+                    "competition_mitigation_score": 4.2,
+                    "resource_availability_score": 4.5,
+                    "location_suitability_score": 3.6,
+                    "implementation_difficulty": 1.8,
+                    "risk_level": "Low",
+                    "shap_risk_addressed": "Mitigates high initial capital shortage and loan dependency by reducing fixed overhead by 55%."
+                },
+                {
+                    "strategy_id": "S3",
+                    "title": "Pre-Order & Wholesale Supply Partnership (Clothing/ Garment)",
+                    "description": "Partner with established local mini-marts, offices, or wholesale distributors on a pre-order contract basis.",
+                    "strategy_type": "B2B Partnership",
+                    "initial_investment_lkr": 256000.0,
+                    "monthly_operating_cost_lkr": 47000.0,
+                    "expected_monthly_revenue_lkr": 159000.0,
+                    "market_demand_score": 85.80000000000001,
+                    "competition_mitigation_score": 3.8,
+                    "resource_availability_score": 4.0,
+                    "location_suitability_score": 3.5,
+                    "implementation_difficulty": 2.8,
+                    "risk_level": "Low-Medium",
+                    "shap_risk_addressed": "Bypasses retail location dependence by securing guaranteed B2B order volumes."
+                },
+                {
+                    "strategy_id": "S4",
+                    "title": "Shared Retail Kiosk / Pop-Up Franchise (Clothing/ Garment)",
+                    "description": "Rent a micro-kiosk or shared counter space within a high-footfall commercial center or supermarket hub.",
+                    "strategy_type": "Micro Kiosk",
+                    "initial_investment_lkr": 293000.0,
+                    "monthly_operating_cost_lkr": 54000.0,
+                    "expected_monthly_revenue_lkr": 174000.0,
+                    "market_demand_score": 93.6,
+                    "competition_mitigation_score": 3.0,
+                    "resource_availability_score": 3.8,
+                    "location_suitability_score": 5.0,
+                    "implementation_difficulty": 2.5,
+                    "risk_level": "Medium",
+                    "shap_risk_addressed": "Overcomes poor location suitability score by co-locating inside high-demand commercial clusters."
+                }
+            ]
+        },
+        {
+            "case_id": "TEST_CASE_6",
+            "input_profile": {
+                "business_stage": "Existing",
+                "business_category": "Grocery/Mini-Mart",
+                "district": "Colombo",
+                "province": "Western",
+                "location_type": "Habarakada",
+                "proposed_action": "expand",
+                "available_capital_lkr": 54784,
+                "loan_amount_lkr": 20000,
+                "monthly_budget_lkr": 222714,
+                "initial_inventory_cost_lkr": 49015,
+                "expected_price_lkr": 930,
+                "expected_customers_per_day": 43,
+                "competition_level": "Medium",
+                "customer_demand_score": 50,
+                "expected_operating_days_per_month": 25,
+                "entrepreneur_experience_years": 2,
+                "location_suitability_score": 3,
+                "available_staff_count": 2,
+                "required_staff_count": 3,
+                "available_equipment_score": 3,
+                "required_equipment_score": 3,
+                "supplier_availability_score": 4
+            },
+            "prediction": {
+                "predicted_class": "Infeasible",
+                "probabilities": {
+                    "Conditionally Feasible": 0.26,
+                    "Feasible": 0.065,
+                    "Infeasible": 0.675
+                }
+            },
+            "candidate_strategies": [
+                {
+                    "strategy_id": "S1",
+                    "title": "Direct Storefront & Inventory Expansion (Grocery/Mini-Mart)",
+                    "description": "Expand physical floor space, upgrade equipment, and increase inventory capacity to serve higher daily footfall.",
+                    "strategy_type": "Capacity Expansion",
+                    "initial_investment_lkr": 75000.0,
+                    "monthly_operating_cost_lkr": 301000.0,
+                    "expected_monthly_revenue_lkr": 1456000.0,
+                    "market_demand_score": 62.5,
+                    "competition_mitigation_score": 3.5,
+                    "resource_availability_score": 3.8,
+                    "location_suitability_score": 3.0,
+                    "implementation_difficulty": 3.2,
+                    "risk_level": "Medium",
+                    "shap_risk_addressed": "Capitalizes on existing customer base to maximize revenue throughput."
+                },
+                {
+                    "strategy_id": "S2",
+                    "title": "High-Margin Product Line Diversification (Grocery/Mini-Mart)",
+                    "description": "Introduce premium, high-margin product offerings or complementary services targeting affluent local customer segments.",
+                    "strategy_type": "Product Diversification",
+                    "initial_investment_lkr": 33000.0,
+                    "monthly_operating_cost_lkr": 178000.0,
+                    "expected_monthly_revenue_lkr": 1352000.0,
+                    "market_demand_score": 57.49999999999999,
+                    "competition_mitigation_score": 4.5,
+                    "resource_availability_score": 4.2,
+                    "location_suitability_score": 3.0,
+                    "implementation_difficulty": 2.2,
+                    "risk_level": "Low-Medium",
+                    "shap_risk_addressed": "Mitigates high competition by creating a differentiated, higher-margin product category."
+                },
+                {
+                    "strategy_id": "S3",
+                    "title": "Omnichannel E-Commerce & Subscription Hub (Grocery/Mini-Mart)",
+                    "description": "Launch an online store and recurring subscription delivery model for existing repeat customers in Colombo.",
+                    "strategy_type": "Omnichannel Digital",
+                    "initial_investment_lkr": 22000.0,
+                    "monthly_operating_cost_lkr": 111000.0,
+                    "expected_monthly_revenue_lkr": 1352000.0,
+                    "market_demand_score": 65.0,
+                    "competition_mitigation_score": 4.0,
+                    "resource_availability_score": 4.5,
+                    "location_suitability_score": 3.5,
+                    "implementation_difficulty": 2.0,
+                    "risk_level": "Low",
+                    "shap_risk_addressed": "Expands geographic reach beyond physical location constraints with minimal capital outlay."
+                },
+                {
+                    "strategy_id": "S4",
+                    "title": "Secondary Express Satellite Branch (Grocery/Mini-Mart)",
+                    "description": "Open a compact express satellite outlet in a neighboring high-density suburban sub-district.",
+                    "strategy_type": "Multi-Branch Growth",
+                    "initial_investment_lkr": 67000.0,
+                    "monthly_operating_cost_lkr": 267000.0,
+                    "expected_monthly_revenue_lkr": 1560000.0,
+                    "market_demand_score": 67.5,
+                    "competition_mitigation_score": 3.2,
+                    "resource_availability_score": 3.2,
+                    "location_suitability_score": 3.5,
+                    "implementation_difficulty": 4.0,
+                    "risk_level": "Medium-High",
+                    "shap_risk_addressed": "Drives aggressive growth but requires strict staff and capital management."
+                }
+            ]
+        },
+        {
+            "case_id": "TEST_CASE_11",
+            "input_profile": {
+                "business_stage": "New",
+                "business_category": "Grocery/Mini-Mart",
+                "district": "Colombo",
+                "province": "Western",
+                "location_type": "Suwapudugama",
+                "proposed_action": "start",
+                "available_capital_lkr": 339000,
+                "loan_amount_lkr": 0,
+                "monthly_budget_lkr": 295375,
+                "initial_inventory_cost_lkr": 120000,
+                "expected_price_lkr": 2559,
+                "expected_customers_per_day": 44,
+                "competition_level": "Low",
+                "customer_demand_score": 76,
+                "expected_operating_days_per_month": 27,
+                "entrepreneur_experience_years": 2,
+                "location_suitability_score": 4,
+                "available_staff_count": 0,
+                "required_staff_count": 2,
+                "available_equipment_score": 2,
+                "required_equipment_score": 2,
+                "supplier_availability_score": 4
+            },
+            "prediction": {
+                "predicted_class": "Conditionally Feasible",
+                "probabilities": {
+                    "Conditionally Feasible": 0.83,
+                    "Feasible": 0.035,
+                    "Infeasible": 0.135
+                }
+            },
+            "candidate_strategies": [
+                {
+                    "strategy_id": "S1",
+                    "title": "Standard Physical Commercial Setup (Grocery/Mini-Mart)",
+                    "description": "Establish a full-scale physical retail/commercial storefront in Suwapudugama.",
+                    "strategy_type": "Standard Physical",
+                    "initial_investment_lkr": 339000.0,
+                    "monthly_operating_cost_lkr": 295000.0,
+                    "expected_monthly_revenue_lkr": 2927000.0,
+                    "market_demand_score": 76.0,
+                    "competition_mitigation_score": 4.0,
+                    "resource_availability_score": 3.5,
+                    "location_suitability_score": 4.0,
+                    "implementation_difficulty": 3.5,
+                    "risk_level": "Medium",
+                    "shap_risk_addressed": "Provides maximum physical visibility but requires high capital outlay."
+                },
+                {
+                    "strategy_id": "S2",
+                    "title": "Lean Micro-Setup & Local Delivery (Grocery/Mini-Mart)",
+                    "description": "Start with a low-overhead home/cloud setup leveraging social media, WhatsApp orders, and localized Sri Lankan delivery.",
+                    "strategy_type": "Lean & Digital",
+                    "initial_investment_lkr": 153000.0,
+                    "monthly_operating_cost_lkr": 118000.0,
+                    "expected_monthly_revenue_lkr": 1734000.0,
+                    "market_demand_score": 64.6,
+                    "competition_mitigation_score": 4.2,
+                    "resource_availability_score": 4.5,
+                    "location_suitability_score": 3.6,
+                    "implementation_difficulty": 1.8,
+                    "risk_level": "Low",
+                    "shap_risk_addressed": "Mitigates high initial capital shortage and loan dependency by reducing fixed overhead by 55%."
+                },
+                {
+                    "strategy_id": "S3",
+                    "title": "Pre-Order & Wholesale Supply Partnership (Grocery/Mini-Mart)",
+                    "description": "Partner with established local mini-marts, offices, or wholesale distributors on a pre-order contract basis.",
+                    "strategy_type": "B2B Partnership",
+                    "initial_investment_lkr": 237000.0,
+                    "monthly_operating_cost_lkr": 192000.0,
+                    "expected_monthly_revenue_lkr": 3220000.0,
+                    "market_demand_score": 83.60000000000001,
+                    "competition_mitigation_score": 3.8,
+                    "resource_availability_score": 4.0,
+                    "location_suitability_score": 3.5,
+                    "implementation_difficulty": 2.8,
+                    "risk_level": "Low-Medium",
+                    "shap_risk_addressed": "Bypasses retail location dependence by securing guaranteed B2B order volumes."
+                },
+                {
+                    "strategy_id": "S4",
+                    "title": "Shared Retail Kiosk / Pop-Up Franchise (Grocery/Mini-Mart)",
+                    "description": "Rent a micro-kiosk or shared counter space within a high-footfall commercial center or supermarket hub.",
+                    "strategy_type": "Micro Kiosk",
+                    "initial_investment_lkr": 271000.0,
+                    "monthly_operating_cost_lkr": 222000.0,
+                    "expected_monthly_revenue_lkr": 3513000.0,
+                    "market_demand_score": 91.2,
+                    "competition_mitigation_score": 3.0,
+                    "resource_availability_score": 3.8,
+                    "location_suitability_score": 5.0,
+                    "implementation_difficulty": 2.5,
+                    "risk_level": "Medium",
+                    "shap_risk_addressed": "Overcomes poor location suitability score by co-locating inside high-demand commercial clusters."
+                }
+            ]
+        }
+    ],
+    "criteria_definitions": {
+        "initial_investment_lkr": {
+            "type": "cost",
+            "label": "Initial Investment (LKR)"
+        },
+        "monthly_operating_cost_lkr": {
+            "type": "cost",
+            "label": "Monthly Operating Cost (LKR)"
+        },
+        "expected_monthly_revenue_lkr": {
+            "type": "benefit",
+            "label": "Expected Monthly Revenue (LKR)"
+        },
+        "market_demand_score": {
+            "type": "benefit",
+            "label": "Market Demand Score (1-100)"
+        },
+        "competition_mitigation_score": {
+            "type": "benefit",
+            "label": "Competition Mitigation Score (1-5)"
+        },
+        "resource_availability_score": {
+            "type": "benefit",
+            "label": "Resource Availability Score (1-5)"
+        },
+        "location_suitability_score": {
+            "type": "benefit",
+            "label": "Location Suitability Score (1-5)"
+        },
+        "implementation_difficulty": {
+            "type": "cost",
+            "label": "Implementation Difficulty (1-5)"
+        }
+    }
+}

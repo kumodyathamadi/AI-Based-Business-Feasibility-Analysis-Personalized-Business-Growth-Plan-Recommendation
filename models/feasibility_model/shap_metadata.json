@@ -1,0 +1,297 @@
+{
+    "shap_version": "0.52.0",
+    "classes": [
+        "Conditionally Feasible",
+        "Feasible",
+        "Infeasible"
+    ],
+    "expected_values": [
+        0.3353630952380954,
+        0.3337500000000001,
+        0.3308869047619048
+    ],
+    "total_features": 76,
+    "clean_feature_mapping": {
+        "num__available_capital_lkr": "Available Capital (LKR)",
+        "num__loan_amount_lkr": "Requested Loan Amount (LKR)",
+        "num__monthly_budget_lkr": "Monthly Operating Budget (LKR)",
+        "num__initial_inventory_cost_lkr": "Initial Inventory Cost (LKR)",
+        "num__expected_price_lkr": "Expected Product Price (LKR)",
+        "num__expected_customers_per_day": "Expected Daily Customers",
+        "num__customer_demand_score": "Customer Demand Score (1-100)",
+        "num__expected_operating_days_per_month": "Operating Days / Month",
+        "num__entrepreneur_experience_years": "Entrepreneur Experience (Years)",
+        "num__location_suitability_score": "Location Suitability Score (1-5)",
+        "num__available_staff_count": "Available Staff Count",
+        "num__required_staff_count": "Required Staff Count",
+        "num__available_equipment_score": "Available Equipment Score (1-5)",
+        "num__required_equipment_score": "Required Equipment Score (1-5)",
+        "num__supplier_availability_score": "Supplier Availability Score (1-5)",
+        "cat__business_stage_Existing": "Business Stage Existing",
+        "cat__business_stage_New": "Business Stage New",
+        "cat__business_category_Bakery/Food/Grocery": "Business Category Bakery/Food/Grocery",
+        "cat__business_category_Beauty Saloon": "Business Category Beauty Saloon",
+        "cat__business_category_Clothing/ Garment": "Business Category Clothing/ Garment",
+        "cat__business_category_Grocery/Mini-Mart": "Business Category Grocery/Mini-Mart",
+        "cat__district_Colombo": "District Colombo",
+        "cat__province_Western": "Province Western",
+        "cat__location_type_Ambalangoda": "Location Type Ambalangoda",
+        "cat__location_type_Arukwatta": "Location Type Arukwatta",
+        "cat__location_type_Bope": "Location Type Bope",
+        "cat__location_type_Brahamnagama": "Location Type Brahamnagama",
+        "cat__location_type_Diyagama": "Location Type Diyagama",
+        "cat__location_type_Dolahena": "Location Type Dolahena",
+        "cat__location_type_Godagama": "Location Type Godagama",
+        "cat__location_type_Habarakada": "Location Type Habarakada",
+        "cat__location_type_Henpita": "Location Type Henpita",
+        "cat__location_type_Henpitiya": "Location Type Henpitiya",
+        "cat__location_type_Henwattha": "Location Type Henwattha",
+        "cat__location_type_Hiripitiya": "Location Type Hiripitiya",
+        "cat__location_type_Jalthara": "Location Type Jalthara",
+        "cat__location_type_Kahathuduwa": "Location Type Kahathuduwa",
+        "cat__location_type_Kiriwattuduwa": "Location Type Kiriwattuduwa",
+        "cat__location_type_Kosgama": "Location Type Kosgama",
+        "cat__location_type_Kottawa": "Location Type Kottawa",
+        "cat__location_type_Malwana": "Location Type Malwana",
+        "cat__location_type_Mambulgoda": "Location Type Mambulgoda",
+        "cat__location_type_Mattegoda": "Location Type Mattegoda",
+        "cat__location_type_Meegasmulla": "Location Type Meegasmulla",
+        "cat__location_type_Meegoda": "Location Type Meegoda",
+        "cat__location_type_Meepe": "Location Type Meepe",
+        "cat__location_type_Mullegama": "Location Type Mullegama",
+        "cat__location_type_Nawagamuwa": "Location Type Nawagamuwa",
+        "cat__location_type_Ovitigama": "Location Type Ovitigama",
+        "cat__location_type_Pahala Hanwella": "Location Type Pahala Hanwella",
+        "cat__location_type_Palagama": "Location Type Palagama",
+        "cat__location_type_Panagoda": "Location Type Panagoda",
+        "cat__location_type_Panaluwa": "Location Type Panaluwa",
+        "cat__location_type_Pitipana": "Location Type Pitipana",
+        "cat__location_type_Pitumpe": "Location Type Pitumpe",
+        "cat__location_type_Polgasowita": "Location Type Polgasowita",
+        "cat__location_type_Prasannanpura": "Location Type Prasannanpura",
+        "cat__location_type_Puswelikanda": "Location Type Puswelikanda",
+        "cat__location_type_Puwakpitiya": "Location Type Puwakpitiya",
+        "cat__location_type_Ranala": "Location Type Ranala",
+        "cat__location_type_Siddamulla": "Location Type Siddamulla",
+        "cat__location_type_Siyambalagoda": "Location Type Siyambalagoda",
+        "cat__location_type_Suwapudugama": "Location Type Suwapudugama",
+        "cat__location_type_Thalduwa": "Location Type Thalduwa",
+        "cat__location_type_Udagama": "Location Type Udagama",
+        "cat__location_type_Uduwana": "Location Type Uduwana",
+        "cat__location_type_Waga": "Location Type Waga",
+        "cat__location_type_Watareka": "Location Type Watareka",
+        "cat__location_type_Weniwelkola": "Location Type Weniwelkola",
+        "cat__proposed_action_expand": "Proposed Action Expand",
+        "cat__proposed_action_improve": "Proposed Action Improve",
+        "cat__proposed_action_maintain": "Proposed Action Maintain",
+        "cat__proposed_action_start": "Proposed Action Start",
+        "cat__competition_level_High": "Competition Level High",
+        "cat__competition_level_Low": "Competition Level Low",
+        "cat__competition_level_Medium": "Competition Level Medium"
+    },
+    "top_global_features": [
+        {
+            "Raw Feature": "num__available_capital_lkr",
+            "Feature Name": "Available Capital (LKR)",
+            "Mean |SHAP|": 0.10142395140388269
+        },
+        {
+            "Raw Feature": "num__loan_amount_lkr",
+            "Feature Name": "Requested Loan Amount (LKR)",
+            "Mean |SHAP|": 0.0672195279988294
+        },
+        {
+            "Raw Feature": "num__customer_demand_score",
+            "Feature Name": "Customer Demand Score (1-100)",
+            "Mean |SHAP|": 0.04161451219590166
+        },
+        {
+            "Raw Feature": "num__available_equipment_score",
+            "Feature Name": "Available Equipment Score (1-5)",
+            "Mean |SHAP|": 0.029974501563957947
+        },
+        {
+            "Raw Feature": "num__available_staff_count",
+            "Feature Name": "Available Staff Count",
+            "Mean |SHAP|": 0.02552098593917579
+        },
+        {
+            "Raw Feature": "num__initial_inventory_cost_lkr",
+            "Feature Name": "Initial Inventory Cost (LKR)",
+            "Mean |SHAP|": 0.02165710150842608
+        },
+        {
+            "Raw Feature": "num__monthly_budget_lkr",
+            "Feature Name": "Monthly Operating Budget (LKR)",
+            "Mean |SHAP|": 0.021620992880824218
+        },
+        {
+            "Raw Feature": "num__expected_customers_per_day",
+            "Feature Name": "Expected Daily Customers",
+            "Mean |SHAP|": 0.02098828619356659
+        },
+        {
+            "Raw Feature": "cat__business_stage_New",
+            "Feature Name": "Business Stage New",
+            "Mean |SHAP|": 0.020944500313338603
+        },
+        {
+            "Raw Feature": "cat__proposed_action_start",
+            "Feature Name": "Proposed Action Start",
+            "Mean |SHAP|": 0.02082808406985848
+        },
+        {
+            "Raw Feature": "cat__business_stage_Existing",
+            "Feature Name": "Business Stage Existing",
+            "Mean |SHAP|": 0.01843936920388928
+        },
+        {
+            "Raw Feature": "num__required_staff_count",
+            "Feature Name": "Required Staff Count",
+            "Mean |SHAP|": 0.017247918769171817
+        },
+        {
+            "Raw Feature": "num__location_suitability_score",
+            "Feature Name": "Location Suitability Score (1-5)",
+            "Mean |SHAP|": 0.01379298489730116
+        },
+        {
+            "Raw Feature": "num__required_equipment_score",
+            "Feature Name": "Required Equipment Score (1-5)",
+            "Mean |SHAP|": 0.012556506567177213
+        },
+        {
+            "Raw Feature": "num__expected_price_lkr",
+            "Feature Name": "Expected Product Price (LKR)",
+            "Mean |SHAP|": 0.011072414570688152
+        }
+    ],
+    "class_specific_drivers": {
+        "Conditionally Feasible": [
+            {
+                "Feature": "Available Capital (LKR)",
+                "Conditionally Feasible": 0.08697048680857511
+            },
+            {
+                "Feature": "Customer Demand Score (1-100)",
+                "Conditionally Feasible": 0.047256436956554064
+            },
+            {
+                "Feature": "Requested Loan Amount (LKR)",
+                "Conditionally Feasible": 0.04327134029202029
+            },
+            {
+                "Feature": "Available Equipment Score (1-5)",
+                "Conditionally Feasible": 0.041723260551053035
+            },
+            {
+                "Feature": "Available Staff Count",
+                "Conditionally Feasible": 0.03785669534842013
+            },
+            {
+                "Feature": "Proposed Action Start",
+                "Conditionally Feasible": 0.028070580293959417
+            },
+            {
+                "Feature": "Business Stage New",
+                "Conditionally Feasible": 0.026491207434490176
+            },
+            {
+                "Feature": "Expected Daily Customers",
+                "Conditionally Feasible": 0.024937004497613657
+            },
+            {
+                "Feature": "Business Stage Existing",
+                "Conditionally Feasible": 0.024337398379047834
+            },
+            {
+                "Feature": "Required Staff Count",
+                "Conditionally Feasible": 0.01919559378551908
+            }
+        ],
+        "Feasible": [
+            {
+                "Feature": "Available Capital (LKR)",
+                "Feasible": 0.068336517955107
+            },
+            {
+                "Feature": "Customer Demand Score (1-100)",
+                "Feasible": 0.06181622040848705
+            },
+            {
+                "Feature": "Requested Loan Amount (LKR)",
+                "Feasible": 0.05952667924209813
+            },
+            {
+                "Feature": "Available Equipment Score (1-5)",
+                "Feasible": 0.043935573684051654
+            },
+            {
+                "Feature": "Available Staff Count",
+                "Feasible": 0.03552247461999897
+            },
+            {
+                "Feature": "Business Stage New",
+                "Feasible": 0.03117174145412097
+            },
+            {
+                "Feature": "Proposed Action Start",
+                "Feasible": 0.030643186569057606
+            },
+            {
+                "Feature": "Expected Daily Customers",
+                "Feasible": 0.029562790532049153
+            },
+            {
+                "Feature": "Business Stage Existing",
+                "Feasible": 0.0272923550578202
+            },
+            {
+                "Feature": "Initial Inventory Cost (LKR)",
+                "Feasible": 0.0266321355279476
+            }
+        ],
+        "Infeasible": [
+            {
+                "Feature": "Available Capital (LKR)",
+                "Infeasible": 0.14896484944796595
+            },
+            {
+                "Feature": "Requested Loan Amount (LKR)",
+                "Infeasible": 0.0988605644623698
+            },
+            {
+                "Feature": "Monthly Operating Budget (LKR)",
+                "Infeasible": 0.027029109347476064
+            },
+            {
+                "Feature": "Initial Inventory Cost (LKR)",
+                "Infeasible": 0.026072680272368434
+            },
+            {
+                "Feature": "Location Suitability Score (1-5)",
+                "Infeasible": 0.019611819284175446
+            },
+            {
+                "Feature": "Customer Demand Score (1-100)",
+                "Infeasible": 0.015770879222663837
+            },
+            {
+                "Feature": "Expected Product Price (LKR)",
+                "Infeasible": 0.010846862529397708
+            },
+            {
+                "Feature": "Expected Daily Customers",
+                "Infeasible": 0.008465063551036968
+            },
+            {
+                "Feature": "Business Category Grocery/Mini-Mart",
+                "Infeasible": 0.008137247178867199
+            },
+            {
+                "Feature": "Business Category Beauty Saloon",
+                "Infeasible": 0.006879007008333213
+            }
+        ]
+    }
+}

@@ -1,0 +1,1201 @@
+case_id,business_stage,business_category,business_description,district,province,location_type,proposed_action,available_capital_lkr,loan_amount_lkr,monthly_budget_lkr,initial_inventory_cost_lkr,expected_price_lkr,expected_customers_per_day,competition_level,customer_demand_score,expected_operating_days_per_month,feasibility_label,entrepreneur_experience_years,location_suitability_score,available_staff_count,required_staff_count,available_equipment_score,required_equipment_score,supplier_availability_score
+C00001,New,Grocery/Mini-Mart,Rise selling,Colombo,Western,Diyagama,start,730108,0,185000,54180,2170,10,High,56,25,Conditionally Feasible,1,2,1,0,1,1,4
+C00002,New,Grocery/Mini-Mart,Spices,Colombo,Western,Siyambalagoda,start,97238,28234,271491,115520,1311,45,High,54,26,Infeasible,1,2,0,2,1,2,4
+C00003,New,Grocery/Mini-Mart,Baking Bread & sweets,Colombo,Western,Habarakada,start,213530,0,185000,65328,2151,10,Medium,91,27,Conditionally Feasible,5,4,1,0,1,1,4
+C00004,New,Grocery/Mini-Mart,Tea selling,Colombo,Western,Jalthara,start,208402,20000,185804,107232,3000,12,Low,67,27,Conditionally Feasible,0,4,1,0,2,2,4
+C00005,New,Grocery/Mini-Mart,Cool Drinks,Colombo,Western,Siyambalagoda,start,187575,37931,274018,135896,1549,32,High,83,27,Conditionally Feasible,0,4,0,1,1,2,4
+C00006,New,Grocery/Mini-Mart,Spices,Colombo,Western,Brahamnagama,start,64737,0,340730,142547,2340,23,Low,54,27,Infeasible,3,3,1,1,1,2,4
+C00007,New,Grocery/Mini-Mart,Spices,Colombo,Western,Siddamulla,start,22428,0,230458,95000,1903,23,Low,85,24,Infeasible,5,4,0,1,1,2,4
+C00008,New,Grocery/Mini-Mart,Spices,Colombo,Western,Kahathuduwa,start,167498,0,292421,176935,2731,58,Medium,77,26,Infeasible,2,4,0,3,1,3,4
+C00009,New,Grocery/Mini-Mart,Coconut Oil,Colombo,Western,Prasannanpura,start,318419,0,234101,70960,1444,32,Low,68,25,Conditionally Feasible,1,4,0,1,2,2,4
+C00010,New,Grocery/Mini-Mart,Grocery,Colombo,Western,Jalthara,start,229767,0,170828,49066,2000,18,Low,48,25,Conditionally Feasible,0,3,2,1,3,2,4
+C00011,New,Grocery/Mini-Mart,Spices,Colombo,Western,Uduwana,start,141157,33468,159797,124092,1551,38,Medium,61,26,Conditionally Feasible,0,3,2,2,2,2,4
+C00012,New,Grocery/Mini-Mart,Fruits & Sweets,Colombo,Western,Ambalangoda,start,160412,0,167909,45000,1315,18,High,68,27,Conditionally Feasible,2,3,0,1,1,2,4
+C00013,New,Grocery/Mini-Mart,Grocery,Colombo,Western,Dolahena,start,118014,0,78560,27401,262,37,High,77,27,Conditionally Feasible,1,3,0,2,1,2,4
+C00014,New,Grocery/Mini-Mart,Spices,Colombo,Western,Habarakada,start,33356,49492,300428,120000,2055,48,High,72,26,Infeasible,3,3,1,2,1,3,4
+C00015,New,Grocery/Mini-Mart,Spices,Colombo,Western,Habarakada,start,27543,30000,304085,117304,1326,57,Low,50,27,Infeasible,5,3,1,3,1,3,4
+C00016,New,Grocery/Mini-Mart,Vegetable & Fruits,Colombo,Western,Watareka,start,152321,0,142939,41676,500,60,Medium,61,27,Conditionally Feasible,1,3,0,3,1,3,4
+C00017,New,Grocery/Mini-Mart,Cake Products,Colombo,Western,Palagama,start,223776,20498,327871,160967,2731,30,Low,67,26,Conditionally Feasible,0,4,1,1,2,2,4
+C00018,New,Grocery/Mini-Mart,Spices,Colombo,Western,Henwattha,start,368197,0,117654,28328,770,15,High,79,26,Feasible,5,3,0,0,3,2,4
+C00019,New,Grocery/Mini-Mart,Food,Colombo,Western,Dolahena,start,162528,33539,320756,115000,2976,34,Medium,85,27,Infeasible,0,4,0,1,2,2,4
+C00020,New,Grocery/Mini-Mart,Food,Colombo,Western,Uduwana,start,171449,63539,280431,190000,2000,25,Low,61,27,Conditionally Feasible,0,4,1,1,2,2,4
+C00021,New,Grocery/Mini-Mart,Spices,Colombo,Western,Brahamnagama,start,321485,0,188365,133897,2171,26,High,77,27,Conditionally Feasible,1,3,0,1,1,2,4
+C00022,New,Grocery/Mini-Mart,Cake & Sweets,Colombo,Western,Kahathuduwa,start,27657,34384,181997,62233,608,45,Low,63,26,Infeasible,0,3,0,2,1,2,4
+C00023,New,Grocery/Mini-Mart,Coconut Sale,Colombo,Western,Pitipana,start,176054,29623,304573,140000,2277,64,High,86,26,Conditionally Feasible,1,4,2,3,2,3,4
+C00024,New,Grocery/Mini-Mart,Spices,Colombo,Western,Kahathuduwa,start,190560,0,92539,64903,759,23,Medium,76,24,Feasible,0,3,1,1,2,2,4
+C00025,New,Grocery/Mini-Mart,Grocery,Colombo,Western,Henpita,start,293330,0,262014,100029,1361,26,Low,69,26,Conditionally Feasible,0,3,1,1,2,2,4
+C00026,New,Grocery/Mini-Mart,Grocery,Colombo,Western,Watareka,start,18706,36000,201001,46320,721,35,High,62,24,Infeasible,0,3,1,1,2,2,4
+C00027,New,Grocery/Mini-Mart,Bakery,Colombo,Western,Meegoda,start,533088,0,164491,97690,1025,37,Medium,53,27,Conditionally Feasible,2,4,0,2,2,2,4
+C00028,New,Grocery/Mini-Mart,Mushroom,Colombo,Western,Henwattha,start,125383,0,243671,42616,763,20,Low,54,26,Infeasible,1,3,0,1,2,2,4
+C00029,New,Grocery/Mini-Mart,Mushroom,Colombo,Western,Diyagama,start,196385,0,110543,39989,480,44,Low,57,26,Conditionally Feasible,2,3,0,2,2,2,4
+C00030,New,Grocery/Mini-Mart,Spices,Colombo,Western,Mullegama,start,44026,42777,300000,181020,2698,28,Medium,58,25,Infeasible,0,3,0,1,1,2,4
+C00031,New,Grocery/Mini-Mart,Cake & Bakery Items,Colombo,Western,Mambulgoda,start,159113,23407,260000,96633,3000,12,Medium,84,24,Conditionally Feasible,0,4,0,0,2,2,4
+C00032,New,Grocery/Mini-Mart,Bite Products,Colombo,Western,Siddamulla,start,39063,26803,170000,73000,1598,17,Medium,79,25,Infeasible,0,4,0,1,2,2,4
+C00033,New,Grocery/Mini-Mart,Grocery,Colombo,Western,Weniwelkola,start,345522,0,90000,75893,614,39,Low,48,27,Conditionally Feasible,1,3,0,2,3,2,4
+C00034,New,Grocery/Mini-Mart,Bakery,Colombo,Western,Hiripitiya,start,170259,28167,337249,180133,1981,31,High,63,27,Infeasible,1,3,1,1,2,2,4
+C00035,New,Grocery/Mini-Mart,Grocery & Bathik Dress,Colombo,Western,Ovitigama,start,147343,20000,166838,41654,1785,10,Low,63,24,Conditionally Feasible,1,4,0,0,1,1,4
+C00036,New,Grocery/Mini-Mart,Food,Colombo,Western,Pitipana,start,242812,20000,208310,172589,1438,39,High,77,26,Conditionally Feasible,0,3,0,2,1,2,4
+C00037,New,Grocery/Mini-Mart,Restaurant,Colombo,Western,Habarakada,start,205333,20001,218676,122330,1115,44,Medium,85,24,Conditionally Feasible,1,4,0,2,3,2,4
+C00038,New,Grocery/Mini-Mart,Spices,Colombo,Western,Pitipana,start,439955,0,94451,33567,293,46,Low,63,26,Conditionally Feasible,2,4,1,2,3,3,4
+C00039,New,Grocery/Mini-Mart,Grocery & Rice Shop,Colombo,Western,Panaluwa,start,481972,0,205311,31901,463,42,Low,54,25,Conditionally Feasible,0,3,0,2,1,2,4
+C00040,New,Grocery/Mini-Mart,"Sweets , Bites , Tea",Colombo,Western,Habarakada,start,73100,109547,138302,116621,1273,19,High,66,27,Conditionally Feasible,2,3,0,1,1,2,4
+C00041,New,Grocery/Mini-Mart,Grocery,Colombo,Western,Meegasmulla,start,293867,0,87117,37715,1405,13,Medium,77,26,Conditionally Feasible,0,4,0,0,1,2,4
+C00042,New,Grocery/Mini-Mart,Grocery,Colombo,Western,Panaluwa,start,255802,0,64699,23000,397,23,Low,75,25,Conditionally Feasible,3,4,0,1,2,2,4
+C00043,New,Grocery/Mini-Mart,Spices,Colombo,Western,Mattegoda,start,256027,25932,270000,118461,2026,27,High,84,27,Conditionally Feasible,1,4,0,1,2,2,4
+C00044,New,Grocery/Mini-Mart,Spices,Colombo,Western,Ovitigama,start,196923,30000,311917,139943,1535,40,Medium,70,27,Conditionally Feasible,1,4,0,2,2,2,4
+C00045,New,Grocery/Mini-Mart,Cocacola Distributions,Colombo,Western,Siyambalagoda,start,586884,0,338361,173042,1200,43,Low,86,25,Conditionally Feasible,1,4,1,2,3,2,4
+C00046,New,Grocery/Mini-Mart,Grocery,Colombo,Western,Prasannanpura,start,110873,33299,310000,205708,2649,30,Medium,64,27,Infeasible,0,3,0,1,2,2,4
+C00047,New,Grocery/Mini-Mart,Coconut Products,Colombo,Western,Watareka,start,297856,0,310201,205000,3000,19,High,87,26,Conditionally Feasible,0,3,0,1,2,2,4
+C00048,New,Grocery/Mini-Mart,Food,Colombo,Western,Mattegoda,start,154339,0,195000,34522,707,23,Medium,68,27,Conditionally Feasible,1,5,1,1,3,2,4
+C00049,New,Grocery/Mini-Mart,Eggs,Colombo,Western,Weniwelkola,start,48810,70520,343460,163098,1399,35,High,81,26,Infeasible,0,4,0,1,1,2,4
+C00050,New,Grocery/Mini-Mart,Food,Colombo,Western,Polgasowita,start,209934,45924,306707,129372,2046,74,Low,58,25,Conditionally Feasible,1,4,0,3,2,3,4
+C00051,New,Grocery/Mini-Mart,Coconut,Colombo,Western,Meegoda,start,396890,0,228119,43839,710,37,Medium,78,24,Conditionally Feasible,2,5,0,2,1,2,4
+C00052,New,Grocery/Mini-Mart,Spices & Processed foods,Colombo,Western,Kahathuduwa,start,265385,0,213034,75000,678,49,High,52,24,Conditionally Feasible,3,2,2,2,2,3,4
+C00053,New,Grocery/Mini-Mart,Food,Colombo,Western,Meegoda,start,72967,36232,183348,45000,1720,20,Low,82,26,Conditionally Feasible,2,5,0,1,1,2,4
+C00054,New,Grocery/Mini-Mart,Grocery,Colombo,Western,Diyagama,start,113755,48154,248065,130000,2580,19,Low,52,25,Infeasible,2,3,1,1,1,2,4
+C00055,New,Grocery/Mini-Mart,Cake,Colombo,Western,Meegoda,start,103247,44663,341427,167920,1927,43,Low,62,27,Infeasible,0,4,0,2,1,2,4
+C00056,New,Grocery/Mini-Mart,Pizza & Spices,Colombo,Western,Panagoda,start,426913,0,318626,100637,1609,29,Medium,64,24,Feasible,2,4,1,1,2,2,4
+C00057,New,Grocery/Mini-Mart,Spices,Colombo,Western,Pitipana,start,129360,26796,166578,135000,1788,30,Low,60,26,Conditionally Feasible,3,4,2,1,1,2,4
+C00058,New,Grocery/Mini-Mart,Restaurant,Colombo,Western,Panaluwa,start,535570,0,213550,125213,1000,63,Medium,75,27,Conditionally Feasible,1,3,0,3,1,3,4
+C00059,New,Grocery/Mini-Mart,Spices,Colombo,Western,Kiriwattuduwa,start,224608,0,64857,29133,734,10,High,54,25,Conditionally Feasible,3,2,0,0,1,1,4
+C00060,New,Grocery/Mini-Mart,Food,Colombo,Western,Henpitiya,start,408090,0,224098,39000,292,50,High,60,26,Conditionally Feasible,1,3,0,2,1,3,4
+C00061,New,Grocery/Mini-Mart,Mushroom,Colombo,Western,Henwattha,start,76675,28796,261503,47647,1000,25,Medium,63,27,Infeasible,0,3,0,1,2,2,4
+C00062,New,Grocery/Mini-Mart,Sweets,Colombo,Western,Suwapudugama,start,174525,20001,207682,42992,2194,11,Low,70,24,Conditionally Feasible,2,4,2,0,2,1,4
+C00063,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Bope,start,457916,0,291520,160000,911,59,Low,67,27,Feasible,1,4,2,3,2,3,4
+C00064,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Ranala,start,720509,0,177623,150000,2000,36,Low,89,27,Conditionally Feasible,0,5,0,2,2,2,4
+C00065,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Thalduwa,start,66425,20652,334443,186887,3000,57,Medium,90,26,Infeasible,3,4,0,3,2,3,4
+C00066,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Godagama,start,330898,0,345000,116037,2850,20,Medium,55,25,Conditionally Feasible,0,4,1,1,2,2,4
+C00067,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Thalduwa,start,483035,0,150585,57117,1000,24,Medium,59,25,Conditionally Feasible,0,3,1,1,1,2,4
+C00068,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Henpita,start,287690,0,345000,130108,1974,28,Medium,51,26,Conditionally Feasible,3,3,1,1,1,2,4
+C00069,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Panagoda,start,817365,0,320550,190000,2237,61,Low,57,24,Conditionally Feasible,0,4,1,3,1,3,4
+C00070,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Meepe,start,5007,50000,292239,88927,2000,21,Low,74,27,Infeasible,1,4,0,1,1,2,4
+C00071,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Pahala Hanwella,start,716108,0,52760,23095,765,12,Medium,67,26,Feasible,0,3,2,0,3,2,4
+C00072,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Henpitiya,start,476719,0,254390,73570,1308,35,Medium,55,27,Conditionally Feasible,2,3,0,1,1,2,4
+C00073,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Bope,start,161183,33518,204847,87506,2334,28,Low,55,27,Conditionally Feasible,1,3,0,1,2,2,4
+C00074,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Godagama,start,329999,0,325744,102496,1971,23,Low,48,25,Conditionally Feasible,0,4,2,1,1,2,4
+C00075,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Henwattha,start,109085,24002,289070,123283,3000,49,Medium,48,27,Infeasible,2,2,1,2,2,3,4
+C00076,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Pitumpe,start,15048,98736,300000,166815,2704,35,Medium,78,27,Infeasible,5,4,1,1,3,2,4
+C00077,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Pitumpe,start,224424,28917,322602,205404,2902,52,Low,50,27,Conditionally Feasible,0,3,1,2,1,3,4
+C00078,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Ovitigama,start,21072,80000,312077,149862,1967,48,High,60,27,Infeasible,0,3,0,2,1,3,4
+C00079,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Nawagamuwa,start,3615,33301,238981,111230,1743,44,Medium,61,24,Infeasible,0,4,0,2,1,2,4
+C00080,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Panagoda,start,121583,86184,308667,208351,1612,40,Medium,69,27,Infeasible,2,4,1,2,2,2,4
+C00081,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Ambalangoda,start,403429,0,273486,90000,2273,21,High,62,24,Conditionally Feasible,3,3,0,1,2,2,4
+C00082,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Palagama,start,53949,57475,196617,60000,1839,22,High,56,26,Infeasible,3,3,1,1,2,2,4
+C00083,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Bope,start,323068,0,69688,17832,426,9,Medium,69,26,Feasible,0,3,2,0,1,1,4
+C00084,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Kottawa,start,150851,36456,298868,160004,3000,42,Medium,81,25,Infeasible,3,5,1,2,2,2,4
+C00085,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Meegasmulla,start,553618,0,344345,155452,1182,56,Low,71,26,Conditionally Feasible,1,4,1,3,2,3,4
+C00086,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Uduwana,start,702130,0,181305,53000,938,34,Low,70,27,Conditionally Feasible,1,4,1,1,1,2,4
+C00087,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Panaluwa,start,393944,0,319878,135187,2396,38,Low,63,24,Conditionally Feasible,1,4,1,2,1,2,4
+C00088,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Kottawa,start,474287,0,297754,180000,1791,44,High,86,27,Conditionally Feasible,0,4,2,2,1,2,4
+C00089,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Meepe,start,154584,20001,205000,23350,701,23,Low,73,26,Conditionally Feasible,2,4,3,1,1,2,4
+C00090,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Henpita,start,821144,0,161999,94226,2312,11,High,58,26,Feasible,2,3,0,0,1,1,4
+C00091,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Habarakada,start,124927,20001,94330,42922,648,26,Medium,54,26,Conditionally Feasible,2,3,0,1,1,2,4
+C00092,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Mullegama,start,179066,63028,293103,111580,2701,68,Medium,80,26,Conditionally Feasible,5,4,1,3,1,3,4
+C00093,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Dolahena,start,590214,0,290000,91838,1000,52,Medium,61,27,Conditionally Feasible,0,3,1,2,2,3,4
+C00094,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Weniwelkola,start,270225,0,157300,85000,2000,23,Low,84,24,Conditionally Feasible,0,4,0,1,1,2,4
+C00095,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Kottawa,start,87113,44236,289573,115214,2715,29,Low,74,24,Infeasible,0,5,0,1,1,2,4
+C00096,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Habarakada,start,297984,0,292360,210000,2000,43,Medium,58,24,Conditionally Feasible,2,3,0,2,2,2,4
+C00097,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Kiriwattuduwa,start,266329,20001,345573,170000,1815,39,Low,61,24,Conditionally Feasible,0,3,0,2,1,2,4
+C00098,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Pahala Hanwella,start,356492,0,251721,53355,1682,29,High,63,26,Conditionally Feasible,0,3,0,1,2,2,4
+C00099,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Siyambalagoda,start,92861,36190,162253,105422,1371,40,Low,63,24,Conditionally Feasible,1,3,0,2,2,2,4
+C00100,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Malwana,start,861363,0,127658,45911,1262,24,Medium,83,25,Conditionally Feasible,2,5,0,1,1,2,4
+C00101,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Suwapudugama,start,92640,20110,236984,75000,1049,46,High,68,26,Infeasible,2,3,1,2,2,3,4
+C00102,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Henpita,start,432166,0,278590,68000,2247,27,Low,67,26,Conditionally Feasible,0,4,0,1,1,2,4
+C00103,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Diyagama,start,118622,38632,320000,156650,2678,47,Low,86,25,Infeasible,1,4,0,2,2,3,4
+C00104,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Ranala,start,425061,0,162684,39541,404,50,Low,61,25,Conditionally Feasible,7,4,0,2,1,3,4
+C00105,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Nawagamuwa,start,82332,95000,330000,152546,2418,64,Low,64,26,Infeasible,0,5,1,3,1,3,4
+C00106,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Pahala Hanwella,start,116946,21000,138823,54552,2000,17,High,49,25,Conditionally Feasible,1,2,1,1,3,2,4
+C00107,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Ovitigama,start,163956,79945,299426,155000,2390,66,Medium,64,27,Conditionally Feasible,3,3,0,3,1,3,4
+C00108,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Puswelikanda,start,103383,20000,211998,54000,731,46,Medium,66,27,Conditionally Feasible,1,3,1,2,2,3,4
+C00109,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Meepe,start,27616,31363,110969,37000,791,33,High,76,26,Infeasible,1,3,0,1,2,2,4
+C00110,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Jalthara,start,454888,0,224240,71016,1194,17,Low,65,27,Conditionally Feasible,5,4,0,1,1,2,4
+C00111,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Meegasmulla,start,16869,35025,274226,77528,1887,35,High,53,25,Infeasible,1,3,0,1,1,2,4
+C00112,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Puwakpitiya,start,30311,54023,310062,179911,1003,45,Medium,95,26,Infeasible,2,4,2,2,1,2,4
+C00113,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Puwakpitiya,start,792773,0,210682,61703,1000,58,Low,85,27,Conditionally Feasible,5,4,0,3,2,3,4
+C00114,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Prasannanpura,start,129766,38000,295000,204362,2194,51,Low,61,26,Infeasible,0,3,0,2,1,3,4
+C00115,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Siyambalagoda,start,11692,68413,287956,195934,3000,24,Low,68,25,Infeasible,2,3,0,1,1,2,4
+C00116,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Waga,start,485808,0,183681,43549,2258,8,High,74,25,Feasible,1,3,0,0,2,1,4
+C00117,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Ovitigama,start,708600,0,310536,209177,1885,67,High,76,24,Conditionally Feasible,5,3,2,3,1,3,4
+C00118,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Jalthara,start,84015,59103,270975,133507,1481,40,Medium,86,27,Infeasible,0,4,2,2,1,2,4
+C00119,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Ambalangoda,start,839227,0,334904,211952,1456,52,Medium,78,26,Conditionally Feasible,1,4,0,2,2,3,4
+C00120,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Panagoda,start,185190,0,211126,81615,1988,16,Low,74,26,Conditionally Feasible,0,5,0,1,1,2,4
+C00121,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Habarakada,start,398226,0,235000,102522,1710,27,Medium,79,27,Conditionally Feasible,0,4,0,1,1,2,4
+C00122,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Pahala Hanwella,start,364906,0,199042,45569,814,20,Low,56,26,Conditionally Feasible,0,3,0,1,1,2,4
+C00123,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Kottawa,start,208110,24355,289057,135104,1805,30,High,77,25,Conditionally Feasible,1,4,0,1,1,2,4
+C00124,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Mullegama,start,96403,0,51088,38000,302,27,Low,67,25,Feasible,0,4,1,1,2,2,4
+C00125,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Ranala,start,38376,55125,320638,122119,969,50,Medium,81,24,Infeasible,1,5,0,2,1,3,4
+C00126,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Godagama,start,108140,32610,192233,71566,785,42,Low,72,27,Conditionally Feasible,2,5,1,2,1,2,4
+C00127,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Mattegoda,start,197469,56481,307359,201350,2000,50,High,79,27,Conditionally Feasible,1,5,0,2,2,3,4
+C00128,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Kahathuduwa,start,585640,0,140000,30848,398,29,High,68,26,Conditionally Feasible,0,3,0,1,3,2,4
+C00129,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Uduwana,start,313808,0,180000,138665,1715,30,High,74,25,Feasible,0,3,1,1,2,2,4
+C00130,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Malwana,start,249233,23698,333348,219719,3000,46,High,82,24,Conditionally Feasible,0,4,1,2,1,3,4
+C00131,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Kiriwattuduwa,start,444013,0,314191,94600,1395,52,Medium,55,27,Conditionally Feasible,1,3,2,2,1,3,4
+C00132,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Nawagamuwa,start,122152,20000,248126,59364,527,54,High,79,26,Conditionally Feasible,3,4,0,2,2,3,4
+C00133,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Weniwelkola,start,295140,20000,301817,112688,2000,52,Low,63,24,Conditionally Feasible,0,3,0,2,2,3,4
+C00134,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Godagama,start,21392,54790,303303,126664,2000,58,High,82,25,Infeasible,0,4,0,3,2,3,4
+C00135,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Udagama,start,311260,0,298533,124156,2992,24,Low,70,27,Conditionally Feasible,1,4,0,1,2,2,4
+C00136,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Pahala Hanwella,start,56466,46132,219047,62842,1835,14,Low,58,27,Infeasible,0,3,0,0,1,2,4
+C00137,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Siyambalagoda,start,60129,23547,308321,153647,2000,38,High,73,27,Infeasible,2,3,0,2,3,2,4
+C00138,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Mattegoda,start,776667,0,168822,97316,681,64,Low,63,27,Conditionally Feasible,1,4,2,3,1,3,4
+C00139,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Watareka,start,289053,0,130000,62644,811,26,High,87,25,Conditionally Feasible,1,4,0,1,2,2,4
+C00140,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Palagama,start,485820,0,163513,16263,793,13,Low,51,24,Conditionally Feasible,0,3,0,0,1,2,4
+C00141,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Dolahena,start,82523,20000,199737,80735,935,24,Medium,79,24,Infeasible,1,4,1,1,2,2,4
+C00142,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Udagama,start,472264,0,194694,114040,1338,40,Medium,87,27,Conditionally Feasible,2,4,0,2,1,2,4
+C00143,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Siddamulla,start,104105,80365,317185,185000,2401,47,Medium,70,24,Infeasible,2,3,0,2,2,3,4
+C00144,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Henpita,start,112782,81554,302198,133011,2462,26,Medium,75,24,Infeasible,3,3,1,1,1,2,4
+C00145,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Hiripitiya,start,459442,0,103676,34124,367,34,High,80,27,Feasible,0,3,1,1,2,2,4
+C00146,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Kiriwattuduwa,start,325339,0,343147,116411,2000,50,Low,74,24,Conditionally Feasible,2,4,0,2,2,3,4
+C00147,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Polgasowita,start,397453,0,118347,22000,478,16,Medium,81,26,Conditionally Feasible,1,5,0,1,1,2,4
+C00148,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Mattegoda,start,258429,0,172955,78000,1000,29,Medium,60,27,Conditionally Feasible,2,4,0,1,2,2,4
+C00149,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Meegoda,start,570530,0,83165,33113,566,21,Medium,75,27,Conditionally Feasible,0,5,0,1,1,2,4
+C00150,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Kosgama,start,191687,30575,342878,156623,2437,68,Low,72,26,Infeasible,0,5,1,3,2,3,4
+C00151,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Henpita,start,583206,0,112233,116551,2000,17,Low,51,26,Conditionally Feasible,1,3,0,1,3,2,4
+C00152,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Pitipana,start,700344,0,293307,99353,1264,32,High,84,27,Feasible,2,4,1,1,2,2,4
+C00153,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Nawagamuwa,start,271302,0,102399,18000,452,28,Low,54,26,Conditionally Feasible,0,4,1,1,1,2,4
+C00154,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Pitumpe,start,833813,0,305553,112012,2777,28,High,88,25,Conditionally Feasible,0,4,0,1,1,2,4
+C00155,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Siddamulla,start,145410,29838,304209,138706,2856,25,Low,61,27,Infeasible,0,4,1,1,2,2,4
+C00156,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Dolahena,start,265850,0,197413,34372,645,32,Low,55,25,Conditionally Feasible,2,3,0,1,2,2,4
+C00157,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Suwapudugama,start,339000,0,295375,120000,2559,44,Low,76,27,Conditionally Feasible,2,4,0,2,2,2,4
+C00158,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Diyagama,start,438611,0,295000,44505,1209,33,High,89,27,Conditionally Feasible,1,4,0,1,3,2,4
+C00159,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Ovitigama,start,200987,0,174388,104004,1876,23,Low,67,25,Conditionally Feasible,0,3,0,1,2,2,4
+C00160,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Ranala,start,176630,20000,207494,57339,1003,33,Low,54,25,Conditionally Feasible,1,4,0,1,1,2,4
+C00161,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Pahala Hanwella,start,467194,0,305061,92004,1268,43,High,89,26,Conditionally Feasible,1,4,0,2,1,2,4
+C00162,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Siyambalagoda,start,222017,0,124951,32836,1345,16,High,67,24,Conditionally Feasible,1,3,0,1,1,2,4
+C00163,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Nawagamuwa,start,483415,0,156526,142556,508,57,Low,68,24,Conditionally Feasible,7,4,1,3,1,3,4
+C00164,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Weniwelkola,start,404580,0,141187,131106,1000,32,Low,68,25,Conditionally Feasible,0,4,0,1,1,2,4
+C00165,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Arukwatta,start,475672,0,154040,42000,546,32,Low,60,24,Conditionally Feasible,0,3,2,1,1,2,4
+C00166,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Meegasmulla,start,341397,0,315000,211046,2572,54,Low,61,25,Conditionally Feasible,1,4,1,2,1,3,4
+C00167,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Panagoda,start,102129,35000,341206,195513,2841,53,Medium,60,27,Infeasible,0,4,1,2,2,3,4
+C00168,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Panagoda,start,405922,0,127914,38486,1567,10,Medium,63,25,Feasible,1,4,0,0,1,1,4
+C00169,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Kottawa,start,291292,0,250202,104568,2000,15,Low,77,24,Conditionally Feasible,1,5,2,0,2,2,4
+C00170,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Siddamulla,start,81532,20778,305437,197573,2703,59,Medium,65,25,Infeasible,1,3,1,3,1,3,4
+C00171,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Meegoda,start,767944,0,300000,216212,2725,62,High,68,24,Conditionally Feasible,2,4,1,3,1,3,4
+C00172,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Panagoda,start,789315,0,162878,26210,892,24,Low,75,27,Conditionally Feasible,2,5,0,1,2,2,4
+C00173,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Malwana,start,211700,23436,294033,125000,2166,31,Medium,83,26,Conditionally Feasible,1,5,0,1,1,2,4
+C00174,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Uduwana,start,353416,0,112908,68794,970,32,Low,53,25,Conditionally Feasible,1,3,0,1,1,2,4
+C00175,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Henpitiya,start,364688,0,155002,38957,2297,10,High,68,24,Feasible,0,3,1,0,2,1,4
+C00176,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Uduwana,start,84113,31432,115329,65515,830,21,Low,78,24,Conditionally Feasible,7,4,1,1,1,2,4
+C00177,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Kahathuduwa,start,454410,0,317001,172288,2310,39,Low,72,25,Conditionally Feasible,0,4,1,2,2,2,4
+C00178,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Malwana,start,478477,0,295000,180909,1220,58,Low,60,27,Conditionally Feasible,0,4,0,3,2,3,4
+C00179,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Ambalangoda,start,97404,75000,298648,204010,2579,34,High,60,25,Infeasible,0,3,2,1,1,2,4
+C00180,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Diyagama,start,136421,20000,260000,97973,2000,30,Low,80,27,Infeasible,0,4,0,1,2,2,4
+C00181,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Meepe,start,241154,0,116866,67816,1592,16,Medium,56,26,Conditionally Feasible,0,3,0,1,2,2,4
+C00182,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Suwapudugama,start,351922,0,285000,199135,2100,32,High,63,26,Conditionally Feasible,1,3,0,1,3,2,4
+C00183,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Malwana,start,264783,0,190421,51264,1000,31,Medium,83,27,Feasible,0,5,1,1,3,2,4
+C00184,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Kahathuduwa,start,38719,20000,177491,15338,263,16,Low,56,27,Infeasible,0,3,0,1,1,2,4
+C00185,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Siyambalagoda,start,432938,0,78954,28517,841,8,Medium,52,27,Conditionally Feasible,2,3,0,0,1,1,4
+C00186,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Watareka,start,546552,0,154954,68797,416,37,Low,74,27,Conditionally Feasible,0,4,0,2,3,2,4
+C00187,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Malwana,start,769166,0,140000,91671,689,48,Low,60,24,Conditionally Feasible,0,4,0,2,1,3,4
+C00188,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Kahathuduwa,start,113200,32342,208906,82000,2000,18,Low,63,26,Conditionally Feasible,1,3,0,1,2,2,4
+C00189,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Prasannanpura,start,650761,0,310000,140000,2000,38,Low,50,26,Conditionally Feasible,0,3,0,2,1,2,4
+C00190,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Mullegama,start,417897,0,120000,48740,301,50,Medium,62,25,Feasible,0,3,2,2,3,3,4
+C00191,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Palagama,start,48989,75403,270888,36482,680,32,High,70,24,Infeasible,2,3,1,1,1,2,4
+C00192,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Puwakpitiya,start,578882,0,128931,25419,899,12,Low,80,26,Feasible,3,4,0,0,3,2,4
+C00193,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Dolahena,start,175175,46000,301048,130000,1641,42,High,80,25,Conditionally Feasible,0,3,1,2,1,2,4
+C00194,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Ambalangoda,start,498735,0,96295,34137,1096,9,Medium,81,25,Feasible,0,4,0,0,1,1,4
+C00195,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Kiriwattuduwa,start,467351,0,210213,88563,1840,42,Medium,59,26,Conditionally Feasible,0,3,0,2,1,2,4
+C00196,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Habarakada,start,179491,28194,292075,135676,2787,47,High,83,24,Conditionally Feasible,1,3,0,2,1,3,4
+C00197,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Jalthara,start,331544,0,190706,110720,806,51,Low,72,26,Conditionally Feasible,0,4,0,2,1,3,4
+C00198,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Pahala Hanwella,start,343678,0,232869,48360,699,26,Low,87,26,Conditionally Feasible,0,4,0,1,2,2,4
+C00199,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Diyagama,start,397780,0,329613,200000,2070,37,Medium,58,24,Conditionally Feasible,2,3,0,2,2,2,4
+C00200,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Jalthara,start,228455,28415,310000,202907,3000,45,Low,52,24,Conditionally Feasible,1,3,2,2,2,2,4
+C00201,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Henpitiya,start,261727,20000,323551,215000,2270,63,Medium,93,26,Conditionally Feasible,0,4,1,3,1,3,4
+C00202,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Henwattha,start,203004,28481,308772,134212,1131,60,Low,81,25,Conditionally Feasible,5,4,0,3,2,3,4
+C00203,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Arukwatta,start,211939,0,305000,69794,1916,29,Low,81,24,Conditionally Feasible,1,4,0,1,2,2,4
+C00204,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Kottawa,start,522705,0,303629,163299,1533,62,Low,55,26,Conditionally Feasible,2,4,0,3,1,3,4
+C00205,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Watareka,start,710455,0,320037,132146,2089,52,Low,56,27,Conditionally Feasible,0,3,0,2,2,3,4
+C00206,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Watareka,start,383017,0,205977,208541,1430,58,Medium,69,24,Conditionally Feasible,0,3,0,3,1,3,4
+C00207,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Jalthara,start,294907,20000,240000,208073,2000,32,High,86,27,Conditionally Feasible,0,3,0,1,2,2,4
+C00208,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Meegoda,start,198597,20891,285000,80000,967,47,Medium,65,26,Conditionally Feasible,0,4,1,2,2,3,4
+C00209,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Panagoda,start,220455,20000,220000,115000,1000,48,Medium,82,26,Conditionally Feasible,3,5,0,2,1,3,4
+C00210,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Henwattha,start,431354,0,311000,214697,2205,45,Low,51,27,Conditionally Feasible,0,3,1,2,2,2,4
+C00211,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Arukwatta,start,675147,0,161837,51385,2336,17,Medium,74,24,Feasible,1,3,1,1,2,2,4
+C00212,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Suwapudugama,start,771665,0,345000,187394,1413,56,Low,47,24,Conditionally Feasible,0,3,1,3,1,3,4
+C00213,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Kiriwattuduwa,start,126055,74470,313085,188522,3000,40,Medium,65,26,Infeasible,0,3,1,2,1,2,4
+C00214,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Meepe,start,841689,0,340599,149503,2888,31,Low,62,27,Conditionally Feasible,1,4,0,1,2,2,4
+C00215,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Watareka,start,268974,0,139873,35688,895,25,Low,56,25,Conditionally Feasible,7,3,1,1,1,2,4
+C00216,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Polgasowita,start,102339,29247,313927,210000,3000,57,Medium,65,26,Infeasible,1,4,2,3,2,3,4
+C00217,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Puswelikanda,start,400110,0,139957,41248,1402,18,Low,68,24,Conditionally Feasible,2,4,0,1,1,2,4
+C00218,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Habarakada,start,447118,0,98334,17000,356,29,Low,72,27,Conditionally Feasible,0,4,1,1,1,2,4
+C00219,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Weniwelkola,start,468749,0,271914,121162,1254,47,Medium,74,27,Conditionally Feasible,7,3,0,2,1,3,4
+C00220,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Henwattha,start,273889,0,154280,96062,1000,24,High,91,25,Conditionally Feasible,0,4,0,1,2,2,4
+C00221,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Polgasowita,start,367968,0,295161,128886,2000,56,Low,89,27,Conditionally Feasible,1,5,2,3,1,3,4
+C00222,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Panagoda,start,562649,0,107238,31231,1138,12,Medium,55,24,Feasible,5,4,0,0,2,2,4
+C00223,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Godagama,start,642221,0,295510,108423,1917,46,Medium,65,27,Conditionally Feasible,1,4,1,2,1,3,4
+C00224,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Ovitigama,start,277139,0,87862,15923,421,15,Low,75,25,Conditionally Feasible,0,4,0,0,1,2,4
+C00225,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Diyagama,start,58708,79987,67774,57514,879,16,Low,56,24,Feasible,0,3,1,1,3,2,4
+C00226,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Meegasmulla,start,343612,0,307878,145193,2000,21,Low,60,25,Conditionally Feasible,2,4,0,1,2,2,4
+C00227,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Panaluwa,start,23781,37861,285955,113156,974,42,Low,80,26,Infeasible,3,4,1,2,2,2,4
+C00228,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Meegasmulla,start,112239,28030,290840,128047,2000,51,Low,74,25,Infeasible,1,4,0,2,1,3,4
+C00229,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Pahala Hanwella,start,677196,0,200000,68904,2000,18,High,57,24,Conditionally Feasible,2,3,0,1,1,2,4
+C00230,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Ovitigama,start,343885,0,331488,159295,1030,62,Low,56,24,Conditionally Feasible,2,3,1,3,1,3,4
+C00231,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Suwapudugama,start,736083,0,197025,41744,436,45,Low,65,25,Conditionally Feasible,0,3,0,2,3,2,4
+C00232,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Waga,start,403838,0,288999,124734,2116,56,High,79,27,Conditionally Feasible,0,4,0,3,3,3,4
+C00233,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Arukwatta,start,54805,24791,85000,32074,447,36,Medium,66,24,Conditionally Feasible,0,3,0,2,1,2,4
+C00234,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Suwapudugama,start,106283,30000,235925,140796,2600,19,Low,79,26,Infeasible,5,4,1,1,1,2,4
+C00235,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Mambulgoda,start,465370,0,151267,46729,904,19,High,77,24,Conditionally Feasible,1,3,1,1,1,2,4
+C00236,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Henwattha,start,590559,0,126650,51000,1613,8,Low,71,27,Feasible,1,4,1,0,2,1,4
+C00237,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Ranala,start,2724,47529,301234,143150,2440,22,Low,74,27,Infeasible,2,5,2,1,1,2,4
+C00238,New,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Ovitigama,start,779544,0,171200,22290,257,32,Low,76,25,Conditionally Feasible,0,4,0,1,3,2,4
+C00239,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Pitipana,start,405098,0,330000,120531,1689,61,Low,56,27,Conditionally Feasible,3,3,1,3,2,3,4
+C00240,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Habarakada,start,489762,0,142220,45671,784,30,Low,73,26,Conditionally Feasible,1,4,3,1,1,2,4
+C00241,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Arukwatta,start,692420,0,173514,54997,1134,12,Medium,82,25,Conditionally Feasible,1,4,1,0,1,2,4
+C00242,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Kosgama,start,287916,0,51140,30000,422,16,Low,63,26,Feasible,2,5,1,1,2,2,4
+C00243,New,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Puswelikanda,start,4199,58058,162924,43729,1048,26,Medium,68,25,Infeasible,2,3,1,1,1,2,4
+C00244,New,Grocery/Mini-Mart,home-based food production,Colombo,Western,Brahamnagama,start,193651,20001,154314,93950,2000,21,Medium,46,24,Conditionally Feasible,0,3,1,1,1,2,4
+C00245,New,Beauty Saloon,Saloon,Colombo,Western,Kahathuduwa,start,372794,0,164337,53972,2870,10,Low,64,26,Conditionally Feasible,0,4,0,0,1,2,4
+C00246,New,Beauty Saloon,Saloon,Colombo,Western,Kahathuduwa,start,313270,0,172045,51295,2162,12,Low,79,27,Conditionally Feasible,1,4,0,0,1,3,4
+C00247,New,Beauty Saloon,Saloon,Colombo,Western,Uduwana,start,449298,0,144724,30730,2295,16,Low,52,27,Conditionally Feasible,0,3,2,1,1,3,3
+C00248,New,Beauty Saloon,Saloon,Colombo,Western,Ambalangoda,start,683178,0,154351,52334,2291,16,Medium,58,27,Conditionally Feasible,1,3,0,1,1,3,4
+C00249,New,Beauty Saloon,Studio,Colombo,Western,Pitipana,start,438939,0,157851,40000,1788,18,Low,53,24,Conditionally Feasible,1,3,1,1,1,3,4
+C00250,New,Beauty Saloon,Saloon,Colombo,Western,Panagoda,start,388375,0,160511,34312,2135,9,Low,70,26,Feasible,2,5,2,0,2,2,4
+C00251,New,Beauty Saloon,Saloon,Colombo,Western,Arukwatta,start,695556,0,73445,47063,3483,3,High,76,27,Conditionally Feasible,5,3,0,0,1,2,3
+C00252,New,Beauty Saloon,Saloon,Colombo,Western,Kahathuduwa,start,335891,0,127631,22248,1000,9,Medium,59,24,Feasible,2,3,0,0,3,2,3
+C00253,New,Beauty Saloon,Saloon,Colombo,Western,Dolahena,start,281054,0,123561,54259,2542,11,High,53,25,Conditionally Feasible,1,2,1,0,1,2,4
+C00254,New,Beauty Saloon,Saloon,Colombo,Western,Habarakada,start,149260,0,121973,17489,813,12,Low,75,27,Conditionally Feasible,0,4,0,0,1,3,4
+C00255,New,Beauty Saloon,Saloon,Colombo,Western,Arukwatta,start,340768,0,80000,5558,682,9,High,66,27,Conditionally Feasible,0,3,0,0,1,2,3
+C00256,New,Beauty Saloon,Saloon,Colombo,Western,Waga,start,44654,30033,91937,34000,3156,11,Low,71,24,Conditionally Feasible,1,4,2,0,1,2,3
+C00257,New,Beauty Saloon,Saloon,Colombo,Western,Waga,start,373683,0,35782,9000,837,5,Medium,51,24,Conditionally Feasible,0,2,0,0,2,2,4
+C00258,New,Beauty Saloon,Saloon,Colombo,Western,Godagama,start,486946,0,145000,38000,729,8,Medium,71,26,Conditionally Feasible,0,4,0,0,2,2,4
+C00259,New,Beauty Saloon,Saloon,Colombo,Western,Puswelikanda,start,301095,0,116180,35383,1485,16,Low,40,26,Conditionally Feasible,0,3,2,1,3,3,3
+C00260,New,Beauty Saloon,Saloon,Colombo,Western,Udagama,start,153552,0,77647,18297,2169,6,Medium,76,26,Feasible,0,3,1,0,2,2,4
+C00261,New,Beauty Saloon,Saloon,Colombo,Western,Panagoda,start,166946,0,185121,30996,1648,19,High,42,27,Conditionally Feasible,2,3,1,1,2,3,4
+C00262,New,Beauty Saloon,Saloon,Colombo,Western,Udagama,start,671293,0,136547,54512,2156,12,High,82,26,Feasible,2,3,0,0,2,3,4
+C00263,New,Beauty Saloon,Saloon,Colombo,Western,Bope,start,415370,0,181520,54927,1490,17,Medium,70,27,Conditionally Feasible,3,3,0,1,1,3,3
+C00264,New,Beauty Saloon,Saloon,Colombo,Western,Henpitiya,start,243264,0,167764,43000,3000,19,Medium,46,24,Conditionally Feasible,1,3,0,1,2,3,3
+C00265,New,Beauty Saloon,Saloon,Colombo,Western,Meepe,start,101047,20001,166168,32411,2314,18,High,54,26,Conditionally Feasible,0,3,0,1,3,3,4
+C00266,New,Beauty Saloon,Saloon,Colombo,Western,Udagama,start,64810,33000,73689,34000,3182,7,Low,46,27,Conditionally Feasible,0,3,0,0,3,2,3
+C00267,New,Beauty Saloon,Saloon,Colombo,Western,Kahathuduwa,start,62999,31041,110625,29914,1025,14,Medium,66,26,Conditionally Feasible,0,3,1,1,2,3,3
+C00268,New,Beauty Saloon,Saloon,Colombo,Western,Puwakpitiya,start,146239,20000,170000,51244,2000,21,Medium,45,25,Conditionally Feasible,3,2,0,1,3,3,3
+C00269,New,Beauty Saloon,Saloon,Colombo,Western,Ovitigama,start,488922,0,185919,36000,3288,19,Low,60,27,Feasible,0,3,2,1,3,3,4
+C00270,New,Beauty Saloon,Saloon,Colombo,Western,Pahala Hanwella,start,431343,0,125792,45400,1145,24,Medium,58,27,Conditionally Feasible,0,3,0,1,2,3,4
+C00271,New,Beauty Saloon,Saloon,Colombo,Western,Malwana,start,131665,20000,182632,43689,3000,20,High,71,25,Conditionally Feasible,2,4,0,1,2,3,4
+C00272,New,Beauty Saloon,Saloon,Colombo,Western,Ovitigama,start,763332,0,173614,51892,3023,11,High,56,27,Feasible,0,3,2,0,2,2,4
+C00273,New,Beauty Saloon,Saloon,Colombo,Western,Henpita,start,220531,0,166606,28765,3495,12,Low,63,26,Conditionally Feasible,0,4,0,0,1,3,3
+C00274,New,Beauty Saloon,Saloon,Colombo,Western,Suwapudugama,start,150992,0,127279,52589,2000,10,Low,47,25,Conditionally Feasible,0,3,0,0,1,2,4
+C00275,New,Beauty Saloon,Saloon,Colombo,Western,Pitipana,start,91380,20000,113799,22488,1071,13,High,49,27,Conditionally Feasible,0,2,0,1,2,3,4
+C00276,New,Beauty Saloon,Saloon,Colombo,Western,Pahala Hanwella,start,325552,0,52180,10546,1824,2,Medium,48,27,Conditionally Feasible,0,2,0,0,1,2,3
+C00277,New,Beauty Saloon,Saloon,Colombo,Western,Kiriwattuduwa,start,99826,25280,192847,38055,3000,11,Medium,60,25,Conditionally Feasible,0,3,0,0,2,2,3
+C00278,New,Beauty Saloon,Saloon,Colombo,Western,Pitipana,start,27622,36585,139330,48722,1145,17,Low,44,25,Infeasible,0,3,1,1,1,3,4
+C00279,New,Beauty Saloon,Saloon,Colombo,Western,Palagama,start,372914,0,156434,30000,1521,20,Low,72,24,Conditionally Feasible,0,4,0,1,1,3,4
+C00280,New,Beauty Saloon,Saloon,Colombo,Western,Pitumpe,start,441925,0,132924,43536,2422,7,High,59,26,Conditionally Feasible,0,2,0,0,1,2,3
+C00281,New,Beauty Saloon,Saloon,Colombo,Western,Palagama,start,825900,0,120000,49958,2534,9,Low,71,26,Feasible,1,3,0,0,2,2,3
+C00282,New,Beauty Saloon,Saloon,Colombo,Western,Watareka,start,389186,0,155665,46442,2284,17,Low,73,25,Conditionally Feasible,1,4,0,1,2,3,3
+C00283,New,Beauty Saloon,Saloon,Colombo,Western,Ovitigama,start,277093,0,110000,45235,2332,9,Medium,76,27,Feasible,0,4,2,0,2,2,4
+C00284,New,Beauty Saloon,Saloon,Colombo,Western,Mattegoda,start,365646,0,170427,47000,3000,26,Medium,77,24,Conditionally Feasible,3,5,1,1,1,3,4
+C00285,New,Beauty Saloon,Saloon,Colombo,Western,Hiripitiya,start,449593,0,85732,38018,1987,8,Medium,41,24,Infeasible,1,2,0,0,3,2,3
+C00286,New,Beauty Saloon,Saloon,Colombo,Western,Henpita,start,323571,0,135846,27234,1000,14,Low,57,24,Feasible,5,3,1,1,3,3,4
+C00287,New,Beauty Saloon,Saloon,Colombo,Western,Prasannanpura,start,176538,0,93157,13699,1028,8,Medium,46,26,Conditionally Feasible,0,3,0,0,1,2,3
+C00288,New,Beauty Saloon,Saloon,Colombo,Western,Nawagamuwa,start,222615,0,193779,33058,3000,13,High,40,26,Conditionally Feasible,3,3,0,1,2,3,4
+C00289,New,Beauty Saloon,Saloon,Colombo,Western,Pitumpe,start,282980,0,189074,35820,3147,18,Medium,46,26,Conditionally Feasible,0,2,0,1,2,3,3
+C00290,New,Beauty Saloon,Saloon,Colombo,Western,Siyambalagoda,start,684731,0,174892,45097,1213,16,Low,75,24,Conditionally Feasible,2,4,0,1,2,3,3
+C00291,New,Beauty Saloon,Saloon,Colombo,Western,Puswelikanda,start,105996,20079,192128,51560,2839,19,High,47,26,Conditionally Feasible,5,2,1,1,1,3,4
+C00292,New,Beauty Saloon,Saloon,Colombo,Western,Watareka,start,81592,20001,186152,54000,2219,13,Medium,55,25,Infeasible,0,3,3,1,2,3,4
+C00293,New,Beauty Saloon,Saloon,Colombo,Western,Udagama,start,824435,0,108159,36264,2337,5,Low,53,27,Conditionally Feasible,0,3,1,0,2,2,3
+C00294,New,Beauty Saloon,Saloon,Colombo,Western,Hiripitiya,start,194434,0,119607,21610,2273,5,Low,77,25,Conditionally Feasible,2,4,0,0,1,2,4
+C00295,New,Beauty Saloon,Saloon,Colombo,Western,Puswelikanda,start,443551,0,185000,46458,2759,18,Low,54,25,Conditionally Feasible,0,3,0,1,2,3,4
+C00296,New,Beauty Saloon,Saloon,Colombo,Western,Mattegoda,start,267456,0,187976,48000,2676,16,Low,73,27,Conditionally Feasible,5,5,0,1,1,3,4
+C00297,New,Beauty Saloon,Saloon,Colombo,Western,Henpitiya,start,326962,0,150818,31163,2431,13,High,78,24,Feasible,0,3,1,1,2,3,3
+C00298,New,Beauty Saloon,Saloon,Colombo,Western,Thalduwa,start,408744,0,74000,16846,1000,5,Low,59,27,Conditionally Feasible,2,3,1,0,1,2,4
+C00299,New,Beauty Saloon,Saloon,Colombo,Western,Nawagamuwa,start,408921,0,168273,40788,2809,18,Low,53,27,Conditionally Feasible,1,4,0,1,2,3,4
+C00300,New,Beauty Saloon,Saloon,Colombo,Western,Ambalangoda,start,34480,39507,192356,40000,3079,18,Medium,75,24,Infeasible,2,3,1,1,3,3,3
+C00301,New,Beauty Saloon,Saloon,Colombo,Western,Henwattha,start,603608,0,169582,40812,3385,12,Medium,66,26,Conditionally Feasible,1,3,0,0,1,3,4
+C00302,New,Beauty Saloon,Saloon,Colombo,Western,Godagama,start,72769,43000,157254,35236,3213,7,Medium,46,25,Conditionally Feasible,0,4,1,0,2,2,4
+C00303,New,Beauty Saloon,Saloon,Colombo,Western,Kottawa,start,838408,0,105000,36432,2652,8,Medium,52,24,Conditionally Feasible,2,4,1,0,1,2,4
+C00304,New,Beauty Saloon,Saloon,Colombo,Western,Dolahena,start,144822,0,86000,15422,1773,3,Low,50,27,Conditionally Feasible,0,3,2,0,1,2,3
+C00305,New,Beauty Saloon,Saloon,Colombo,Western,Bope,start,308941,0,125788,22000,3000,3,Low,67,26,Feasible,0,4,0,0,2,2,3
+C00306,New,Beauty Saloon,Saloon,Colombo,Western,Weniwelkola,start,183473,0,115082,26309,1057,13,Low,52,27,Conditionally Feasible,2,3,1,1,2,3,4
+C00307,New,Beauty Saloon,Saloon,Colombo,Western,Prasannanpura,start,526868,0,104118,26919,2000,5,Medium,75,27,Conditionally Feasible,0,3,0,0,1,2,4
+C00308,New,Beauty Saloon,Saloon,Colombo,Western,Jalthara,start,138459,0,100492,30752,1481,8,Low,64,24,Conditionally Feasible,1,4,0,0,1,2,4
+C00309,New,Beauty Saloon,Saloon,Colombo,Western,Mattegoda,start,807358,0,159448,39979,3063,11,Low,67,24,Feasible,0,4,0,0,3,2,4
+C00310,New,Beauty Saloon,Saloon,Colombo,Western,Mullegama,start,155152,0,97666,14334,2111,4,Low,43,27,Conditionally Feasible,2,3,0,0,1,2,4
+C00311,New,Beauty Saloon,Saloon,Colombo,Western,Mambulgoda,start,595485,0,180049,29958,2900,11,Medium,82,25,Conditionally Feasible,0,3,1,0,1,2,3
+C00312,New,Beauty Saloon,Saloon,Colombo,Western,Ranala,start,560396,0,145174,16066,2936,2,Low,63,27,Conditionally Feasible,0,5,3,0,2,2,4
+C00313,New,Beauty Saloon,Saloon,Colombo,Western,Henpita,start,483737,0,100000,33134,2171,9,Low,72,25,Conditionally Feasible,2,4,1,0,1,2,4
+C00314,New,Beauty Saloon,Saloon,Colombo,Western,Pahala Hanwella,start,205985,0,173937,43586,2362,13,Medium,72,25,Conditionally Feasible,3,3,0,1,2,3,4
+C00315,New,Beauty Saloon,Saloon,Colombo,Western,Kottawa,start,80028,20000,185083,33570,2063,15,High,55,25,Conditionally Feasible,1,3,1,1,2,3,4
+C00316,New,Beauty Saloon,Saloon,Colombo,Western,Kottawa,start,693012,0,168295,45720,2000,19,Low,42,27,Conditionally Feasible,0,4,1,1,2,3,4
+C00317,New,Beauty Saloon,Saloon,Colombo,Western,Udagama,start,826963,0,87843,12726,2000,2,Low,67,26,Conditionally Feasible,0,4,1,0,2,2,4
+C00318,New,Beauty Saloon,Saloon,Colombo,Western,Mullegama,start,179721,0,165294,40749,3473,21,Medium,60,26,Conditionally Feasible,0,3,0,1,1,3,3
+C00319,New,Beauty Saloon,Saloon,Colombo,Western,Hiripitiya,start,821173,0,116608,31000,2877,7,Medium,43,25,Conditionally Feasible,0,3,0,0,1,2,4
+C00320,New,Beauty Saloon,Saloon,Colombo,Western,Suwapudugama,start,870233,0,180000,35033,3130,18,High,57,26,Conditionally Feasible,1,3,0,1,2,3,3
+C00321,New,Beauty Saloon,Saloon,Colombo,Western,Pahala Hanwella,start,191114,0,100000,37798,1447,14,High,76,25,Conditionally Feasible,0,3,0,1,1,3,3
+C00322,New,Beauty Saloon,Saloon,Colombo,Western,Uduwana,start,148662,0,142764,7104,1851,2,Low,65,26,Infeasible,0,3,1,0,1,2,3
+C00323,New,Beauty Saloon,Saloon,Colombo,Western,Thalduwa,start,152834,0,122902,10226,1551,4,Medium,62,24,Feasible,1,3,0,0,2,2,4
+C00324,New,Beauty Saloon,Saloon,Colombo,Western,Panaluwa,start,295264,0,188893,53621,1891,18,Medium,37,26,Infeasible,0,2,0,1,1,3,3
+C00325,New,Beauty Saloon,Saloon,Colombo,Western,Mattegoda,start,844368,0,181326,40660,3000,20,High,66,27,Conditionally Feasible,1,4,0,1,2,3,4
+C00326,New,Beauty Saloon,Saloon,Colombo,Western,Meegasmulla,start,379807,0,185000,28407,2977,17,Medium,64,25,Conditionally Feasible,0,3,0,1,2,3,4
+C00327,New,Beauty Saloon,Saloon,Colombo,Western,Pitipana,start,138538,20000,57063,20208,2000,5,Low,60,26,Feasible,0,3,0,0,3,2,3
+C00328,New,Beauty Saloon,Saloon,Colombo,Western,Diyagama,start,714657,0,165000,53000,2811,11,Medium,47,27,Conditionally Feasible,1,2,0,0,1,2,3
+C00329,New,Beauty Saloon,Saloon,Colombo,Western,Mambulgoda,start,627641,0,69000,15069,789,10,Medium,54,25,Conditionally Feasible,3,3,1,0,3,2,3
+C00330,New,Beauty Saloon,Saloon,Colombo,Western,Waga,start,314139,0,113002,39000,2625,5,Medium,64,24,Conditionally Feasible,2,3,0,0,1,2,3
+C00331,New,Beauty Saloon,Saloon,Colombo,Western,Puswelikanda,start,242416,0,169126,45459,2555,12,Medium,58,27,Conditionally Feasible,1,3,1,0,1,3,3
+C00332,New,Beauty Saloon,Saloon,Colombo,Western,Kosgama,start,79958,21000,178647,39654,3355,10,Low,71,25,Conditionally Feasible,0,5,1,0,1,2,4
+C00333,New,Beauty Saloon,Saloon,Colombo,Western,Siyambalagoda,start,607949,0,117661,12742,2462,3,High,79,25,Conditionally Feasible,0,3,0,0,1,2,3
+C00334,New,Beauty Saloon,Saloon,Colombo,Western,Ambalangoda,start,280240,0,170563,39363,2620,17,Low,55,25,Conditionally Feasible,1,3,0,1,2,3,3
+C00335,New,Beauty Saloon,Saloon,Colombo,Western,Thalduwa,start,39654,34152,189810,47614,2000,13,Low,63,24,Infeasible,0,4,0,1,1,3,4
+C00336,New,Beauty Saloon,Saloon,Colombo,Western,Udagama,start,357232,0,173756,39155,2000,19,High,75,25,Conditionally Feasible,0,3,1,1,1,3,3
+C00337,New,Beauty Saloon,Saloon,Colombo,Western,Dolahena,start,332552,0,183414,37168,2000,18,High,52,24,Conditionally Feasible,1,3,0,1,1,3,4
+C00338,New,Beauty Saloon,Saloon,Colombo,Western,Henwattha,start,443266,0,161872,28699,1116,16,Low,49,24,Conditionally Feasible,0,3,0,1,3,3,3
+C00339,New,Beauty Saloon,Saloon,Colombo,Western,Pitumpe,start,110042,0,36804,4782,1299,2,High,67,26,Conditionally Feasible,1,3,0,0,1,2,4
+C00340,New,Beauty Saloon,Saloon,Colombo,Western,Waga,start,810543,0,142442,32503,954,17,Medium,71,27,Conditionally Feasible,0,3,0,1,2,3,3
+C00341,New,Beauty Saloon,Saloon,Colombo,Western,Polgasowita,start,440529,0,130610,48000,1000,23,Medium,62,26,Conditionally Feasible,1,4,0,1,1,3,4
+C00342,New,Beauty Saloon,Saloon,Colombo,Western,Meepe,start,841839,0,174794,38635,3298,13,Medium,68,26,Conditionally Feasible,0,3,0,1,1,3,3
+C00343,New,Beauty Saloon,Saloon,Colombo,Western,Pitipana,start,180183,0,154908,49395,1449,12,High,61,27,Conditionally Feasible,0,2,0,0,3,3,3
+C00344,New,Beauty Saloon,Saloon,Colombo,Western,Ranala,start,209168,0,72311,28919,930,15,Low,48,25,Conditionally Feasible,1,4,1,1,2,3,4
+C00345,New,Beauty Saloon,Saloon,Colombo,Western,Dolahena,start,261543,0,175403,35200,3299,15,Medium,62,27,Conditionally Feasible,0,3,0,1,1,3,4
+C00346,New,Clothing/ Garment,Garment item sale,Colombo,Western,Jalthara,start,103960,24717,218778,95000,1211,23,Low,54,27,Infeasible,2,3,0,1,2,2,3
+C00347,New,Clothing/ Garment,Garment,Colombo,Western,Pitipana,start,57097,21000,112428,14316,1066,7,Low,60,26,Conditionally Feasible,2,3,2,0,2,1,4
+C00348,New,Clothing/ Garment,Garment,Colombo,Western,Brahamnagama,start,97528,20579,181428,98124,1324,24,Medium,70,24,Infeasible,3,3,2,1,2,2,4
+C00349,New,Clothing/ Garment,Garment,Colombo,Western,Henwattha,start,204214,0,227896,57757,1000,16,Medium,59,27,Conditionally Feasible,0,3,0,1,2,2,3
+C00350,New,Clothing/ Garment,Garment item sale,Colombo,Western,Dolahena,start,61954,40959,135077,66119,4000,5,High,66,27,Conditionally Feasible,0,3,1,0,1,1,4
+C00351,New,Clothing/ Garment,Cloth Shop,Colombo,Western,Watareka,start,270837,0,144912,41798,1086,13,Low,78,25,Conditionally Feasible,0,4,1,0,1,2,3
+C00352,New,Clothing/ Garment,Online clothing,Colombo,Western,Hiripitiya,start,344477,0,176370,29800,1000,13,Low,67,27,Conditionally Feasible,3,3,1,0,1,2,4
+C00353,New,Clothing/ Garment,Garment,Colombo,Western,Dolahena,start,242757,0,263308,140000,4684,20,Low,81,27,Conditionally Feasible,1,4,0,1,1,2,4
+C00354,New,Clothing/ Garment,Garment item sale,Colombo,Western,Brahamnagama,start,57949,69387,290943,172170,4622,11,Low,54,26,Infeasible,0,3,0,0,1,1,4
+C00355,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meepe,start,259196,0,102459,32957,3624,3,Low,54,27,Conditionally Feasible,1,3,0,0,2,1,3
+C00356,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Pahala Hanwella,start,134926,20741,170000,84037,5594,8,Low,56,24,Conditionally Feasible,0,3,0,0,2,1,4
+C00357,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Udagama,start,86946,54683,257077,114760,4600,16,Medium,81,27,Infeasible,1,4,0,1,3,2,4
+C00358,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Godagama,start,382670,0,280000,174789,5763,27,Low,67,25,Conditionally Feasible,0,5,0,1,1,2,4
+C00359,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Prasannanpura,start,504512,0,78267,13150,1440,2,Low,69,27,Conditionally Feasible,1,3,0,0,2,1,3
+C00360,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Mattegoda,start,105840,0,121598,14671,1606,4,Low,82,25,Conditionally Feasible,1,5,0,0,1,1,4
+C00361,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Brahamnagama,start,368625,0,279040,109987,3376,22,Low,84,24,Conditionally Feasible,0,4,1,1,1,2,4
+C00362,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Prasannanpura,start,696714,0,96000,33896,2390,9,Medium,60,26,Feasible,0,3,0,0,2,1,4
+C00363,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Mambulgoda,start,96874,40246,254078,96772,6348,17,High,78,24,Infeasible,5,3,0,1,2,2,4
+C00364,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meepe,start,100339,35336,241440,108662,3931,14,Low,68,27,Infeasible,5,3,0,0,2,2,4
+C00365,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Suwapudugama,start,181568,0,75682,35162,1019,11,Medium,67,24,Feasible,0,3,1,0,2,1,3
+C00366,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Meepe,start,256906,0,221340,69144,2280,14,Medium,53,27,Conditionally Feasible,1,3,2,0,1,2,3
+C00367,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Ovitigama,start,197651,0,160039,24314,1166,10,High,70,26,Feasible,1,3,1,0,3,1,4
+C00368,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Kosgama,start,883443,0,300000,74948,2573,25,Low,73,25,Feasible,0,5,1,1,2,2,4
+C00369,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Pitipana,start,386993,0,213017,48101,2428,14,High,48,24,Conditionally Feasible,1,2,0,0,2,2,4
+C00370,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pitumpe,start,519493,0,200000,73000,2000,13,Medium,72,25,Feasible,2,3,0,0,3,2,3
+C00371,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Siddamulla,start,400483,0,165952,21661,6155,3,Low,49,27,Conditionally Feasible,1,3,1,0,3,1,4
+C00372,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Henwattha,start,355694,0,289696,165000,4253,27,Low,55,24,Conditionally Feasible,1,3,0,1,2,2,4
+C00373,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Jalthara,start,36193,72757,240000,88658,4290,10,Low,66,26,Infeasible,5,4,0,0,1,1,4
+C00374,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Siddamulla,start,22634,38445,136179,35246,6435,4,Medium,59,26,Infeasible,5,3,1,0,1,1,4
+C00375,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Brahamnagama,start,53079,69000,226460,113145,5492,7,Medium,51,24,Infeasible,2,2,0,0,2,1,3
+C00376,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Arukwatta,start,203917,0,291290,104838,3000,15,Low,64,26,Conditionally Feasible,0,3,1,0,1,2,3
+C00377,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Bope,start,409875,0,283129,169999,6000,28,Low,55,25,Conditionally Feasible,2,3,0,1,2,2,3
+C00378,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Waga,start,136147,0,57987,22000,1897,4,Low,42,25,Infeasible,0,2,1,0,1,1,4
+C00379,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Kiriwattuduwa,start,64614,49147,288787,100821,4388,18,Low,48,26,Infeasible,2,3,0,1,2,2,3
+C00380,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Godagama,start,19794,58609,297405,166533,3275,23,Medium,54,27,Infeasible,3,4,1,1,1,2,4
+C00381,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Uduwana,start,402677,0,260000,71392,3760,8,Low,57,27,Feasible,2,3,0,0,2,1,3
+C00382,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Hiripitiya,start,31479,48584,282465,111820,5014,13,High,67,24,Infeasible,0,3,0,0,1,2,4
+C00383,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Henpita,start,667358,0,266699,118069,6410,15,Low,59,25,Conditionally Feasible,3,3,0,0,1,2,3
+C00384,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Diyagama,start,278142,0,187572,174949,4000,15,High,64,24,Conditionally Feasible,2,3,0,0,1,2,3
+C00385,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Siddamulla,start,459829,0,135977,27000,2399,4,Low,50,24,Conditionally Feasible,2,3,0,0,2,1,3
+C00386,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Nawagamuwa,start,899846,0,252612,155894,2000,22,Low,69,26,Conditionally Feasible,0,4,2,1,1,2,4
+C00387,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Brahamnagama,start,210700,20001,284067,135807,4078,17,High,55,25,Conditionally Feasible,0,2,0,1,2,2,4
+C00388,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Weniwelkola,start,49315,31635,207922,61467,1637,19,High,36,27,Infeasible,1,2,0,1,2,2,3
+C00389,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Meegasmulla,start,145582,0,92348,40990,1575,8,Medium,61,27,Feasible,1,3,1,0,1,1,3
+C00390,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Ranala,start,585623,0,265000,128711,4347,15,High,59,24,Feasible,1,4,0,0,2,2,4
+C00391,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Puwakpitiya,start,75964,20000,120118,30223,2238,6,Low,55,25,Conditionally Feasible,1,3,0,0,2,1,4
+C00392,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Siyambalagoda,start,299653,0,119840,40273,3053,6,Medium,43,24,Infeasible,0,2,0,0,2,1,4
+C00393,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Weniwelkola,start,169699,37529,290390,170000,3873,24,Low,84,27,Conditionally Feasible,1,4,0,1,1,2,3
+C00394,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pitumpe,start,264390,0,205000,101347,5000,7,High,58,25,Conditionally Feasible,0,3,2,0,2,1,3
+C00395,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Mambulgoda,start,210518,33990,295710,116810,5333,17,Low,77,25,Conditionally Feasible,0,4,1,1,3,2,4
+C00396,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Godagama,start,477119,0,230000,74733,1609,30,High,78,27,Conditionally Feasible,0,4,1,1,1,2,4
+C00397,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Pitipana,start,120815,0,120000,18904,2203,2,High,58,26,Conditionally Feasible,0,3,1,0,3,1,4
+C00398,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Mattegoda,start,626874,0,243656,80000,1143,27,Medium,58,25,Conditionally Feasible,0,4,0,1,2,2,4
+C00399,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Henpitiya,start,404819,0,200000,67365,3908,8,High,59,24,Feasible,3,3,2,0,1,1,4
+C00400,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Kahathuduwa,start,26909,20001,44024,15240,1019,2,High,75,26,Conditionally Feasible,0,3,1,0,1,1,3
+C00401,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Meegoda,start,470435,0,211772,71760,5672,5,Low,82,25,Feasible,0,5,0,0,2,1,4
+C00402,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Nawagamuwa,start,568499,0,273119,165000,5834,21,Low,72,24,Conditionally Feasible,1,5,0,1,1,2,4
+C00403,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Siyambalagoda,start,233649,20000,292802,104223,6358,14,Low,56,25,Conditionally Feasible,0,3,0,0,2,2,4
+C00404,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Henpitiya,start,333687,0,267197,162005,2207,21,Low,54,27,Conditionally Feasible,1,3,1,1,2,2,3
+C00405,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Habarakada,start,388587,0,280537,179317,3468,24,Medium,50,26,Conditionally Feasible,1,2,1,1,2,2,4
+C00406,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Panagoda,start,131363,0,133724,25546,4323,3,High,71,27,Conditionally Feasible,2,4,0,0,2,1,4
+C00407,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Bope,start,626916,0,275000,107902,5629,13,High,84,27,Feasible,0,3,2,0,2,2,3
+C00408,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Palagama,start,516918,0,122985,34940,1692,8,High,69,27,Feasible,0,3,0,0,1,1,3
+C00409,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Brahamnagama,start,98254,21180,88199,34829,1195,21,Low,72,24,Conditionally Feasible,1,4,0,1,2,2,4
+C00410,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Malwana,start,49666,77856,263451,96520,5856,23,Low,64,26,Infeasible,0,4,0,1,2,2,4
+C00411,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Watareka,start,282493,0,260000,147101,4211,20,Medium,41,26,Infeasible,0,2,1,1,3,2,3
+C00412,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Panaluwa,start,19738,81504,295000,105943,3418,20,Low,58,27,Infeasible,1,3,0,1,2,2,4
+C00413,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Arukwatta,start,295451,0,193603,22954,2545,9,Low,73,26,Feasible,1,4,0,0,2,1,3
+C00414,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Henpitiya,start,812096,0,247877,82082,3000,14,Medium,72,26,Feasible,0,3,1,0,2,2,3
+C00415,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Mambulgoda,start,137821,20000,268905,80517,4266,11,Medium,75,24,Conditionally Feasible,0,4,1,0,3,1,3
+C00416,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Udagama,start,200431,0,190569,80417,5113,8,Low,69,26,Conditionally Feasible,2,4,0,0,2,1,3
+C00417,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Polgasowita,start,553120,0,270000,135000,3000,26,Low,61,26,Feasible,0,4,2,1,2,2,4
+C00418,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Palagama,start,157176,20000,141759,75751,2015,23,Low,55,24,Conditionally Feasible,0,3,0,1,2,2,4
+C00419,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pahala Hanwella,start,164871,20000,190014,63000,4510,6,Low,58,26,Conditionally Feasible,0,3,0,0,1,1,4
+C00420,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Polgasowita,start,169657,20001,202331,159619,5771,9,High,57,25,Conditionally Feasible,1,3,0,0,1,1,4
+C00421,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Ovitigama,start,99477,20001,262758,67359,2430,17,Medium,73,25,Infeasible,5,3,0,1,2,2,4
+C00422,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Meepe,start,789653,0,230197,92881,5000,15,Low,84,24,Conditionally Feasible,1,4,0,0,1,2,4
+C00423,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Malwana,start,771821,0,267348,130956,5886,13,High,76,24,Conditionally Feasible,0,4,0,0,1,2,4
+C00424,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Pitumpe,start,242804,0,67035,30312,1243,7,Medium,60,25,Feasible,3,3,1,0,1,1,3
+C00425,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Arukwatta,start,108129,26024,281912,165246,2634,17,High,62,26,Infeasible,1,2,0,1,3,2,4
+C00426,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Meepe,start,59015,47779,224761,67582,5444,8,High,68,26,Infeasible,1,3,1,0,2,1,4
+C00427,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Hiripitiya,start,475484,0,141970,90811,1946,14,Medium,77,26,Feasible,1,3,0,0,3,2,3
+C00428,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Malwana,start,304010,0,259237,94940,6451,8,Low,50,27,Conditionally Feasible,1,4,0,0,1,1,4
+C00429,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meegoda,start,11702,79973,145681,122291,6000,5,Low,64,24,Infeasible,0,5,0,0,1,1,4
+C00430,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Prasannanpura,start,389594,0,153877,73711,6330,6,Medium,47,26,Conditionally Feasible,2,3,0,0,1,1,4
+C00431,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Uduwana,start,123861,21823,284788,90118,4000,18,Medium,35,26,Infeasible,1,2,1,1,2,2,3
+C00432,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Malwana,start,100217,20412,220000,100000,3679,12,Low,57,24,Infeasible,0,4,2,0,3,2,4
+C00433,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Hiripitiya,start,487609,0,266735,160971,3516,15,High,58,27,Conditionally Feasible,0,2,2,0,1,2,3
+C00434,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Hiripitiya,start,103848,23295,255775,101098,5907,21,Low,71,25,Infeasible,0,3,1,1,2,2,4
+C00435,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Kahathuduwa,start,98369,20222,137367,40125,1027,20,Low,43,27,Conditionally Feasible,2,3,0,1,1,2,3
+C00436,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meegoda,start,191860,0,157538,54816,6216,4,Medium,52,24,Conditionally Feasible,0,4,0,0,1,1,4
+C00437,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pahala Hanwella,start,606386,0,182367,57267,2000,16,High,74,27,Feasible,1,3,1,1,2,2,3
+C00438,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Diyagama,start,226792,20001,261387,148555,3302,18,Medium,80,25,Conditionally Feasible,0,4,0,1,1,2,4
+C00439,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Palagama,start,84206,20000,123900,29000,4332,3,Medium,61,26,Conditionally Feasible,2,3,0,0,1,1,3
+C00440,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Pitipana,start,211354,0,291564,153066,5810,16,Low,74,26,Conditionally Feasible,1,3,0,1,2,2,3
+C00441,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Polgasowita,start,245670,0,291373,108761,4015,14,Medium,60,24,Conditionally Feasible,0,4,0,0,3,2,4
+C00442,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Arukwatta,start,339587,0,219244,94697,4414,11,Medium,46,27,Conditionally Feasible,1,2,0,0,1,1,4
+C00443,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Habarakada,start,137915,20000,121528,92595,2372,15,Low,53,26,Conditionally Feasible,0,3,1,0,1,2,3
+C00444,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meepe,start,41654,42518,228425,101154,5000,9,High,52,27,Infeasible,1,2,1,0,2,1,3
+C00445,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Udagama,start,457991,0,270731,170000,5908,21,Medium,55,27,Conditionally Feasible,1,3,0,1,1,2,4
+C00446,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Siddamulla,start,651702,0,79986,24558,1959,3,Medium,77,27,Feasible,5,4,0,0,3,1,4
+C00447,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pahala Hanwella,start,115660,21501,278481,92498,6000,17,Low,65,27,Infeasible,2,3,1,1,2,2,4
+C00448,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Jalthara,start,149501,0,211742,73617,5507,7,Low,76,25,Conditionally Feasible,1,4,0,0,1,1,3
+C00449,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Pahala Hanwella,start,305264,0,137403,63315,4826,7,Low,55,25,Feasible,1,3,0,0,2,1,3
+C00450,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Kiriwattuduwa,start,75377,78882,189877,152983,2337,23,Medium,69,27,Infeasible,0,3,1,1,2,2,3
+C00451,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Hiripitiya,start,241256,0,124707,40635,4596,3,Low,52,24,Conditionally Feasible,0,3,0,0,1,1,4
+C00452,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Henpitiya,start,160182,0,129543,20089,2629,2,High,63,25,Conditionally Feasible,2,3,2,0,2,1,3
+C00453,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Jalthara,start,356613,0,281293,129618,4798,14,Low,62,27,Conditionally Feasible,3,3,0,0,2,2,4
+C00454,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Ovitigama,start,81174,72929,274353,118227,5000,22,Low,64,25,Infeasible,1,4,1,1,1,2,4
+C00455,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Henwattha,start,74294,38627,273966,106668,2000,24,Low,43,25,Infeasible,1,2,1,1,2,2,4
+C00456,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Uduwana,start,219414,0,94622,16857,2211,3,Low,75,26,Feasible,1,4,0,0,2,1,4
+C00457,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Siddamulla,start,281610,0,283537,68065,2779,21,Low,62,24,Conditionally Feasible,3,3,0,1,2,2,3
+C00458,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Palagama,start,390259,0,253153,172957,4220,19,Low,67,25,Conditionally Feasible,0,3,0,1,3,2,3
+C00459,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Mattegoda,start,303511,0,261376,130783,4221,20,High,56,24,Conditionally Feasible,1,3,1,1,2,2,4
+C00460,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Palagama,start,118416,0,185000,31564,1096,17,Medium,53,27,Conditionally Feasible,0,3,0,1,1,2,3
+C00461,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Udagama,start,25218,28998,120816,78232,3344,9,Medium,74,25,Infeasible,0,3,1,0,1,1,4
+C00462,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Henwattha,start,41044,28783,279287,142851,4612,25,Low,69,25,Infeasible,0,4,1,1,2,2,4
+C00463,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Godagama,start,186949,0,123906,53000,1000,11,Medium,54,27,Conditionally Feasible,5,4,0,0,2,1,4
+C00464,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Ranala,start,246011,0,153895,48802,2517,5,Low,42,25,Conditionally Feasible,1,4,2,0,2,1,4
+C00465,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meepe,start,65024,27349,267179,99270,1978,25,Medium,62,24,Infeasible,2,3,0,1,1,2,4
+C00466,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Meepe,start,372382,0,260000,114488,4629,19,Low,46,24,Conditionally Feasible,3,3,0,1,2,2,4
+C00467,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Pitipana,start,270468,20001,264257,144496,6011,12,Low,60,27,Conditionally Feasible,1,3,2,0,1,2,3
+C00468,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Godagama,start,506696,0,93378,56638,4381,3,Low,59,26,Feasible,0,4,2,0,3,1,4
+C00469,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Pitipana,start,185363,0,134904,27613,2478,7,Low,82,24,Feasible,1,4,1,0,2,1,4
+C00470,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Dolahena,start,522433,0,130000,20186,1144,14,Medium,48,25,Conditionally Feasible,0,2,2,0,2,2,4
+C00471,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Kottawa,start,454444,0,285000,155000,3446,20,High,84,25,Conditionally Feasible,3,4,0,1,1,2,4
+C00472,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Habarakada,start,454066,0,105000,40365,4287,4,Low,67,26,Feasible,1,3,2,0,1,1,3
+C00473,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Meegoda,start,321157,0,287131,154960,5000,11,Low,71,24,Conditionally Feasible,0,5,1,0,2,1,4
+C00474,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pitipana,start,268122,0,156739,35648,4430,4,Low,51,24,Conditionally Feasible,0,3,1,0,2,1,4
+C00475,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Mullegama,start,208848,0,142776,81800,2441,20,Medium,73,26,Feasible,0,3,1,1,2,2,4
+C00476,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Suwapudugama,start,523848,0,279971,167019,3000,27,Low,70,24,Conditionally Feasible,0,3,0,1,1,2,4
+C00477,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Henpita,start,239274,0,290000,168130,6102,8,Low,42,25,Conditionally Feasible,1,3,0,0,2,1,3
+C00478,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Puwakpitiya,start,431082,0,191071,70350,5000,7,Low,53,25,Conditionally Feasible,1,3,1,0,1,1,4
+C00479,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Pitipana,start,50293,53503,220000,136956,5059,9,Low,73,27,Infeasible,0,4,1,0,1,1,3
+C00480,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Suwapudugama,start,725251,0,267503,110000,4870,18,Low,64,24,Conditionally Feasible,0,3,0,1,2,2,4
+C00481,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Ambalangoda,start,81506,112077,268363,158526,2000,28,Medium,58,27,Conditionally Feasible,0,3,0,1,1,2,3
+C00482,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Polgasowita,start,90874,38692,220000,97112,2668,26,Medium,56,25,Infeasible,2,4,0,1,2,2,4
+C00483,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Siddamulla,start,4425,20800,115000,18637,2132,4,Low,64,26,Infeasible,0,3,1,0,1,1,4
+C00484,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Uduwana,start,481798,0,214564,61586,6436,9,High,79,24,Feasible,0,3,2,0,2,1,3
+C00485,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Siddamulla,start,253774,0,112756,18748,2515,2,Low,46,25,Conditionally Feasible,1,3,0,0,2,1,3
+C00486,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Meegoda,start,485836,0,267607,128624,5162,19,High,78,26,Conditionally Feasible,0,4,0,1,1,2,4
+C00487,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Diyagama,start,390629,0,236467,58000,4126,10,High,58,25,Feasible,1,3,1,0,3,1,4
+C00488,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Puswelikanda,start,219248,0,36890,24000,1170,7,Low,45,24,Conditionally Feasible,2,3,1,0,1,1,3
+C00489,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Pitipana,start,96353,20000,185000,78093,5181,6,Medium,48,24,Infeasible,0,2,1,0,2,1,3
+C00490,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Pitipana,start,344052,0,135000,56515,2302,9,Medium,62,27,Feasible,0,3,0,0,3,1,4
+C00491,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Puwakpitiya,start,138147,46142,290948,109663,2000,24,Low,45,27,Conditionally Feasible,0,3,1,1,1,2,4
+C00492,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Henpita,start,79871,43057,259499,120396,2479,25,Low,40,27,Infeasible,1,3,0,1,2,2,4
+C00493,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Prasannanpura,start,767144,0,108430,41000,3849,7,Medium,51,24,Conditionally Feasible,2,3,1,0,1,1,3
+C00494,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Bope,start,44292,22466,87468,25217,1287,13,Low,80,27,Conditionally Feasible,3,4,0,0,1,2,3
+C00495,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Kosgama,start,771085,0,256273,138155,4967,26,Low,79,27,Conditionally Feasible,0,5,0,1,1,2,4
+C00496,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Henpita,start,332115,0,281183,67926,5479,11,Low,75,25,Feasible,0,4,0,0,1,1,4
+C00497,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Nawagamuwa,start,632809,0,153660,39119,1000,16,Low,47,27,Conditionally Feasible,2,4,0,1,2,2,4
+C00498,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Weniwelkola,start,543349,0,225000,35687,2881,8,High,82,25,Feasible,0,3,0,0,1,1,3
+C00499,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Polgasowita,start,398209,0,239697,112684,3000,21,Low,88,26,Conditionally Feasible,0,5,1,1,1,2,4
+C00500,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Henpitiya,start,480127,0,215000,79855,2226,16,Low,57,25,Conditionally Feasible,0,3,0,1,1,2,4
+C00501,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Meegoda,start,134950,0,92763,24898,1024,6,Low,59,26,Feasible,2,4,2,0,1,1,4
+C00502,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Watareka,start,330141,0,145000,60191,2000,8,Low,77,27,Feasible,1,4,0,0,2,1,3
+C00503,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Kahathuduwa,start,28545,27863,150000,132426,2796,13,Low,48,25,Infeasible,0,3,1,0,3,2,4
+C00504,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Uduwana,start,2653,43884,198520,115000,2729,11,Low,60,27,Infeasible,0,3,0,0,1,1,4
+C00505,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Meegoda,start,236528,0,124917,21466,1000,5,Medium,67,27,Conditionally Feasible,0,4,0,0,2,1,4
+C00506,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Kottawa,start,677596,0,250262,86523,4679,9,High,65,25,Feasible,0,4,0,0,1,1,4
+C00507,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Kiriwattuduwa,start,54397,20001,63521,30523,1625,6,Medium,44,27,Infeasible,5,2,0,0,1,1,4
+C00508,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Kahathuduwa,start,202257,20000,281246,104965,2738,15,High,71,26,Conditionally Feasible,0,3,1,0,2,2,4
+C00509,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Puswelikanda,start,298084,0,280000,90326,3931,21,Medium,59,27,Conditionally Feasible,0,3,1,1,3,2,3
+C00510,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Mullegama,start,490046,0,84721,17532,3617,3,Low,51,27,Conditionally Feasible,1,3,0,0,1,1,4
+C00511,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Brahamnagama,start,255266,0,280000,153295,5191,18,High,80,26,Conditionally Feasible,0,3,2,1,1,2,4
+C00512,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Prasannanpura,start,241110,21101,286940,105404,4763,21,Low,63,25,Conditionally Feasible,1,4,0,1,1,2,4
+C00513,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Udagama,start,213966,0,194525,135679,2650,13,Low,77,27,Conditionally Feasible,1,4,0,0,1,2,3
+C00514,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Hiripitiya,start,241461,20000,295443,91943,5574,12,Low,51,25,Conditionally Feasible,0,3,0,0,2,2,4
+C00515,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Jalthara,start,204020,20000,271473,119495,6437,11,Low,61,26,Conditionally Feasible,0,3,0,0,1,1,3
+C00516,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Malwana,start,213010,20001,275340,112111,5779,15,Medium,61,24,Conditionally Feasible,0,4,0,0,1,2,4
+C00517,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Watareka,start,87358,25309,238685,96043,5000,7,High,43,27,Infeasible,0,2,1,0,1,1,3
+C00518,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Bope,start,635635,0,130000,37568,1473,18,Low,73,24,Conditionally Feasible,2,4,0,1,3,2,4
+C00519,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Weniwelkola,start,552701,0,197837,91392,3162,11,Medium,45,25,Conditionally Feasible,0,2,1,0,2,1,4
+C00520,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Udagama,start,803279,0,298065,170776,4679,27,Low,59,26,Conditionally Feasible,1,3,0,1,2,2,3
+C00521,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Mambulgoda,start,7525,44760,212694,38239,2031,10,Low,46,24,Infeasible,0,3,2,0,1,1,4
+C00522,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Mambulgoda,start,301109,0,298871,125000,5528,24,Low,51,27,Conditionally Feasible,0,3,0,1,3,2,3
+C00523,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Suwapudugama,start,449738,0,177886,50000,1613,23,Low,67,24,Conditionally Feasible,5,3,1,1,1,2,3
+C00524,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meepe,start,230115,0,90008,36867,1000,12,Low,59,26,Feasible,0,3,0,0,3,2,3
+C00525,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Henpitiya,start,399728,0,161531,34222,3152,6,Low,73,25,Feasible,0,4,1,0,1,1,4
+C00526,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Watareka,start,579602,0,279570,133555,4894,9,Medium,50,24,Conditionally Feasible,5,3,2,0,2,1,3
+C00527,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Thalduwa,start,642501,0,152492,42434,5636,3,Medium,78,27,Feasible,0,3,0,0,1,1,4
+C00528,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Prasannanpura,start,173763,0,145704,16667,2000,3,High,61,26,Conditionally Feasible,1,3,1,0,2,1,4
+C00529,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Waga,start,879060,0,135107,36265,3000,7,Medium,56,24,Feasible,2,3,0,0,1,1,3
+C00530,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Puswelikanda,start,59511,46692,264561,128873,6283,17,Medium,78,24,Infeasible,1,4,0,1,3,2,3
+C00531,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Watareka,start,153472,27070,263551,103850,4585,14,Low,76,25,Conditionally Feasible,2,4,0,0,1,2,4
+C00532,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Kosgama,start,518366,0,175000,48740,1000,20,Medium,82,24,Conditionally Feasible,1,5,0,1,1,2,4
+C00533,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Jalthara,start,163886,0,52945,28000,2104,5,Medium,78,24,Feasible,1,4,1,0,1,1,4
+C00534,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Dolahena,start,320180,0,175697,44759,2971,7,Low,43,25,Conditionally Feasible,0,3,0,0,1,1,4
+C00535,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Kiriwattuduwa,start,48702,52831,240000,169722,3972,10,Low,66,26,Infeasible,0,3,0,0,3,1,4
+C00536,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Udagama,start,742631,0,131131,62437,1606,16,Medium,81,25,Conditionally Feasible,7,3,0,1,2,2,4
+C00537,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Brahamnagama,start,172950,24000,160280,163626,4600,13,Low,69,26,Conditionally Feasible,1,4,0,0,2,2,3
+C00538,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Diyagama,start,352542,0,219116,52940,2241,19,Medium,56,25,Feasible,2,3,2,1,2,2,3
+C00539,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pitumpe,start,334032,0,235000,102692,5893,8,Medium,52,27,Conditionally Feasible,0,2,1,0,1,1,4
+C00540,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Jalthara,start,286480,0,228408,138032,3578,14,High,50,24,Conditionally Feasible,0,2,1,0,2,2,4
+C00541,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Meegasmulla,start,424303,0,230961,98877,2000,14,Low,70,26,Conditionally Feasible,1,3,0,0,1,2,3
+C00542,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Bope,start,168657,20000,190000,115000,4603,6,Low,66,24,Conditionally Feasible,5,4,2,0,1,1,3
+C00543,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Polgasowita,start,106012,35937,272406,150000,5669,13,Low,73,25,Infeasible,0,4,0,0,1,2,4
+C00544,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Udagama,start,495057,0,270662,97179,5000,16,High,55,27,Feasible,0,3,1,1,2,2,4
+C00545,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Uduwana,start,346632,0,129991,57283,1835,12,Medium,71,25,Feasible,0,3,0,0,2,2,4
+C00546,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Meepe,start,457115,0,264419,147810,6095,32,High,83,25,Feasible,0,4,1,1,2,2,4
+C00547,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Weniwelkola,start,59424,41790,246726,110000,3548,24,Medium,76,25,Infeasible,0,3,1,1,2,2,4
+C00548,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Kahathuduwa,start,303059,0,286441,128018,4822,16,Low,42,27,Conditionally Feasible,0,3,0,1,1,2,3
+C00549,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Puwakpitiya,start,480058,0,286061,145680,6221,13,Low,77,25,Feasible,1,4,0,0,2,2,4
+C00550,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Thalduwa,start,12107,32757,160186,79506,1224,22,High,69,25,Infeasible,1,3,0,1,2,2,4
+C00551,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Ovitigama,start,103272,20000,190166,61479,2370,12,Low,50,27,Conditionally Feasible,0,3,1,0,2,2,4
+C00552,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Kiriwattuduwa,start,73624,39000,289278,131066,5261,30,Low,57,26,Infeasible,0,3,1,1,2,2,3
+C00553,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Suwapudugama,start,326874,0,267510,129688,4096,19,Medium,70,24,Conditionally Feasible,1,3,2,1,2,2,3
+C00554,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Jalthara,start,225093,0,182587,59645,3546,6,Medium,65,27,Feasible,5,3,0,0,1,1,3
+C00555,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Polgasowita,start,336020,0,134930,33378,3665,3,Low,61,27,Feasible,1,4,1,0,1,1,4
+C00556,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meegasmulla,start,752917,0,165000,16787,2267,6,Low,45,25,Conditionally Feasible,1,3,1,0,3,1,3
+C00557,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Weniwelkola,start,465345,0,224238,91025,3789,16,Medium,73,24,Conditionally Feasible,0,3,0,1,1,2,4
+C00558,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Weniwelkola,start,308722,0,299199,160000,3658,22,Low,43,24,Conditionally Feasible,2,3,1,1,1,2,3
+C00559,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Siddamulla,start,362898,0,280491,132208,5242,10,Low,57,24,Conditionally Feasible,0,3,0,0,2,1,3
+C00560,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Mattegoda,start,118055,39488,293506,117561,5237,23,Medium,41,25,Infeasible,0,3,0,1,3,2,4
+C00561,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Henpita,start,174747,20299,241262,121186,2000,26,Medium,47,26,Conditionally Feasible,1,2,0,1,1,2,4
+C00562,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Dolahena,start,115396,0,116661,14636,6268,1,High,39,27,Infeasible,0,2,0,0,1,1,4
+C00563,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Henpitiya,start,447111,0,200000,55000,2093,10,Low,55,25,Feasible,0,3,0,0,1,1,4
+C00564,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Waga,start,487319,0,104136,16126,1208,6,Medium,61,26,Feasible,0,3,0,0,2,1,3
+C00565,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Arukwatta,start,497407,0,116874,45149,5996,5,Medium,37,25,Infeasible,5,2,1,0,2,1,4
+C00566,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Mullegama,start,391998,0,235000,136117,3896,14,Low,63,24,Feasible,0,3,0,0,2,2,3
+C00567,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Puwakpitiya,start,64323,20000,135000,63448,6024,4,High,48,27,Infeasible,3,2,1,0,1,1,4
+C00568,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Udagama,start,632929,0,100665,75000,1783,19,Low,52,27,Conditionally Feasible,0,3,1,1,1,2,3
+C00569,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Kahathuduwa,start,475821,0,90479,23746,1241,8,Low,54,27,Conditionally Feasible,2,3,0,0,2,1,4
+C00570,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Godagama,start,822536,0,289436,107387,5880,23,Low,45,27,Conditionally Feasible,0,4,0,1,1,2,4
+C00571,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Palagama,start,408524,0,273459,143624,4936,12,Low,53,27,Conditionally Feasible,0,3,0,0,2,2,3
+C00572,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Suwapudugama,start,788428,0,297983,153542,5000,28,High,51,25,Conditionally Feasible,2,2,0,1,3,2,3
+C00573,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Panagoda,start,716760,0,252356,166047,4000,26,High,80,27,Conditionally Feasible,1,4,2,1,1,2,4
+C00574,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Ambalangoda,start,388397,0,216123,57000,3037,7,Low,63,24,Feasible,2,4,0,0,3,1,4
+C00575,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pitumpe,start,541259,0,75087,19593,1580,5,Medium,72,26,Feasible,0,3,1,0,2,1,3
+C00576,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meegasmulla,start,101159,59277,245000,165000,5140,10,Low,51,26,Infeasible,2,3,1,0,1,1,4
+C00577,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Polgasowita,start,163625,20000,234654,115000,5689,11,High,78,27,Conditionally Feasible,0,4,0,0,1,1,4
+C00578,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Dolahena,start,376185,0,232213,65000,2347,22,High,80,24,Conditionally Feasible,3,3,0,1,2,2,4
+C00579,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Mullegama,start,182582,0,180807,35074,1033,23,High,69,24,Conditionally Feasible,1,3,0,1,1,2,4
+C00580,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Mullegama,start,454006,0,213054,65373,5440,6,Medium,46,26,Conditionally Feasible,1,2,1,0,2,1,4
+C00581,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Uduwana,start,125010,20000,255899,120000,2062,26,Medium,69,27,Infeasible,0,3,0,1,1,2,4
+C00582,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Kottawa,start,564565,0,81838,32880,1155,7,Medium,88,24,Feasible,1,5,0,0,1,1,4
+C00583,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Malwana,start,525955,0,265976,110000,3550,17,Low,80,25,Feasible,1,5,1,1,2,2,4
+C00584,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Puswelikanda,start,643457,0,245000,110000,2000,14,Low,82,25,Conditionally Feasible,0,4,1,0,1,2,4
+C00585,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Hiripitiya,start,439661,0,277868,101411,6051,18,Medium,62,25,Conditionally Feasible,0,3,0,1,1,2,3
+C00586,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Prasannanpura,start,780374,0,255000,145422,5585,14,High,88,27,Feasible,0,4,0,0,2,2,3
+C00587,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Ambalangoda,start,378350,0,270000,120649,6054,25,Medium,71,26,Conditionally Feasible,1,3,0,1,3,2,4
+C00588,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Polgasowita,start,613698,0,278597,93361,6172,17,Low,46,26,Conditionally Feasible,2,4,1,1,2,2,4
+C00589,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Puwakpitiya,start,106163,48845,261511,120000,4295,18,Medium,67,25,Infeasible,1,3,0,1,2,2,4
+C00590,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Puwakpitiya,start,386283,0,201251,21276,1612,10,Low,44,25,Conditionally Feasible,0,3,0,0,1,1,3
+C00591,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Prasannanpura,start,698668,0,276333,146506,3019,26,Low,64,25,Feasible,0,3,1,1,2,2,4
+C00592,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Arukwatta,start,15983,51703,114603,59982,2609,7,Low,47,27,Infeasible,0,3,1,0,1,1,4
+C00593,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Ovitigama,start,143787,0,224090,54198,2378,13,Low,55,26,Conditionally Feasible,3,3,0,0,1,2,4
+C00594,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Prasannanpura,start,775046,0,64697,65000,2011,13,Medium,57,24,Conditionally Feasible,0,3,0,0,1,2,3
+C00595,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Panagoda,start,323014,0,192100,175000,4702,7,Low,76,26,Conditionally Feasible,1,5,2,0,2,1,4
+C00596,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meepe,start,110512,20001,156269,31707,4119,2,Low,72,25,Conditionally Feasible,1,4,0,0,1,1,3
+C00597,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Meegasmulla,start,16880,22033,68375,22015,1000,3,Medium,71,26,Infeasible,3,3,0,0,1,1,3
+C00598,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Henwattha,start,470984,0,262943,145000,5089,13,Medium,57,24,Feasible,0,3,2,0,2,2,4
+C00599,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Kiriwattuduwa,start,47555,43225,285325,132685,2225,28,Low,71,26,Infeasible,0,4,0,1,1,2,3
+C00600,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Godagama,start,64335,31732,262465,81758,1496,28,High,45,27,Infeasible,1,3,0,1,2,2,4
+C00601,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Kosgama,start,16451,53199,266052,135911,3749,13,Low,65,27,Infeasible,1,4,0,0,1,2,4
+C00602,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Henwattha,start,441477,0,252574,166064,5199,10,High,47,24,Conditionally Feasible,3,2,0,0,1,1,3
+C00603,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Palagama,start,400033,0,133665,34361,3000,3,Medium,50,25,Conditionally Feasible,1,3,0,0,1,1,4
+C00604,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meegasmulla,start,260592,0,283728,150740,4415,22,Low,68,26,Conditionally Feasible,0,4,0,1,2,2,4
+C00605,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Henwattha,start,578666,0,209536,42416,5832,9,Low,70,26,Feasible,0,4,1,0,1,1,3
+C00606,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Brahamnagama,start,414273,0,257740,98907,6353,7,Low,74,27,Feasible,0,4,0,0,1,1,4
+C00607,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Puwakpitiya,start,431572,0,178028,104977,3880,12,Low,40,25,Conditionally Feasible,0,3,0,0,2,2,4
+C00608,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Udagama,start,834057,0,295000,170066,6289,19,Low,63,27,Conditionally Feasible,0,4,0,1,3,2,4
+C00609,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pahala Hanwella,start,483938,0,259011,120000,2730,14,Medium,61,25,Conditionally Feasible,0,3,1,0,1,2,4
+C00610,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Panagoda,start,241482,0,265671,150112,4000,20,Medium,40,27,Conditionally Feasible,1,3,1,1,1,2,4
+C00611,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Palagama,start,66500,35922,262192,160087,4000,16,High,46,26,Infeasible,1,2,0,1,1,2,3
+C00612,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Mullegama,start,562992,0,200894,80816,5709,6,High,50,27,Conditionally Feasible,2,2,0,0,2,1,3
+C00613,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Pitumpe,start,54001,34540,273507,160907,3807,16,High,47,25,Infeasible,1,2,1,1,2,2,3
+C00614,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Pahala Hanwella,start,659802,0,213897,110484,2000,18,High,60,26,Feasible,0,3,1,1,2,2,4
+C00615,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Mambulgoda,start,13908,47866,213107,93960,6345,6,Medium,62,26,Infeasible,0,3,1,0,2,1,4
+C00616,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Arukwatta,start,24711,33757,169935,65730,5334,7,Medium,46,26,Infeasible,1,2,1,0,2,1,4
+C00617,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Panagoda,start,126203,24448,260802,121860,5090,20,Medium,59,27,Infeasible,2,4,0,1,2,2,4
+C00618,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Suwapudugama,start,409634,0,259413,175000,2821,23,Low,56,26,Conditionally Feasible,2,3,0,1,1,2,3
+C00619,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Malwana,start,83327,35163,254197,91807,5160,13,Low,66,25,Infeasible,0,4,1,0,1,2,4
+C00620,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Dolahena,start,569906,0,289739,86501,4000,9,High,85,27,Feasible,0,3,0,0,2,1,4
+C00621,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Mullegama,start,174706,20000,225355,91600,5480,7,High,59,24,Conditionally Feasible,0,3,0,0,1,1,3
+C00622,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Mambulgoda,start,768370,0,246037,93088,3000,21,High,75,25,Conditionally Feasible,2,3,0,1,1,2,3
+C00623,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Pitumpe,start,121080,20371,260000,94851,5741,19,High,73,25,Infeasible,2,3,1,1,1,2,4
+C00624,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Waga,start,142082,33357,267201,151060,3392,20,Medium,48,24,Infeasible,0,3,0,1,1,2,3
+C00625,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Kiriwattuduwa,start,236762,0,256075,142976,5100,16,Low,49,24,Conditionally Feasible,0,3,0,1,1,2,3
+C00626,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Diyagama,start,496436,0,274893,120000,4586,10,Low,61,26,Feasible,0,3,0,0,1,1,4
+C00627,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Ovitigama,start,267374,0,100000,39084,2000,11,Low,82,26,Feasible,0,4,0,0,1,1,4
+C00628,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Pitumpe,start,417885,0,195000,107731,2299,21,Medium,62,24,Conditionally Feasible,1,3,0,1,2,2,3
+C00629,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Panaluwa,start,379208,0,265299,129612,3622,23,Medium,78,26,Conditionally Feasible,5,3,1,1,1,2,4
+C00630,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Polgasowita,start,223933,0,94774,21681,4771,3,Low,51,27,Conditionally Feasible,0,4,1,0,2,1,4
+C00631,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Kiriwattuduwa,start,27807,52949,122350,97910,1596,21,Medium,60,24,Infeasible,0,3,1,1,1,2,4
+C00632,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Suwapudugama,start,605335,0,266445,178261,3753,20,Medium,46,26,Conditionally Feasible,0,2,0,1,1,2,3
+C00633,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Mullegama,start,301608,0,221723,122245,5299,14,Medium,75,26,Conditionally Feasible,7,3,0,0,2,2,4
+C00634,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Mullegama,start,442999,0,160777,123107,5655,11,High,78,24,Feasible,5,3,1,0,2,1,4
+C00635,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pahala Hanwella,start,291973,0,210898,106357,1549,20,Medium,77,24,Conditionally Feasible,3,3,0,1,1,2,3
+C00636,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meepe,start,281063,0,288491,135000,6000,24,Low,64,26,Conditionally Feasible,0,4,1,1,3,2,4
+C00637,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Dolahena,start,77899,41000,277356,146941,5551,23,Low,54,27,Infeasible,0,3,1,1,1,2,4
+C00638,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Brahamnagama,start,220940,20001,192200,124593,2969,13,Low,72,26,Conditionally Feasible,1,4,1,0,1,2,4
+C00639,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Watareka,start,835077,0,173464,109725,6157,5,Low,77,27,Feasible,0,4,1,0,2,1,4
+C00640,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Ambalangoda,start,236905,0,191867,85009,3829,8,Medium,79,25,Conditionally Feasible,1,4,0,0,2,1,4
+C00641,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Mullegama,start,317818,0,123685,61380,1831,10,High,81,27,Feasible,0,4,0,0,1,1,3
+C00642,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Panagoda,start,579172,0,180003,54000,3000,8,Medium,67,25,Feasible,2,4,1,0,1,1,4
+C00643,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Kiriwattuduwa,start,300113,0,61000,27433,1000,12,Low,77,26,Conditionally Feasible,0,4,0,0,1,2,4
+C00644,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pitipana,start,246319,0,216536,38000,2381,11,High,70,25,Feasible,0,3,1,0,3,1,3
+C00645,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Godagama,start,862605,0,257541,88000,2000,19,Medium,54,24,Conditionally Feasible,1,4,2,1,2,2,4
+C00646,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Jalthara,start,31274,25833,96454,45539,4818,2,Low,69,27,Infeasible,0,3,0,0,2,1,4
+C00647,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Diyagama,start,113832,20001,166839,44961,2737,7,Low,67,25,Conditionally Feasible,0,3,1,0,2,1,3
+C00648,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Jalthara,start,599878,0,281239,105000,3028,18,Low,47,24,Conditionally Feasible,0,3,1,1,3,2,3
+C00649,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Mattegoda,start,109460,69278,294006,155990,6334,16,High,52,25,Infeasible,1,3,1,1,2,2,4
+C00650,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Prasannanpura,start,506409,0,272039,144647,5034,20,Low,65,26,Conditionally Feasible,0,3,1,1,1,2,4
+C00651,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Prasannanpura,start,511954,0,193973,49430,2743,7,High,69,25,Feasible,1,3,0,0,2,1,4
+C00652,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Udagama,start,390773,0,279281,178009,2445,24,Medium,44,26,Infeasible,0,2,2,1,3,2,3
+C00653,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Meegasmulla,start,428474,0,120818,35444,3000,6,Low,51,27,Conditionally Feasible,1,3,1,0,3,1,4
+C00654,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Nawagamuwa,start,472386,0,229479,66110,3710,10,High,48,25,Conditionally Feasible,1,3,0,0,1,1,4
+C00655,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Panagoda,start,3355,26861,195000,82984,4252,6,Medium,67,25,Infeasible,1,4,0,0,1,1,4
+C00656,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Mambulgoda,start,107909,20407,246205,59425,5295,5,Medium,73,26,Infeasible,2,3,0,0,1,1,4
+C00657,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Henpitiya,start,302285,0,265934,125672,6453,14,High,76,26,Conditionally Feasible,2,3,1,0,3,2,4
+C00658,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Polgasowita,start,366413,0,72000,17185,1858,3,High,78,24,Feasible,0,4,0,0,1,1,4
+C00659,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Polgasowita,start,459767,0,285501,160000,5904,10,Low,40,27,Conditionally Feasible,1,4,0,0,3,1,4
+C00660,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Henpita,start,238487,0,53570,22924,3255,2,High,76,27,Feasible,0,3,1,0,1,1,4
+C00661,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Weniwelkola,start,702669,0,263248,95000,4000,17,Medium,84,26,Conditionally Feasible,0,4,0,1,1,2,4
+C00662,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Diyagama,start,236545,20001,235000,130000,5000,14,High,76,27,Conditionally Feasible,0,3,0,0,1,2,4
+C00663,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Ranala,start,479136,0,277581,104047,1811,28,Medium,77,27,Conditionally Feasible,0,5,0,1,2,2,4
+C00664,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Siyambalagoda,start,850885,0,267551,125978,5156,19,Low,63,27,Feasible,1,3,1,1,2,2,4
+C00665,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Prasannanpura,start,477337,0,109213,114861,4673,6,Low,73,26,Feasible,0,4,2,0,2,1,4
+C00666,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Malwana,start,460598,0,125812,22289,1255,2,Medium,91,25,Infeasible,2,5,1,0,1,1,4
+C00667,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Prasannanpura,start,47873,20120,160000,14975,2400,3,Low,72,27,Infeasible,1,4,0,0,3,1,3
+C00668,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Henpitiya,start,487582,0,210000,27569,4959,4,High,66,27,Feasible,0,3,1,0,1,1,4
+C00669,New,Clothing/ Garment,online and local clothing sales,Colombo,Western,Hiripitiya,start,897665,0,188574,38813,6000,3,Medium,67,27,Feasible,0,3,0,0,1,1,3
+C00670,New,Clothing/ Garment,small clothing retail business,Colombo,Western,Polgasowita,start,193729,27000,155000,136453,2190,30,Low,66,25,Conditionally Feasible,0,4,0,1,2,2,4
+C00671,New,Clothing/ Garment,fashion items and garments,Colombo,Western,Pitumpe,start,140997,20001,210048,61000,4966,7,Low,62,27,Conditionally Feasible,2,3,0,0,2,1,3
+C00672,New,Bakery/Food/Grocery,Vehicle sale,Colombo,Western,Watareka,start,523385,0,188547,31654,1200,19,Medium,50,24,Conditionally Feasible,2,3,0,1,1,3,3
+C00673,New,Bakery/Food/Grocery,Vehicle parts,Colombo,Western,Mattegoda,start,661295,0,35621,10978,219,25,Medium,54,26,Conditionally Feasible,1,4,1,1,2,3,4
+C00674,New,Bakery/Food/Grocery,Vehicle import,Colombo,Western,Pitumpe,start,92013,0,151184,25347,1082,16,Low,76,25,Conditionally Feasible,0,4,1,1,2,3,4
+C00675,New,Bakery/Food/Grocery,Vehicle & Comp. Parts,Colombo,Western,Kiriwattuduwa,start,899926,0,250917,50663,996,43,Low,58,26,Conditionally Feasible,0,3,0,2,1,3,3
+C00676,New,Bakery/Food/Grocery,Automobile workshop,Colombo,Western,Mattegoda,start,426177,0,104973,68216,924,36,Medium,54,26,Conditionally Feasible,0,4,1,2,2,3,4
+C00677,New,Bakery/Food/Grocery,Vehicle valuation,Colombo,Western,Diyagama,start,620810,0,84329,15298,444,30,Low,42,26,Conditionally Feasible,0,3,0,1,1,3,3
+C00678,New,Bakery/Food/Grocery,Vehicle import,Colombo,Western,Siddamulla,start,658326,0,75783,17500,234,28,Low,63,25,Conditionally Feasible,2,3,0,1,1,3,3
+C00679,New,Bakery/Food/Grocery,Motor Bike Selling,Colombo,Western,Nawagamuwa,start,809400,0,122848,16642,690,12,Medium,66,24,Feasible,0,4,1,0,2,3,4
+C00680,New,Bakery/Food/Grocery,Motor Bike Selling & Parts,Colombo,Western,Weniwelkola,start,387980,0,87391,18000,1030,6,High,82,25,Feasible,0,3,0,0,2,2,4
+C00681,New,Bakery/Food/Grocery,Motor Bike Parts,Colombo,Western,Watareka,start,327448,0,138329,75000,712,44,Medium,62,27,Conditionally Feasible,0,3,0,2,2,3,3
+C00682,New,Bakery/Food/Grocery,Spaer parts,Colombo,Western,Habarakada,start,326679,0,80000,5000,180,17,High,73,24,Conditionally Feasible,0,3,1,1,3,3,4
+C00683,New,Bakery/Food/Grocery,Garage,Colombo,Western,Malwana,start,372031,0,163643,30967,1000,26,Medium,71,24,Conditionally Feasible,0,4,1,1,1,3,4
+C00684,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Pitipana,start,53015,40348,47000,11343,356,16,Low,52,26,Conditionally Feasible,2,3,0,1,2,3,3
+C00685,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Panagoda,start,92420,20124,109920,35140,1381,9,Low,54,24,Conditionally Feasible,2,4,1,0,2,2,4
+C00686,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Watareka,start,146262,20001,113022,46533,1398,36,Low,87,27,Feasible,2,4,2,2,2,3,3
+C00687,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Kosgama,start,574814,0,73000,16239,715,10,High,60,26,Conditionally Feasible,3,4,1,0,1,2,4
+C00688,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Mambulgoda,start,387117,0,243073,59759,1112,43,Low,76,26,Conditionally Feasible,0,4,0,2,2,3,4
+C00689,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Malwana,start,855709,0,188589,66077,1000,28,Medium,60,26,Conditionally Feasible,1,4,0,1,2,3,4
+C00690,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Palagama,start,62228,22043,177098,44483,1075,16,Medium,77,25,Infeasible,1,4,0,1,2,3,3
+C00691,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Kottawa,start,31395,20000,108214,17568,432,24,Low,58,25,Infeasible,5,4,2,1,1,3,4
+C00692,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Nawagamuwa,start,626986,0,194562,49000,912,26,Low,65,26,Conditionally Feasible,0,5,0,1,1,3,4
+C00693,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Meepe,start,661897,0,147808,37291,616,28,Medium,69,26,Conditionally Feasible,1,3,0,1,2,3,3
+C00694,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Ovitigama,start,504616,0,90882,9403,181,23,Medium,53,25,Conditionally Feasible,0,3,1,1,2,3,4
+C00695,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Habarakada,start,204535,0,178895,35208,463,44,Low,56,26,Conditionally Feasible,2,3,0,2,1,3,3
+C00696,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Puswelikanda,start,304791,0,57385,16177,364,11,Medium,53,27,Conditionally Feasible,1,3,0,0,1,2,3
+C00697,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Thalduwa,start,557782,0,140000,77227,1345,19,Low,85,26,Feasible,0,4,1,1,2,3,4
+C00698,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Hiripitiya,start,367798,0,180000,31634,282,51,Medium,83,27,Conditionally Feasible,0,4,0,2,1,4,3
+C00699,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Godagama,start,339328,0,188011,56395,1099,18,Low,52,27,Conditionally Feasible,0,4,1,1,1,3,4
+C00700,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Puwakpitiya,start,15645,28068,110000,46065,1186,32,Low,47,25,Infeasible,2,3,0,1,2,3,3
+C00701,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Kahathuduwa,start,161223,0,220138,85000,1228,47,Low,73,26,Conditionally Feasible,2,4,1,2,2,4,3
+C00702,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Brahamnagama,start,423985,0,125382,27000,1191,15,Medium,78,24,Feasible,2,4,0,0,2,3,3
+C00703,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Mullegama,start,322477,0,200298,47000,1306,51,High,73,25,Conditionally Feasible,1,3,0,2,2,4,4
+C00704,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Pitipana,start,432100,0,195000,75873,1000,38,Medium,80,26,Conditionally Feasible,1,4,0,2,1,3,3
+C00705,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Pahala Hanwella,start,892355,0,120169,63000,298,49,Medium,70,26,Conditionally Feasible,1,3,0,2,1,4,4
+C00706,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Mattegoda,start,345858,0,165000,55843,1292,20,Low,62,24,Conditionally Feasible,0,4,1,1,1,3,4
+C00707,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Panaluwa,start,134993,0,88628,10419,211,15,Low,76,27,Conditionally Feasible,1,4,0,0,2,3,3
+C00708,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Kottawa,start,886484,0,218757,84547,1350,46,High,74,25,Conditionally Feasible,0,4,0,2,1,4,4
+C00709,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Ranala,start,529459,0,146363,83931,521,42,High,89,26,Conditionally Feasible,1,5,0,2,2,3,4
+C00710,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Polgasowita,start,275360,0,179983,38134,713,27,High,68,27,Conditionally Feasible,0,4,0,1,2,3,4
+C00711,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Uduwana,start,211829,0,251677,60000,1351,53,Medium,63,25,Conditionally Feasible,0,3,0,2,1,4,3
+C00712,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Henwattha,start,24746,23927,32438,9569,208,18,Low,53,25,Conditionally Feasible,1,3,0,1,2,3,4
+C00713,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Godagama,start,437191,0,140000,11626,1145,7,Low,60,26,Feasible,0,5,0,0,2,2,4
+C00714,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Diyagama,start,102632,0,92268,37075,1000,12,Low,56,26,Conditionally Feasible,1,3,0,0,2,3,4
+C00715,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Siyambalagoda,start,4030,42172,194938,46058,1395,26,Low,71,25,Infeasible,2,4,2,1,1,3,3
+C00716,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Meegasmulla,start,164111,20001,259122,59848,1246,37,Medium,81,25,Conditionally Feasible,1,4,0,2,2,3,3
+C00717,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Henpitiya,start,58255,53249,175000,74304,1000,45,High,47,26,Infeasible,3,2,0,2,2,3,3
+C00718,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Meegasmulla,start,262871,0,107022,58000,579,46,Medium,54,25,Conditionally Feasible,0,3,1,2,1,4,4
+C00719,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Jalthara,start,91563,20001,53647,10168,217,14,Medium,83,27,Feasible,0,4,1,0,2,3,4
+C00720,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Puwakpitiya,start,517094,0,197080,34197,832,32,Medium,72,27,Conditionally Feasible,0,3,0,1,3,3,3
+C00721,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Meepe,start,58757,78973,253364,66512,1281,59,High,57,25,Infeasible,1,2,0,3,1,4,3
+C00722,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Arukwatta,start,878796,0,218062,43247,1288,40,High,76,24,Conditionally Feasible,2,3,1,2,1,3,3
+C00723,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Brahamnagama,start,136189,0,81993,4071,428,6,Low,73,24,Conditionally Feasible,3,4,0,0,1,2,4
+C00724,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Pitipana,start,267010,0,31650,8053,408,7,Medium,56,27,Conditionally Feasible,0,3,0,0,1,2,4
+C00725,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Hiripitiya,start,438466,0,240000,64572,1076,33,Low,60,26,Conditionally Feasible,2,3,0,1,1,3,3
+C00726,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Habarakada,start,765034,0,160000,40879,1000,23,Low,54,24,Conditionally Feasible,1,3,2,1,2,3,3
+C00727,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Henpita,start,389337,0,140256,12529,641,7,Low,73,26,Conditionally Feasible,0,4,0,0,2,2,4
+C00728,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Brahamnagama,start,21048,31962,52043,7627,1000,5,High,88,26,Conditionally Feasible,0,4,1,0,3,2,4
+C00729,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Pitumpe,start,415181,0,161406,81000,1260,34,Low,67,27,Conditionally Feasible,0,4,0,1,2,3,4
+C00730,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Thalduwa,start,430434,0,72861,21771,570,23,Low,71,27,Conditionally Feasible,2,4,0,1,2,3,4
+C00731,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Henwattha,start,161323,20000,150420,54800,851,35,High,87,25,Conditionally Feasible,0,4,0,1,2,3,3
+C00732,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Panagoda,start,124857,20001,105000,32684,436,22,Medium,86,25,Conditionally Feasible,2,5,0,1,1,3,4
+C00733,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Arukwatta,start,47210,21243,119427,25825,370,36,Low,41,25,Conditionally Feasible,0,3,1,2,1,3,3
+C00734,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Siddamulla,start,229544,0,113139,35530,1063,22,Low,54,25,Conditionally Feasible,1,3,0,1,2,3,4
+C00735,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Pitipana,start,801719,0,137848,72602,1398,26,Low,70,26,Conditionally Feasible,1,4,0,1,3,3,3
+C00736,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Palagama,start,244038,0,221975,36771,452,42,Low,47,27,Conditionally Feasible,1,3,0,2,2,3,4
+C00737,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Dolahena,start,303932,0,204814,39744,1398,20,Low,70,26,Conditionally Feasible,0,3,0,1,1,3,4
+C00738,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Henpita,start,248027,0,66000,18573,648,11,Low,59,24,Feasible,0,3,0,0,2,2,3
+C00739,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Waga,start,373034,0,84396,9400,449,14,Low,69,24,Conditionally Feasible,2,3,0,0,1,3,4
+C00740,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Bope,start,250065,0,81908,27863,682,16,Low,62,27,Conditionally Feasible,0,3,0,1,1,3,3
+C00741,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Godagama,start,393565,0,114116,43538,790,28,Low,52,24,Conditionally Feasible,1,4,3,1,2,3,4
+C00742,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Kiriwattuduwa,start,770936,0,216301,72381,786,49,Low,46,25,Conditionally Feasible,0,3,1,2,1,4,3
+C00743,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Puswelikanda,start,10570,24000,179609,50766,795,38,High,79,25,Infeasible,5,3,0,2,2,3,4
+C00744,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Uduwana,start,628819,0,137369,37633,936,19,Medium,62,25,Conditionally Feasible,0,3,0,1,2,3,4
+C00745,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Siyambalagoda,start,114772,20001,168544,49194,1356,27,Medium,63,25,Conditionally Feasible,2,3,0,1,2,3,4
+C00746,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Habarakada,start,409966,0,202646,64732,1196,41,Low,61,25,Conditionally Feasible,0,3,0,2,1,3,4
+C00747,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Panaluwa,start,794307,0,241043,51053,1277,45,Medium,71,26,Conditionally Feasible,1,3,0,2,2,3,3
+C00748,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Panagoda,start,680299,0,224949,70481,1123,54,Medium,54,26,Conditionally Feasible,2,4,1,2,2,4,4
+C00749,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Ambalangoda,start,216408,0,225000,68000,781,37,Low,70,25,Conditionally Feasible,0,4,0,2,1,3,4
+C00750,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Kahathuduwa,start,829563,0,69476,4059,260,16,High,80,26,Conditionally Feasible,0,3,0,1,3,3,3
+C00751,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Mullegama,start,284317,0,103956,33412,538,35,High,75,25,Feasible,0,3,2,1,2,3,3
+C00752,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Panagoda,start,5757,58715,136415,34000,1109,16,Medium,81,27,Infeasible,2,5,1,1,1,3,4
+C00753,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Jalthara,start,105098,20003,179613,33224,363,47,Medium,58,26,Conditionally Feasible,0,3,0,2,1,4,3
+C00754,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Godagama,start,116561,48000,129503,60311,458,40,High,85,27,Conditionally Feasible,0,5,1,2,1,3,4
+C00755,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Watareka,start,507688,0,121408,10215,185,33,High,46,26,Conditionally Feasible,0,2,1,1,1,3,3
+C00756,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Suwapudugama,start,163839,0,150410,81529,827,31,Medium,82,25,Conditionally Feasible,0,4,3,1,1,3,4
+C00757,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Arukwatta,start,325674,0,93491,17372,1000,7,High,47,24,Conditionally Feasible,3,2,1,0,2,2,3
+C00758,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Kahathuduwa,start,346441,0,251440,41688,1298,21,Medium,75,25,Conditionally Feasible,2,3,0,1,3,3,4
+C00759,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Diyagama,start,866066,0,172716,68000,1086,24,Medium,58,25,Conditionally Feasible,0,3,0,1,1,3,3
+C00760,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Palagama,start,268778,0,181190,26906,897,27,Medium,52,26,Conditionally Feasible,2,3,1,1,2,3,4
+C00761,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Pahala Hanwella,start,59142,23630,185000,52030,1000,36,Medium,75,26,Infeasible,1,3,1,2,1,3,4
+C00762,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Siyambalagoda,start,218724,0,80190,7961,786,4,Medium,83,24,Conditionally Feasible,0,4,1,0,3,2,3
+C00763,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Mambulgoda,start,583146,0,141725,70439,904,19,High,65,27,Conditionally Feasible,0,3,0,1,2,3,4
+C00764,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Hiripitiya,start,748147,0,245961,50202,1327,26,Medium,54,25,Conditionally Feasible,5,3,0,1,1,3,4
+C00765,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Brahamnagama,start,184142,0,120511,25029,1000,21,Low,57,25,Conditionally Feasible,0,3,0,1,3,3,4
+C00766,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Palagama,start,34422,33512,116634,51664,658,28,High,49,24,Infeasible,2,2,0,1,3,3,3
+C00767,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Puswelikanda,start,481634,0,59872,24955,378,34,High,73,24,Conditionally Feasible,1,3,0,1,1,3,4
+C00768,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Kahathuduwa,start,633627,0,178670,45449,582,35,Medium,84,25,Conditionally Feasible,5,4,0,1,2,3,4
+C00769,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Godagama,start,475442,0,182426,41213,1000,16,High,61,25,Conditionally Feasible,5,3,0,1,1,3,4
+C00770,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Meegasmulla,start,322288,0,143049,34000,679,14,Low,52,26,Conditionally Feasible,0,3,0,0,1,3,3
+C00771,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Henpita,start,444434,0,86264,72000,1000,33,High,79,27,Conditionally Feasible,2,3,0,1,2,3,4
+C00772,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Kiriwattuduwa,start,53563,26381,125000,59764,861,23,High,84,26,Infeasible,1,4,2,1,1,3,4
+C00773,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Godagama,start,889145,0,229672,38240,930,18,Low,66,27,Conditionally Feasible,0,5,0,1,1,3,4
+C00774,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Habarakada,start,463583,0,208501,30028,1000,14,Low,60,27,Feasible,2,3,1,0,2,3,4
+C00775,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Kiriwattuduwa,start,553732,0,121492,70007,649,37,Medium,58,26,Conditionally Feasible,1,3,0,2,3,3,3
+C00776,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Panagoda,start,155653,20001,233413,52852,1000,44,High,81,27,Conditionally Feasible,0,4,0,2,3,3,4
+C00777,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Siyambalagoda,start,83175,20001,75000,14928,592,9,High,78,25,Conditionally Feasible,3,3,2,0,1,2,4
+C00778,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Godagama,start,733451,0,65413,13882,259,26,High,72,25,Conditionally Feasible,0,4,0,1,1,3,4
+C00779,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Nawagamuwa,start,686506,0,231522,63061,947,59,Medium,51,26,Conditionally Feasible,1,4,0,3,1,4,4
+C00780,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Hiripitiya,start,272390,0,240425,82260,742,42,Low,62,27,Conditionally Feasible,0,3,0,2,1,3,3
+C00781,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Siyambalagoda,start,717825,0,165617,69106,877,24,Low,50,27,Conditionally Feasible,5,3,0,1,2,3,3
+C00782,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Panaluwa,start,872553,0,71432,12000,1230,7,Medium,44,27,Infeasible,1,2,1,0,2,2,3
+C00783,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Habarakada,start,15280,25000,118319,23652,464,28,Low,78,25,Infeasible,0,4,0,1,3,3,4
+C00784,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Jalthara,start,377161,0,178469,25776,615,26,High,72,24,Feasible,2,3,1,1,3,3,3
+C00785,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Waga,start,122412,0,144713,38079,1215,26,Medium,67,24,Conditionally Feasible,0,3,0,1,1,3,3
+C00786,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Henwattha,start,464280,0,125744,29884,1227,17,High,76,24,Feasible,2,3,1,1,2,3,3
+C00787,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Uduwana,start,149592,0,202304,49000,1195,32,Medium,56,25,Conditionally Feasible,0,3,0,1,1,3,3
+C00788,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Godagama,start,469835,0,164725,80246,1200,31,High,52,27,Conditionally Feasible,2,3,0,1,2,3,4
+C00789,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Uduwana,start,633587,0,113660,64693,549,40,Low,53,27,Conditionally Feasible,1,3,1,2,3,3,3
+C00790,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Henwattha,start,207630,0,149429,19496,417,33,Medium,60,24,Conditionally Feasible,0,3,0,1,1,3,3
+C00791,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Uduwana,start,637669,0,250000,68000,1000,49,Medium,81,25,Conditionally Feasible,0,4,0,2,1,4,3
+C00792,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Siyambalagoda,start,291725,0,225612,65242,1066,25,Medium,64,25,Conditionally Feasible,0,3,0,1,1,3,4
+C00793,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Kottawa,start,702500,0,223548,59000,1017,51,Low,50,24,Conditionally Feasible,0,4,0,2,2,4,4
+C00794,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Godagama,start,227743,0,202062,53358,649,45,Low,50,25,Conditionally Feasible,0,4,1,2,2,3,4
+C00795,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Ambalangoda,start,440993,0,183377,61000,1023,31,Medium,65,27,Conditionally Feasible,0,3,2,1,1,3,4
+C00796,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Siddamulla,start,275155,0,245868,67602,1000,54,High,52,27,Conditionally Feasible,0,2,0,2,1,4,4
+C00797,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Ambalangoda,start,493542,0,150929,51000,1000,20,Low,69,26,Conditionally Feasible,0,4,0,1,1,3,4
+C00798,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Henpitiya,start,352736,0,74652,22567,384,26,Low,45,27,Conditionally Feasible,0,3,0,1,1,3,3
+C00799,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Kiriwattuduwa,start,223719,0,158102,45615,1170,24,Medium,87,26,Conditionally Feasible,1,4,0,1,1,3,4
+C00800,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Siyambalagoda,start,343158,0,243661,71274,1285,39,High,87,24,Conditionally Feasible,2,3,1,2,2,3,3
+C00801,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Meepe,start,527061,0,236182,46153,1324,55,Medium,60,24,Conditionally Feasible,1,3,0,2,3,4,3
+C00802,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Kahathuduwa,start,430014,0,116561,46436,989,31,High,82,27,Conditionally Feasible,2,4,0,1,2,3,4
+C00803,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Brahamnagama,start,42150,33000,111648,16000,249,26,Medium,62,25,Conditionally Feasible,0,3,0,1,2,3,3
+C00804,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Meegasmulla,start,364682,0,198127,43332,750,35,Medium,58,27,Conditionally Feasible,0,3,1,1,1,3,4
+C00805,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Palagama,start,586019,0,147510,74747,1000,34,Medium,70,27,Conditionally Feasible,1,4,1,1,1,3,4
+C00806,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Prasannanpura,start,381058,0,71000,23061,213,40,Low,86,25,Conditionally Feasible,1,4,0,2,3,3,3
+C00807,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Hiripitiya,start,20234,35539,164545,43000,1000,36,Low,71,26,Infeasible,2,4,0,2,2,3,3
+C00808,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Arukwatta,start,291473,0,70589,17609,346,25,Medium,86,27,Conditionally Feasible,0,4,2,1,1,3,3
+C00809,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Prasannanpura,start,599547,0,165263,46706,1122,34,Medium,57,26,Conditionally Feasible,0,3,0,1,3,3,4
+C00810,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Siddamulla,start,326760,0,224927,57383,882,55,Low,81,24,Conditionally Feasible,2,4,1,2,2,4,3
+C00811,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Ovitigama,start,180464,0,87568,76000,1000,18,High,85,26,Conditionally Feasible,1,4,0,1,1,3,3
+C00812,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Uduwana,start,135316,26743,243044,63579,1000,31,High,73,24,Conditionally Feasible,0,3,1,1,1,3,3
+C00813,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Meegasmulla,start,36734,28336,184150,10526,239,26,Medium,73,26,Infeasible,2,3,0,1,1,3,4
+C00814,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Mullegama,start,241067,0,64674,21556,826,11,Low,51,24,Conditionally Feasible,0,3,0,0,2,2,3
+C00815,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Henpita,start,674153,0,145175,64335,1185,22,Low,71,25,Conditionally Feasible,0,4,1,1,1,3,4
+C00816,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Suwapudugama,start,385974,0,186883,28268,666,42,Low,62,24,Conditionally Feasible,2,4,0,2,1,3,4
+C00817,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Waga,start,540446,0,83000,24410,479,20,Medium,51,27,Conditionally Feasible,1,2,1,1,1,3,4
+C00818,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Panaluwa,start,316913,0,120026,47394,434,36,High,72,24,Conditionally Feasible,0,3,0,2,2,3,3
+C00819,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Mullegama,start,29329,81479,67910,54446,966,15,Medium,75,26,Conditionally Feasible,0,4,1,0,1,3,4
+C00820,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Panagoda,start,397154,0,147526,32966,412,36,Low,75,27,Conditionally Feasible,7,5,1,2,1,3,4
+C00821,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Hiripitiya,start,420056,0,146503,25407,1000,24,Medium,64,24,Feasible,0,3,2,1,2,3,3
+C00822,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Kahathuduwa,start,48812,34407,217045,22991,619,24,Low,76,26,Infeasible,2,4,1,1,3,3,4
+C00823,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Panaluwa,start,77540,56617,192426,77000,1000,35,Low,84,24,Conditionally Feasible,0,4,0,1,2,3,3
+C00824,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Meegasmulla,start,41358,26000,220504,55292,1071,37,Low,67,24,Infeasible,3,4,0,2,1,3,3
+C00825,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Watareka,start,150218,0,206539,80861,922,34,Medium,56,24,Conditionally Feasible,1,3,2,1,1,3,3
+C00826,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Weniwelkola,start,489232,0,197961,58122,1120,24,High,67,26,Conditionally Feasible,0,3,1,1,1,3,4
+C00827,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Jalthara,start,276167,0,113655,15593,443,11,Low,48,26,Conditionally Feasible,0,3,0,0,3,2,4
+C00828,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Siyambalagoda,start,129614,20001,163488,22852,516,24,Medium,59,26,Conditionally Feasible,0,3,0,1,3,3,4
+C00829,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Bope,start,101876,20001,93289,69335,885,24,Medium,77,25,Conditionally Feasible,0,3,0,1,3,3,3
+C00830,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Suwapudugama,start,796620,0,94483,37000,270,34,Low,48,27,Conditionally Feasible,0,3,1,1,2,3,3
+C00831,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Habarakada,start,771474,0,222176,59164,1000,37,Medium,79,27,Conditionally Feasible,7,4,1,2,1,3,3
+C00832,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Ambalangoda,start,866950,0,223432,83000,1282,47,Medium,48,26,Conditionally Feasible,7,3,0,2,3,4,4
+C00833,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Siddamulla,start,824429,0,225000,75097,496,42,High,39,27,Infeasible,0,2,1,2,2,3,4
+C00834,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Mambulgoda,start,19754,45682,64168,6846,244,6,Medium,82,27,Infeasible,2,4,0,0,2,2,3
+C00835,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Palagama,start,769086,0,165000,50239,617,33,Low,85,25,Conditionally Feasible,1,4,0,1,1,3,4
+C00836,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Watareka,start,558666,0,150011,37334,1032,25,Low,54,25,Conditionally Feasible,1,3,0,1,1,3,4
+C00837,New,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Meegasmulla,start,618385,0,107866,33000,851,21,High,82,25,Conditionally Feasible,0,3,0,1,1,3,4
+C00838,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Weniwelkola,start,29416,21219,95000,26647,1307,10,Low,53,27,Infeasible,5,3,0,0,1,2,3
+C00839,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Ranala,start,277013,0,231853,51571,1000,32,Low,74,24,Conditionally Feasible,2,5,0,1,2,3,4
+C00840,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Uduwana,start,94379,20697,158283,57104,818,35,High,87,24,Conditionally Feasible,3,4,0,1,1,3,3
+C00841,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Godagama,start,187041,0,163537,35953,659,42,Medium,66,25,Conditionally Feasible,2,4,1,2,3,3,4
+C00842,New,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Suwapudugama,start,67546,26544,155771,39117,606,22,Low,46,26,Conditionally Feasible,0,3,2,1,2,3,4
+C00843,New,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Meepe,start,137215,0,245000,56630,1000,44,Low,51,26,Conditionally Feasible,5,3,0,2,2,3,3
+C00844,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Meepe,expand,214392,0,77000,31000,2000,20,Low,61,24,Feasible,1,3,2,1,3,3,4
+C00845,Existing,Clothing/ Garment,small IT and digital services business,Colombo,Western,Meegoda,maintain,465868,0,137533,39544,1564,17,Low,63,27,Feasible,10,5,1,1,3,2,4
+C00846,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Palagama,maintain,314071,0,98004,22519,674,13,Medium,81,26,Feasible,5,4,0,0,5,3,5
+C00847,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Pahala Hanwella,improve,617953,0,246480,48812,1019,35,High,60,24,Feasible,3,3,1,1,5,3,3
+C00848,Existing,Clothing/ Garment,digital support and computer services,Colombo,Western,Kahathuduwa,expand,453467,0,190000,40217,1648,20,Medium,84,24,Feasible,0,4,2,1,3,2,3
+C00849,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Mattegoda,maintain,599858,0,271949,115000,5028,30,Low,54,25,Conditionally Feasible,3,4,2,1,4,2,4
+C00850,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Siddamulla,improve,438721,0,134381,26761,297,63,High,51,27,Conditionally Feasible,3,2,3,3,4,4,5
+C00851,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Godagama,improve,558036,0,143015,22000,2127,12,Low,50,26,Conditionally Feasible,3,4,0,0,3,3,5
+C00852,Existing,Clothing/ Garment,web and software services,Colombo,Western,Hiripitiya,expand,229967,0,291342,77249,3188,32,Medium,45,25,Conditionally Feasible,3,2,2,2,2,2,4
+C00853,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Mambulgoda,expand,116257,0,173262,31319,3445,15,High,67,26,Conditionally Feasible,5,3,1,1,3,3,3
+C00854,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Dolahena,improve,834094,0,145000,34768,791,24,Low,58,27,Feasible,1,3,1,1,3,3,4
+C00855,Existing,Clothing/ Garment,web and software services,Colombo,Western,Bope,improve,571255,0,77000,79043,5912,5,Medium,66,26,Feasible,5,3,1,0,3,1,3
+C00856,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Henwattha,expand,632728,0,198582,109052,2000,23,Medium,80,24,Conditionally Feasible,7,3,2,1,1,2,5
+C00857,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Bope,expand,566100,0,75835,18902,1254,10,High,67,26,Feasible,2,3,1,0,2,2,4
+C00858,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Polgasowita,maintain,75265,28473,164623,34091,3246,27,Medium,71,27,Conditionally Feasible,2,4,1,1,3,3,5
+C00859,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Hiripitiya,expand,444422,0,244824,47704,1340,52,Medium,73,26,Conditionally Feasible,2,3,2,3,3,5,4
+C00860,Existing,Clothing/ Garment,web and software services,Colombo,Western,Weniwelkola,improve,497854,0,185000,83860,2144,34,High,36,24,Infeasible,3,2,1,1,3,2,3
+C00861,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Panagoda,expand,378001,0,105798,9291,252,26,Low,68,27,Feasible,3,5,2,1,2,3,5
+C00862,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Weniwelkola,expand,495830,0,114978,15503,2337,8,Medium,61,24,Feasible,5,3,0,0,3,1,4
+C00863,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Henpita,improve,425956,0,250000,75542,4000,21,Low,63,24,Feasible,2,3,2,1,4,2,5
+C00864,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Arukwatta,maintain,111022,0,144499,36908,2059,11,High,47,27,Conditionally Feasible,7,2,0,0,4,2,3
+C00865,Existing,Clothing/ Garment,web and software services,Colombo,Western,Meegoda,expand,160831,0,192519,66589,2258,15,High,79,26,Conditionally Feasible,2,4,1,0,1,2,4
+C00866,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Arukwatta,improve,606590,0,154808,15037,857,17,High,83,25,Conditionally Feasible,3,3,0,1,3,3,3
+C00867,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Panagoda,expand,462587,0,159047,29043,1154,20,Medium,56,27,Feasible,12,4,1,1,4,2,5
+C00868,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Kosgama,expand,664884,0,119468,59012,1000,35,Low,72,26,Feasible,3,5,2,2,4,3,4
+C00869,Existing,Beauty Saloon,web and software services,Colombo,Western,Arukwatta,improve,612271,0,162434,33237,2099,12,Low,72,26,Feasible,5,3,1,0,3,3,3
+C00870,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Mattegoda,improve,139008,0,183899,29574,1745,19,Medium,83,26,Conditionally Feasible,2,5,1,1,3,3,5
+C00871,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Panagoda,improve,768940,0,270008,103677,6000,19,Low,67,25,Feasible,1,4,1,1,3,2,4
+C00872,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Brahamnagama,maintain,154502,0,128671,9000,367,29,Medium,55,24,Feasible,10,3,1,1,2,2,4
+C00873,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Meegasmulla,maintain,715460,0,122302,21317,2661,6,High,82,25,Feasible,5,3,1,0,1,1,4
+C00874,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Hiripitiya,maintain,812626,0,153546,20978,2551,8,Low,57,25,Feasible,5,3,1,0,4,1,4
+C00875,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Palagama,maintain,702642,0,89000,11227,199,23,High,61,25,Feasible,2,3,1,1,2,3,5
+C00876,Existing,Clothing/ Garment,digital support and computer services,Colombo,Western,Siyambalagoda,maintain,345799,0,185251,37322,1116,19,Low,41,24,Conditionally Feasible,5,3,1,1,3,2,5
+C00877,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Malwana,expand,3325,57969,142368,33000,1000,43,Medium,69,27,Infeasible,2,4,3,3,3,3,4
+C00878,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Mambulgoda,expand,606623,0,86972,9700,519,12,Medium,62,25,Conditionally Feasible,7,3,1,0,1,3,3
+C00879,Existing,Grocery/Mini-Mart,small IT and digital services business,Colombo,Western,Palagama,expand,199374,0,231357,106717,1000,59,Low,88,26,Conditionally Feasible,3,4,3,4,4,4,5
+C00880,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Henpita,maintain,295322,0,247498,49608,980,37,Low,61,27,Feasible,3,4,3,2,3,2,4
+C00881,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Pitumpe,improve,836621,0,241657,59321,1000,34,Low,37,25,Conditionally Feasible,3,3,1,1,3,3,4
+C00882,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Siddamulla,expand,244844,0,167299,30284,3077,16,Low,72,25,Feasible,3,3,2,1,3,3,3
+C00883,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Mullegama,maintain,863295,0,285000,89462,4195,35,Medium,61,27,Feasible,7,3,1,1,2,2,3
+C00884,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Prasannanpura,expand,70698,20000,321884,58654,1325,35,Low,60,24,Infeasible,7,3,2,2,1,2,4
+C00885,Existing,Beauty Saloon,digital support and computer services,Colombo,Western,Henwattha,expand,377151,0,124025,11071,1165,8,Medium,74,25,Feasible,1,4,0,0,3,2,5
+C00886,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Ovitigama,expand,266190,0,102396,10000,493,8,Medium,68,27,Conditionally Feasible,1,3,1,0,3,2,5
+C00887,Existing,Clothing/ Garment,digital support and computer services,Colombo,Western,Watareka,improve,357582,0,284333,88793,4000,26,Low,75,26,Feasible,7,4,1,1,3,2,5
+C00888,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Panaluwa,improve,348012,0,210739,40389,1168,35,Low,64,27,Feasible,5,4,1,1,3,3,4
+C00889,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Arukwatta,improve,714845,0,135792,28538,1000,21,Medium,81,27,Feasible,3,4,2,1,4,3,3
+C00890,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Pahala Hanwella,improve,101387,20001,167195,44582,1155,23,Medium,67,24,Conditionally Feasible,2,3,1,1,3,3,3
+C00891,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Kosgama,maintain,209297,0,321253,128648,2725,30,Low,69,27,Conditionally Feasible,3,5,1,1,3,2,5
+C00892,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Mambulgoda,maintain,528315,0,151648,50700,593,46,High,89,25,Feasible,3,4,2,2,4,4,4
+C00893,Existing,Beauty Saloon,small IT and digital services business,Colombo,Western,Bope,maintain,235885,0,108674,24599,1000,11,High,75,27,Feasible,1,3,1,0,3,2,4
+C00894,Existing,Beauty Saloon,web and software services,Colombo,Western,Meegasmulla,maintain,894245,0,62150,12927,751,10,High,50,27,Conditionally Feasible,1,2,0,0,3,2,3
+C00895,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Henwattha,expand,316961,0,318562,82320,3000,55,Low,68,25,Conditionally Feasible,3,4,2,3,3,4,5
+C00896,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Mattegoda,improve,729596,0,332569,151746,1619,54,Medium,74,25,Feasible,7,4,2,2,4,3,5
+C00897,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Puwakpitiya,maintain,300631,0,165703,41215,3000,18,Medium,59,25,Feasible,5,3,1,1,4,3,3
+C00898,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Thalduwa,maintain,892305,0,128195,5939,180,16,Low,80,25,Infeasible,1,4,1,1,4,3,4
+C00899,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Kahathuduwa,expand,789425,0,340137,169601,2153,73,Medium,87,24,Conditionally Feasible,7,4,3,4,2,4,5
+C00900,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Nawagamuwa,maintain,422984,0,265000,86342,6000,19,High,82,27,Feasible,3,5,1,1,3,2,4
+C00901,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Dolahena,maintain,303723,0,125181,51274,1002,38,Low,58,26,Feasible,1,3,2,2,5,3,3
+C00902,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Pitipana,improve,106829,0,303860,85000,1191,36,High,80,25,Infeasible,12,3,2,2,4,2,5
+C00903,Existing,Grocery/Mini-Mart,web and software services,Colombo,Western,Thalduwa,improve,665683,0,109351,28127,916,24,Low,65,24,Feasible,2,4,1,1,2,2,5
+C00904,Existing,Beauty Saloon,small IT and digital services business,Colombo,Western,Siddamulla,expand,778584,0,124641,32368,1977,19,Low,75,24,Feasible,0,4,1,1,3,3,4
+C00905,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meepe,expand,382079,0,231960,50282,1707,22,Medium,83,25,Feasible,7,4,1,1,3,2,4
+C00906,Existing,Clothing/ Garment,web and software services,Colombo,Western,Diyagama,improve,352932,0,174189,121943,2000,29,Low,61,25,Feasible,3,3,1,1,2,2,5
+C00907,Existing,Clothing/ Garment,web and software services,Colombo,Western,Godagama,maintain,217971,0,220378,94750,2090,30,Low,84,27,Conditionally Feasible,2,5,0,1,3,2,5
+C00908,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Kahathuduwa,expand,485649,0,230404,61004,1055,46,Medium,71,27,Conditionally Feasible,1,3,2,3,3,5,5
+C00909,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Pitumpe,maintain,61061,0,337351,133188,2425,60,Low,67,24,Infeasible,3,4,3,3,4,3,4
+C00910,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Bope,maintain,583683,0,295000,86193,1589,72,Low,83,24,Feasible,5,4,3,3,5,3,5
+C00911,Existing,Grocery/Mini-Mart,web and software services,Colombo,Western,Ovitigama,expand,388206,0,301007,100000,2862,63,Low,92,26,Feasible,1,5,3,4,3,4,4
+C00912,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Suwapudugama,expand,620859,0,170000,27000,579,36,Medium,70,24,Feasible,3,3,2,3,3,4,5
+C00913,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Siyambalagoda,expand,806022,0,159433,23000,509,33,Low,57,25,Conditionally Feasible,5,3,1,2,5,3,5
+C00914,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Habarakada,expand,430080,0,221899,55009,1072,39,High,83,24,Feasible,5,4,3,3,3,4,4
+C00915,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Henpitiya,improve,769230,0,228301,33892,808,34,High,86,24,Feasible,1,4,1,1,5,3,3
+C00916,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Panagoda,maintain,490358,0,84040,30067,2298,7,Medium,66,26,Feasible,7,4,1,0,4,2,5
+C00917,Existing,Clothing/ Garment,small IT and digital services business,Colombo,Western,Polgasowita,improve,752543,0,290000,130000,3879,24,High,48,26,Conditionally Feasible,7,3,1,1,3,2,5
+C00918,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Mambulgoda,expand,57131,21000,89283,10847,356,30,Low,47,25,Conditionally Feasible,7,3,1,1,1,2,4
+C00919,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Suwapudugama,improve,383481,0,252705,38786,1000,50,Medium,73,24,Conditionally Feasible,5,4,2,2,1,4,5
+C00920,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meegasmulla,expand,458544,0,255691,116172,5504,25,Medium,57,27,Feasible,7,3,2,1,3,2,4
+C00921,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Dolahena,expand,353379,0,166820,25006,1000,11,High,62,27,Feasible,2,3,0,0,4,1,4
+C00922,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Pitipana,improve,765230,0,170000,36033,1180,13,Low,60,26,Feasible,3,3,0,0,4,2,5
+C00923,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Palagama,expand,86633,0,143732,9490,2000,4,Medium,56,26,Conditionally Feasible,4,3,0,0,5,2,3
+C00924,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Suwapudugama,improve,211541,0,334553,158385,1974,59,Low,76,27,Infeasible,0,4,3,3,3,3,4
+C00925,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Uduwana,expand,733314,0,230000,39925,4716,6,Low,43,24,Conditionally Feasible,1,3,1,0,3,1,3
+C00926,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Polgasowita,expand,515527,0,248578,48857,1187,62,Low,75,25,Conditionally Feasible,3,5,3,4,3,5,5
+C00927,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Puwakpitiya,improve,465836,0,174038,21252,3000,21,Low,54,24,Conditionally Feasible,5,3,2,1,4,3,4
+C00928,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Puswelikanda,expand,442663,0,72412,8139,1123,7,Medium,72,27,Feasible,0,4,1,0,3,2,4
+C00929,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Mattegoda,expand,359545,0,63060,9000,252,25,Medium,46,25,Conditionally Feasible,4,4,1,1,3,3,4
+C00930,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Udagama,maintain,716405,0,93575,13628,2985,2,Medium,72,24,Feasible,5,3,1,0,3,1,3
+C00931,Existing,Clothing/ Garment,digital support and computer services,Colombo,Western,Ambalangoda,maintain,427565,0,258419,96117,5307,28,Medium,47,25,Conditionally Feasible,5,2,2,1,5,2,4
+C00932,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Brahamnagama,maintain,460755,0,265436,105000,2115,33,High,79,24,Feasible,7,3,1,1,4,2,3
+C00933,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Kahathuduwa,maintain,695759,0,296582,90093,3642,32,Low,65,25,Feasible,2,4,1,1,4,2,4
+C00934,Existing,Bakery/Food/Grocery,small IT and digital services business,Colombo,Western,Polgasowita,expand,453824,0,245199,39000,1191,52,Low,80,27,Conditionally Feasible,5,5,3,3,2,5,5
+C00935,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Panagoda,expand,475699,0,181336,28592,3000,21,Medium,87,26,Feasible,7,5,2,1,3,3,4
+C00936,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Mattegoda,improve,170679,0,239294,80000,1254,41,Medium,92,27,Conditionally Feasible,5,5,1,2,4,2,5
+C00937,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Meegasmulla,maintain,416125,0,275836,55029,2054,17,Medium,46,27,Conditionally Feasible,5,2,1,1,2,2,3
+C00938,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Henpita,maintain,588358,0,107858,38427,2000,9,Low,73,24,Feasible,3,4,1,0,5,2,4
+C00939,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Thalduwa,maintain,219527,0,310330,136562,1178,65,High,64,24,Conditionally Feasible,2,3,3,3,5,3,4
+C00940,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Udagama,improve,598410,0,101552,16330,206,30,Low,57,27,Feasible,3,3,2,1,2,3,4
+C00941,Existing,Grocery/Mini-Mart,small IT and digital services business,Colombo,Western,Godagama,expand,215918,0,330521,133894,2000,52,Low,75,27,Conditionally Feasible,2,5,3,3,4,4,4
+C00942,Existing,Grocery/Mini-Mart,small IT and digital services business,Colombo,Western,Panagoda,maintain,814053,0,309405,35000,2011,17,Low,60,25,Feasible,5,4,1,1,4,2,5
+C00943,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Kottawa,improve,708674,0,288431,153060,709,73,High,67,25,Feasible,1,4,3,3,4,3,4
+C00944,Existing,Beauty Saloon,web and software services,Colombo,Western,Kottawa,improve,58457,29000,167455,23542,1653,30,High,82,25,Conditionally Feasible,7,5,1,1,3,3,5
+C00945,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Polgasowita,maintain,510895,0,95201,26357,331,49,Medium,57,27,Feasible,5,4,2,2,3,4,5
+C00946,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Ranala,improve,385933,0,188125,28732,3000,10,Low,70,27,Feasible,0,5,1,0,5,2,4
+C00947,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Palagama,expand,368402,0,93114,15250,1053,7,High,68,24,Feasible,5,3,1,0,3,2,3
+C00948,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Henpita,maintain,473674,0,217383,40116,1084,39,High,62,27,Feasible,7,3,2,2,3,3,3
+C00949,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Panagoda,maintain,837228,0,142861,9825,295,38,Medium,70,25,Feasible,3,4,3,2,3,3,4
+C00950,Existing,Beauty Saloon,web and software services,Colombo,Western,Uduwana,expand,593632,0,193066,24000,3312,23,Medium,78,26,Feasible,2,4,1,1,4,3,3
+C00951,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Polgasowita,maintain,623623,0,170012,60171,493,78,Low,74,27,Feasible,4,5,3,3,3,3,4
+C00952,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Ovitigama,maintain,321028,0,281793,105043,3504,18,Low,47,25,Conditionally Feasible,7,3,1,1,2,2,4
+C00953,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Puwakpitiya,improve,458912,0,239010,60611,1226,54,Low,55,25,Feasible,5,3,2,2,4,4,5
+C00954,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Kottawa,maintain,192095,0,255367,37509,1000,59,Medium,69,27,Conditionally Feasible,3,4,2,3,4,4,5
+C00955,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Malwana,expand,882980,0,288570,110338,2966,38,Medium,58,24,Feasible,3,4,4,3,3,3,5
+C00956,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Suwapudugama,improve,258479,0,172121,29894,2236,19,Low,52,25,Conditionally Feasible,7,3,1,1,4,3,4
+C00957,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Nawagamuwa,improve,388546,0,129285,28888,334,38,Low,67,25,Feasible,5,5,2,2,3,2,4
+C00958,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Panagoda,improve,113211,20000,332236,155000,2713,75,Medium,59,27,Infeasible,5,4,2,3,3,3,4
+C00959,Existing,Beauty Saloon,web and software services,Colombo,Western,Arukwatta,maintain,483883,0,166878,35219,1847,16,Medium,76,25,Feasible,7,3,2,1,2,3,3
+C00960,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Ambalangoda,expand,568289,0,285000,70467,6334,12,Medium,80,27,Feasible,10,3,0,0,3,2,4
+C00961,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Pitumpe,maintain,356698,0,340000,78231,2504,19,Medium,65,25,Conditionally Feasible,4,3,1,1,3,2,5
+C00962,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Pahala Hanwella,expand,838920,0,178575,22571,1851,24,Low,45,24,Conditionally Feasible,1,3,1,1,5,3,4
+C00963,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Ovitigama,maintain,668327,0,74237,17708,2000,9,High,47,24,Conditionally Feasible,5,2,0,0,3,2,3
+C00964,Existing,Bakery/Food/Grocery,digital support and computer services,Colombo,Western,Diyagama,expand,865186,0,90501,16496,872,23,Medium,70,24,Feasible,7,4,2,1,4,3,4
+C00965,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Waga,expand,8674,25372,289092,100000,1738,62,High,82,24,Infeasible,2,3,4,4,4,4,5
+C00966,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Henpitiya,maintain,397665,0,327496,156982,2641,60,High,60,24,Conditionally Feasible,0,3,3,3,3,3,5
+C00967,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Kahathuduwa,maintain,321249,0,234809,23958,1041,24,High,67,26,Conditionally Feasible,2,3,0,1,3,2,5
+C00968,Existing,Grocery/Mini-Mart,digital support and computer services,Colombo,Western,Pitipana,expand,581355,0,285000,121012,1248,70,High,61,24,Conditionally Feasible,3,3,3,4,2,4,4
+C00969,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Meegasmulla,improve,59687,26013,301182,157655,2568,20,Medium,59,26,Infeasible,5,3,0,1,3,2,5
+C00970,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Siddamulla,improve,138002,0,275485,75000,2186,39,Medium,75,25,Infeasible,7,4,3,2,5,2,4
+C00971,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Siyambalagoda,maintain,576848,0,291968,89431,5000,26,Medium,79,27,Feasible,5,3,2,1,3,2,3
+C00972,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Habarakada,expand,307217,0,262181,75000,3362,32,Low,60,24,Feasible,3,3,2,2,5,2,5
+C00973,Existing,Beauty Saloon,small IT and digital services business,Colombo,Western,Mattegoda,improve,366928,0,154709,21673,2190,11,Medium,56,27,Feasible,5,4,1,0,2,2,4
+C00974,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Bope,improve,588059,0,175206,28816,1042,23,Low,56,26,Feasible,5,3,2,1,5,2,3
+C00975,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Siddamulla,expand,412055,0,227974,66787,889,47,Low,90,25,Feasible,2,4,3,3,4,4,4
+C00976,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Malwana,expand,741604,0,112730,20752,491,21,High,82,25,Feasible,7,5,1,1,2,3,4
+C00977,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Puswelikanda,maintain,150476,0,176030,66099,806,53,Medium,67,26,Conditionally Feasible,2,3,2,2,3,3,4
+C00978,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Panagoda,maintain,83331,20000,301206,189606,3000,30,High,82,24,Infeasible,5,4,0,1,2,2,4
+C00979,Existing,Grocery/Mini-Mart,web and software services,Colombo,Western,Kottawa,improve,853644,0,197655,103789,1847,24,Low,70,25,Feasible,5,5,1,1,4,2,4
+C00980,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Udagama,maintain,18709,20000,240000,75581,2335,27,Medium,63,26,Infeasible,1,3,1,1,5,2,4
+C00981,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Diyagama,expand,163427,0,337430,109418,1385,55,Medium,59,25,Infeasible,2,3,2,3,4,4,5
+C00982,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Siyambalagoda,maintain,429287,0,190000,21000,3114,15,Medium,66,27,Feasible,4,3,1,1,3,3,3
+C00983,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Kosgama,improve,536289,0,137477,82006,4000,16,Low,64,25,Conditionally Feasible,3,4,0,1,2,2,5
+C00984,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Pitipana,maintain,222490,0,112941,15898,1521,5,High,76,27,Feasible,7,3,1,0,2,2,5
+C00985,Existing,Grocery/Mini-Mart,web and software services,Colombo,Western,Waga,maintain,86052,20000,181937,30139,599,42,Medium,65,27,Conditionally Feasible,3,3,3,2,4,2,5
+C00986,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Henpita,expand,386687,0,158655,22000,5678,2,Medium,64,24,Feasible,5,3,1,0,4,1,3
+C00987,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Palagama,maintain,460614,0,183983,44000,4648,10,Low,58,27,Feasible,5,3,1,0,3,1,5
+C00988,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Mambulgoda,improve,264534,0,106919,18302,317,22,Low,62,26,Feasible,3,3,1,1,2,2,5
+C00989,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Puswelikanda,maintain,377560,0,301923,92106,6236,17,High,80,26,Feasible,5,3,1,1,3,2,3
+C00990,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Weniwelkola,maintain,647370,0,195631,56005,735,46,Low,73,26,Feasible,5,4,2,2,4,4,3
+C00991,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Puswelikanda,maintain,571436,0,288698,139093,6245,26,Medium,76,24,Feasible,0,4,2,1,2,2,4
+C00992,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Mambulgoda,improve,197277,0,192731,33000,2351,18,Low,67,27,Conditionally Feasible,0,3,1,1,5,3,5
+C00993,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Kottawa,maintain,775000,0,150149,35444,2853,11,Low,74,26,Feasible,5,5,0,0,3,2,4
+C00994,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Pitipana,improve,57031,0,177132,17259,2372,22,Medium,69,27,Infeasible,2,3,2,1,4,3,5
+C00995,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Diyagama,improve,356918,0,165053,26260,2284,22,Low,64,26,Feasible,5,4,1,1,3,3,4
+C00996,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Brahamnagama,maintain,330156,0,210087,30828,1513,14,Medium,65,26,Feasible,5,3,1,0,4,2,5
+C00997,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Pitumpe,expand,508914,0,60744,7766,426,13,Low,61,25,Feasible,7,3,1,0,2,3,5
+C00998,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Panaluwa,improve,767006,0,175000,30970,2332,28,Medium,76,24,Feasible,5,4,1,1,4,3,4
+C00999,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Polgasowita,expand,472825,0,299566,111979,3000,74,Medium,88,24,Feasible,5,5,2,4,3,4,5
+C01000,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Udagama,improve,309985,0,229501,70249,934,50,Low,63,27,Feasible,12,4,2,2,4,4,4
+C01001,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Diyagama,improve,466348,0,265380,98558,6000,12,High,73,27,Feasible,2,3,0,0,3,2,3
+C01002,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Brahamnagama,maintain,820509,0,149730,44529,1000,40,High,75,24,Feasible,1,3,2,2,3,3,5
+C01003,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Waga,improve,655741,0,120000,30063,1000,16,Medium,74,26,Conditionally Feasible,7,3,0,1,3,3,4
+C01004,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Suwapudugama,maintain,485337,0,150589,21922,352,29,Low,43,27,Conditionally Feasible,3,3,1,1,3,3,3
+C01005,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Meegasmulla,improve,303716,0,33175,4936,263,14,Low,57,24,Feasible,5,3,1,0,3,3,5
+C01006,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Henpita,expand,737643,0,259129,86405,1000,69,Medium,61,27,Feasible,7,3,4,4,4,4,4
+C01007,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Prasannanpura,maintain,426891,0,222403,69000,1000,35,Medium,61,25,Feasible,2,3,1,1,3,3,4
+C01008,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Henwattha,maintain,533118,0,109412,58943,340,53,Low,88,24,Feasible,1,4,2,2,3,4,4
+C01009,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Ovitigama,expand,464801,0,202198,48000,975,36,High,67,25,Feasible,1,3,3,3,3,4,3
+C01010,Existing,Grocery/Mini-Mart,web and software services,Colombo,Western,Puwakpitiya,maintain,227439,0,324056,106947,1000,70,Low,60,27,Conditionally Feasible,3,3,2,3,3,3,4
+C01011,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Mambulgoda,expand,828145,0,183629,53000,1000,29,Medium,57,25,Feasible,3,3,2,1,3,3,4
+C01012,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Puswelikanda,improve,263146,0,71706,25815,1116,8,Low,64,27,Feasible,7,3,0,0,4,2,5
+C01013,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Arukwatta,improve,220082,0,176400,44004,2855,16,Low,62,27,Feasible,3,3,1,1,2,3,3
+C01014,Existing,Bakery/Food/Grocery,small IT and digital services business,Colombo,Western,Pitumpe,improve,88070,0,47638,6047,291,13,High,81,25,Feasible,1,3,1,0,4,3,4
+C01015,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Brahamnagama,expand,40716,20001,152561,22000,2000,14,Medium,49,26,Infeasible,5,3,1,1,2,3,5
+C01016,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Arukwatta,improve,497615,0,84127,13624,215,44,Medium,60,27,Conditionally Feasible,5,3,3,2,1,3,5
+C01017,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Palagama,expand,694102,0,260634,81766,5000,32,Low,72,25,Feasible,3,3,3,2,3,2,3
+C01018,Existing,Bakery/Food/Grocery,digital support and computer services,Colombo,Western,Kahathuduwa,expand,788389,0,246082,54000,1000,59,Low,49,24,Conditionally Feasible,0,3,3,4,4,5,4
+C01019,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Puwakpitiya,improve,482142,0,160000,42868,1293,29,High,81,24,Feasible,10,3,1,1,4,3,3
+C01020,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Palagama,expand,615951,0,265000,65863,3529,19,Low,72,24,Feasible,12,3,1,1,3,2,4
+C01021,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Puwakpitiya,improve,829641,0,64995,11665,455,19,High,89,24,Feasible,2,4,2,1,4,2,4
+C01022,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Arukwatta,maintain,457391,0,80486,11666,1642,6,Medium,46,25,Conditionally Feasible,3,2,1,0,3,2,5
+C01023,Existing,Beauty Saloon,web and software services,Colombo,Western,Kiriwattuduwa,improve,536540,0,142111,37000,2074,16,Low,70,24,Conditionally Feasible,7,4,0,1,3,3,4
+C01024,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Meegasmulla,expand,454616,0,180578,39438,2000,27,Low,59,25,Feasible,2,3,1,1,4,3,5
+C01025,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Meepe,improve,558832,0,313616,99861,2437,76,High,60,26,Feasible,5,3,3,3,3,3,5
+C01026,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Habarakada,expand,60513,20000,244096,41000,1117,27,High,77,24,Infeasible,3,3,1,1,3,2,5
+C01027,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Henpita,expand,546925,0,176078,60000,1595,13,Low,45,25,Conditionally Feasible,10,3,1,0,4,2,4
+C01028,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Suwapudugama,maintain,563313,0,163209,60612,691,49,High,71,27,Feasible,12,3,3,2,5,4,3
+C01029,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Meepe,maintain,439066,0,298330,177090,1353,54,High,56,26,Conditionally Feasible,1,3,1,2,4,3,5
+C01030,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Puswelikanda,maintain,442775,0,128313,46295,1862,9,Low,64,24,Feasible,5,3,0,0,3,1,4
+C01031,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Meegoda,expand,496481,0,295358,148537,2666,55,High,57,26,Feasible,7,3,4,3,3,4,5
+C01032,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Arukwatta,maintain,312634,0,172482,27149,2000,24,Medium,56,24,Feasible,2,3,2,1,3,3,5
+C01033,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Palagama,maintain,380413,0,143489,24839,1106,19,Medium,47,26,Conditionally Feasible,2,3,2,1,3,3,5
+C01034,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Pitumpe,expand,780197,0,184536,42412,2128,23,Low,75,26,Conditionally Feasible,2,4,1,1,1,3,5
+C01035,Existing,Grocery/Mini-Mart,small IT and digital services business,Colombo,Western,Kosgama,improve,749895,0,150205,71825,1942,30,Low,68,24,Feasible,1,5,1,1,3,2,5
+C01036,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Meepe,expand,5645,44000,148943,30725,878,29,Low,46,27,Infeasible,5,3,1,1,5,3,4
+C01037,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Bope,maintain,174423,0,126265,14000,1312,5,High,55,25,Conditionally Feasible,7,2,0,0,4,2,5
+C01038,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Siyambalagoda,maintain,308832,0,169818,11000,644,28,High,56,24,Conditionally Feasible,2,2,1,1,4,3,4
+C01039,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Henpitiya,expand,277858,0,169586,18834,2909,14,Low,46,25,Conditionally Feasible,5,3,2,1,1,3,5
+C01040,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Godagama,expand,61107,20000,145965,26524,1568,10,Medium,58,26,Conditionally Feasible,2,4,1,0,2,2,5
+C01041,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Meegoda,maintain,731078,0,76000,22000,900,10,High,63,27,Feasible,10,4,1,0,4,2,4
+C01042,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Siddamulla,maintain,569521,0,168712,44000,995,26,Low,50,27,Conditionally Feasible,7,3,1,1,5,3,4
+C01043,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Puwakpitiya,expand,197849,0,173374,32141,2000,26,Low,49,25,Conditionally Feasible,3,3,1,1,5,3,5
+C01044,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Watareka,maintain,91759,0,235000,65327,1390,29,Low,69,26,Infeasible,5,4,0,1,5,2,5
+C01045,Existing,Clothing/ Garment,web and software services,Colombo,Western,Udagama,maintain,692132,0,135000,19342,2773,5,Medium,74,25,Feasible,3,3,1,0,4,1,4
+C01046,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Ambalangoda,improve,455531,0,119847,38736,692,28,Medium,78,24,Feasible,3,4,1,1,4,3,3
+C01047,Existing,Clothing/ Garment,digital support and computer services,Colombo,Western,Siddamulla,expand,895403,0,147245,13050,1738,5,Medium,64,24,Feasible,1,3,0,0,5,1,5
+C01048,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Meegoda,expand,470324,0,154969,61357,1000,50,Low,90,25,Conditionally Feasible,2,5,3,3,3,5,5
+C01049,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Ranala,expand,432560,0,137953,24283,1069,22,Low,52,25,Conditionally Feasible,3,4,2,1,5,3,4
+C01050,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Bope,maintain,456597,0,146045,31937,3388,6,Low,63,27,Feasible,1,4,0,0,4,1,5
+C01051,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Kosgama,expand,854360,0,80102,17218,1184,8,Medium,56,27,Feasible,5,4,1,0,2,2,4
+C01052,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Palagama,maintain,308023,0,295000,91731,6217,17,Medium,56,24,Conditionally Feasible,7,3,2,1,5,2,5
+C01053,Existing,Clothing/ Garment,web and software services,Colombo,Western,Siyambalagoda,maintain,614461,0,272276,110097,6450,27,High,58,24,Conditionally Feasible,3,2,0,1,3,2,5
+C01054,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Puwakpitiya,maintain,468028,0,183244,71856,1007,31,Medium,58,27,Feasible,3,3,2,1,3,3,5
+C01055,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Kosgama,improve,635412,0,297415,85886,5387,11,Low,84,24,Feasible,3,5,1,0,5,1,4
+C01056,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Arukwatta,maintain,877615,0,279929,105000,4674,29,Low,40,24,Conditionally Feasible,2,3,2,1,5,2,4
+C01057,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Jalthara,maintain,336073,0,102592,47363,1545,15,Medium,71,26,Feasible,3,3,1,1,3,3,5
+C01058,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Suwapudugama,expand,899195,0,265974,98278,4222,29,Medium,53,27,Conditionally Feasible,3,2,1,1,4,2,4
+C01059,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Kottawa,improve,452386,0,279833,40237,1000,32,Medium,62,25,Conditionally Feasible,3,4,0,1,3,2,5
+C01060,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Panagoda,maintain,860487,0,215000,62000,1111,26,Medium,49,27,Conditionally Feasible,7,4,2,1,4,3,5
+C01061,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Polgasowita,expand,713058,0,235544,54334,1195,60,High,78,27,Conditionally Feasible,3,4,2,4,3,5,4
+C01062,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Siddamulla,expand,384204,0,187309,47000,765,57,Low,76,26,Conditionally Feasible,2,4,1,4,3,5,4
+C01063,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Panaluwa,maintain,472964,0,226631,80342,1882,23,Low,70,26,Conditionally Feasible,5,4,0,1,2,2,3
+C01064,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Meegasmulla,maintain,494840,0,198322,75000,2000,36,Low,54,25,Conditionally Feasible,7,3,3,2,5,2,4
+C01065,Existing,Bakery/Food/Grocery,small IT and digital services business,Colombo,Western,Bope,improve,725360,0,100857,15715,517,23,High,41,26,Infeasible,3,2,1,1,3,3,3
+C01066,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Puswelikanda,maintain,418951,0,138712,36975,1423,18,Medium,75,24,Feasible,5,3,2,1,4,3,5
+C01067,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Ranala,maintain,803691,0,205465,76396,1438,32,Medium,67,27,Feasible,2,4,1,1,5,2,5
+C01068,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Bope,maintain,20174,25991,150000,23518,989,15,Low,70,24,Infeasible,5,3,1,1,4,3,5
+C01069,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Panaluwa,improve,473078,0,206358,61024,2661,17,Low,68,27,Feasible,5,4,2,1,2,2,5
+C01070,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Thalduwa,maintain,20227,20000,141357,23210,1641,14,High,84,24,Infeasible,3,3,2,1,3,3,3
+C01071,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Godagama,improve,896046,0,60796,14326,194,46,High,82,25,Feasible,10,5,2,2,3,4,4
+C01072,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Panaluwa,improve,392139,0,166374,27167,3101,20,Medium,71,26,Feasible,1,3,2,1,4,3,3
+C01073,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Kahathuduwa,expand,643183,0,38252,18620,214,31,High,70,25,Feasible,5,3,3,2,3,3,4
+C01074,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Uduwana,improve,230299,0,187657,34077,3202,15,Medium,61,27,Feasible,2,3,1,1,3,3,4
+C01075,Existing,Beauty Saloon,web and software services,Colombo,Western,Polgasowita,maintain,876512,0,190000,41766,1401,14,Medium,63,25,Feasible,10,4,2,1,3,3,5
+C01076,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Panaluwa,expand,297910,0,235000,65000,540,65,Medium,69,25,Feasible,7,3,0,4,4,5,5
+C01077,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Mullegama,improve,732577,0,159595,70131,1223,23,High,59,24,Conditionally Feasible,2,2,1,1,5,2,3
+C01078,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Mullegama,improve,439889,0,294460,123037,5761,35,High,79,27,Feasible,7,3,2,1,5,2,4
+C01079,Existing,Clothing/ Garment,digital support and computer services,Colombo,Western,Mambulgoda,maintain,639811,0,163733,135882,5000,9,Low,67,27,Feasible,0,3,0,0,2,1,3
+C01080,Existing,Grocery/Mini-Mart,digital support and computer services,Colombo,Western,Watareka,maintain,536141,0,297262,170000,2073,57,High,65,24,Feasible,2,3,3,3,5,3,4
+C01081,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Weniwelkola,maintain,462073,0,268638,103298,3000,23,Medium,84,26,Feasible,2,4,2,1,4,2,3
+C01082,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Thalduwa,improve,110211,0,133985,20679,1000,22,High,76,24,Conditionally Feasible,5,3,1,1,3,3,4
+C01083,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Jalthara,expand,556790,0,168603,35164,594,44,Low,48,27,Conditionally Feasible,0,3,3,3,3,4,4
+C01084,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Waga,maintain,516763,0,179601,32738,587,45,High,84,24,Feasible,3,3,2,2,2,2,5
+C01085,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Ambalangoda,expand,462892,0,292289,129738,1110,59,Medium,90,25,Conditionally Feasible,3,4,5,4,2,4,5
+C01086,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Pitipana,maintain,833424,0,34556,4027,206,11,Medium,65,24,Feasible,2,3,0,0,5,2,3
+C01087,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Pitumpe,maintain,658635,0,283797,86832,4000,23,Medium,64,24,Feasible,1,3,1,1,2,2,3
+C01088,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Waga,expand,346855,0,192230,55000,2000,23,Low,59,26,Feasible,2,3,2,1,3,2,3
+C01089,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Panagoda,improve,822635,0,216641,41220,818,64,Medium,86,27,Feasible,2,5,3,3,5,4,5
+C01090,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Habarakada,maintain,331950,0,261244,85432,2821,31,Medium,43,24,Infeasible,3,2,1,1,4,2,5
+C01091,Existing,Grocery/Mini-Mart,small IT and digital services business,Colombo,Western,Henpitiya,improve,437719,0,148195,24992,1167,14,Medium,72,24,Feasible,12,3,1,0,3,2,4
+C01092,Existing,Grocery/Mini-Mart,small IT and digital services business,Colombo,Western,Meegasmulla,expand,543651,0,142108,28549,747,22,Low,80,24,Conditionally Feasible,3,4,0,1,5,2,5
+C01093,Existing,Beauty Saloon,web and software services,Colombo,Western,Ambalangoda,maintain,112616,0,164640,25160,2241,15,High,61,27,Conditionally Feasible,0,3,1,1,3,3,5
+C01094,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Brahamnagama,improve,104162,0,137535,27617,3296,11,High,42,24,Infeasible,5,2,1,0,3,2,3
+C01095,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Ovitigama,improve,490190,0,297487,92684,5098,34,Low,65,25,Conditionally Feasible,3,3,0,1,2,2,5
+C01096,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Jalthara,expand,360150,0,246142,40794,701,49,Low,57,27,Feasible,1,3,4,3,4,5,5
+C01097,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Pahala Hanwella,maintain,112231,20000,183642,25470,3210,24,Medium,56,25,Conditionally Feasible,3,3,2,1,4,3,4
+C01098,Existing,Grocery/Mini-Mart,digital support and computer services,Colombo,Western,Diyagama,expand,97026,21000,296617,151390,932,72,Low,74,26,Infeasible,3,4,1,4,4,4,5
+C01099,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Polgasowita,maintain,9499,25758,220018,32045,1160,19,Medium,59,26,Infeasible,2,4,2,1,4,2,4
+C01100,Existing,Grocery/Mini-Mart,small IT and digital services business,Colombo,Western,Meegoda,expand,227713,0,168067,37587,1862,14,Medium,79,26,Feasible,1,5,1,0,4,2,4
+C01101,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Meegasmulla,improve,479447,0,202343,27346,1243,29,Low,62,26,Feasible,5,3,1,1,3,3,4
+C01102,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Palagama,expand,559969,0,215000,57379,1000,57,High,56,24,Conditionally Feasible,12,3,4,4,1,5,4
+C01103,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Udagama,improve,479136,0,100983,11000,301,35,Low,71,27,Feasible,5,4,1,1,5,3,4
+C01104,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Arukwatta,maintain,390164,0,285000,95155,6353,31,Medium,71,25,Feasible,7,3,1,1,2,2,3
+C01105,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Henpita,improve,57721,20001,152313,71130,452,70,Low,57,24,Infeasible,7,3,3,3,3,3,5
+C01106,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Godagama,expand,555573,0,252087,90241,3000,24,Low,59,26,Feasible,2,4,2,1,4,2,5
+C01107,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Habarakada,maintain,307062,0,175461,32725,1521,28,Low,80,26,Feasible,3,4,1,1,3,3,4
+C01108,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Suwapudugama,expand,131243,0,164907,23699,2000,21,Low,66,26,Conditionally Feasible,7,4,1,1,3,3,4
+C01109,Existing,Beauty Saloon,small IT and digital services business,Colombo,Western,Kosgama,maintain,454709,0,164247,34000,1428,29,High,81,24,Feasible,3,5,1,1,3,3,5
+C01110,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Godagama,improve,425734,0,169102,52498,1514,23,Low,81,24,Feasible,0,5,2,1,5,2,5
+C01111,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Kahathuduwa,improve,484752,0,259997,78916,6159,16,Low,59,24,Feasible,5,3,1,1,3,2,4
+C01112,Existing,Clothing/ Garment,small IT and digital services business,Colombo,Western,Puwakpitiya,improve,560925,0,160000,38000,1628,10,High,37,25,Infeasible,1,2,1,0,3,1,4
+C01113,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Pitipana,improve,424995,0,151028,31228,2462,12,Medium,63,24,Feasible,1,3,0,0,3,3,4
+C01114,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Mullegama,expand,694704,0,235640,70768,2599,30,Low,84,26,Feasible,1,4,1,1,3,2,4
+C01115,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Hiripitiya,improve,326887,0,216877,101840,1694,34,Low,68,24,Feasible,1,3,1,1,2,2,4
+C01116,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Pitipana,improve,111781,0,142942,25540,2000,18,Low,73,25,Conditionally Feasible,5,4,1,1,4,3,5
+C01117,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Pahala Hanwella,maintain,449452,0,166854,24336,3000,25,Low,49,25,Conditionally Feasible,1,3,1,1,5,3,4
+C01118,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Henpita,expand,845756,0,190000,60234,1327,34,Medium,41,27,Infeasible,7,2,2,2,3,3,3
+C01119,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Meepe,maintain,251408,0,145000,12000,810,16,Low,77,27,Conditionally Feasible,3,4,0,1,5,3,5
+C01120,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Kiriwattuduwa,improve,482536,0,297915,104464,6000,28,Medium,75,27,Feasible,5,3,2,1,3,2,4
+C01121,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Nawagamuwa,maintain,775421,0,161911,47089,1000,29,Low,47,27,Conditionally Feasible,5,4,1,1,5,3,4
+C01122,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Pitipana,maintain,467844,0,259901,83173,4000,10,Medium,75,25,Feasible,3,3,1,0,3,1,3
+C01123,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Henwattha,maintain,309971,0,330248,135503,2730,50,Medium,79,25,Conditionally Feasible,1,4,2,2,2,3,4
+C01124,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Siddamulla,expand,92399,0,71887,15610,1221,11,Medium,69,24,Feasible,3,3,1,0,2,2,3
+C01125,Existing,Clothing/ Garment,small IT and digital services business,Colombo,Western,Waga,expand,722511,0,91276,14509,1000,2,Medium,59,24,Infeasible,7,3,1,0,4,1,3
+C01126,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Nawagamuwa,expand,110542,0,141249,38069,1613,28,Medium,81,27,Conditionally Feasible,7,4,1,1,3,3,4
+C01127,Existing,Beauty Saloon,web and software services,Colombo,Western,Siyambalagoda,improve,481401,0,185183,17896,3462,9,Low,53,27,Conditionally Feasible,1,3,1,0,2,2,5
+C01128,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Ovitigama,maintain,200380,0,316492,125000,2000,58,Low,72,27,Conditionally Feasible,5,4,2,3,3,3,5
+C01129,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Meegasmulla,maintain,353401,0,106184,29041,1000,23,Medium,80,24,Conditionally Feasible,5,3,0,1,4,3,5
+C01130,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Godagama,expand,149355,0,125000,17056,352,50,High,73,25,Feasible,3,4,3,3,4,4,5
+C01131,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Pitumpe,expand,473190,0,310000,131950,2217,45,Low,59,24,Feasible,5,3,3,3,4,3,4
+C01132,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Meegasmulla,improve,356492,0,250456,52888,1079,32,High,61,27,Feasible,5,3,1,1,3,3,3
+C01133,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Henpitiya,improve,238604,0,190000,21000,2871,7,Low,79,24,Feasible,10,4,1,0,5,2,3
+C01134,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Hiripitiya,improve,506309,0,170000,29000,3305,27,Medium,42,26,Infeasible,0,2,2,1,3,3,4
+C01135,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Kosgama,expand,373148,0,162072,23161,2854,15,Low,81,24,Feasible,5,5,1,1,5,3,5
+C01136,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Mattegoda,improve,352928,0,115853,36589,1000,44,High,81,26,Feasible,2,5,3,2,3,3,5
+C01137,Existing,Beauty Saloon,small IT and digital services business,Colombo,Western,Kosgama,expand,857857,0,190875,23376,2643,9,Medium,74,27,Feasible,2,4,0,0,4,2,5
+C01138,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Mullegama,improve,843854,0,270000,148511,3938,25,Low,72,27,Feasible,1,4,1,1,3,2,5
+C01139,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Panaluwa,maintain,219623,0,106160,26450,2852,9,Low,39,24,Conditionally Feasible,7,3,0,0,3,2,5
+C01140,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Kottawa,improve,546401,0,322490,96566,1432,50,Low,65,25,Conditionally Feasible,3,5,1,2,4,3,5
+C01141,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Thalduwa,maintain,390693,0,274068,90000,4000,17,Medium,48,25,Conditionally Feasible,2,2,1,1,4,2,5
+C01142,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Dolahena,maintain,191137,0,175000,48801,2028,22,Low,61,24,Conditionally Feasible,5,4,1,1,3,2,4
+C01143,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Puwakpitiya,maintain,470108,0,310065,139769,2073,78,Low,54,27,Conditionally Feasible,5,3,3,3,3,3,5
+C01144,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Godagama,maintain,127236,0,240000,99317,1020,57,High,53,26,Infeasible,3,4,4,3,3,3,4
+C01145,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Habarakada,maintain,316224,0,81686,26229,3475,8,Medium,71,26,Feasible,2,3,0,0,2,2,5
+C01146,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Mattegoda,improve,216097,0,98682,6824,1535,4,High,76,24,Feasible,5,4,1,0,3,2,5
+C01147,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Brahamnagama,expand,534784,0,131547,31997,3329,11,Low,77,27,Feasible,2,4,1,0,2,2,4
+C01148,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Bope,improve,441166,0,105000,39000,1399,14,Low,61,24,Feasible,3,4,0,0,4,3,4
+C01149,Existing,Bakery/Food/Grocery,digital support and computer services,Colombo,Western,Brahamnagama,expand,529561,0,72425,15168,457,17,Medium,58,25,Feasible,5,3,1,1,4,3,3
+C01150,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Kiriwattuduwa,expand,766636,0,136189,13851,381,12,Low,55,27,Conditionally Feasible,5,3,0,0,3,2,4
+C01151,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Malwana,expand,816148,0,140000,31264,1313,18,High,55,25,Feasible,7,3,1,1,3,3,5
+C01152,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Siddamulla,expand,473162,0,245000,91951,2790,30,Medium,69,24,Conditionally Feasible,5,3,0,1,3,2,5
+C01153,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Kottawa,improve,877298,0,309341,115462,2781,49,Medium,56,25,Feasible,8,4,3,2,3,3,4
+C01154,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Panaluwa,expand,724774,0,152368,64535,534,63,Medium,87,27,Feasible,3,4,2,4,3,4,4
+C01155,Existing,Clothing/ Garment,small IT and digital services business,Colombo,Western,Ranala,expand,129897,20001,266894,66115,6372,25,Medium,58,24,Conditionally Feasible,2,4,1,1,4,2,4
+C01156,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Habarakada,expand,54784,20000,222714,49015,930,43,Medium,50,25,Infeasible,2,3,2,3,3,3,4
+C01157,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Panagoda,improve,769935,0,199777,17518,982,13,High,55,25,Feasible,0,4,0,0,3,3,5
+C01158,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Henwattha,improve,443498,0,158791,14418,219,37,Medium,51,27,Conditionally Feasible,1,2,2,2,3,3,4
+C01159,Existing,Bakery/Food/Grocery,web and software services,Colombo,Western,Polgasowita,maintain,230036,0,113110,11166,226,27,High,76,27,Feasible,3,4,2,1,4,3,4
+C01160,Existing,Bakery/Food/Grocery,small IT and digital services business,Colombo,Western,Panagoda,improve,223519,0,220290,42876,1000,42,Low,58,26,Conditionally Feasible,5,4,2,2,3,3,5
+C01161,Existing,Grocery/Mini-Mart,small bakery and food sales,Colombo,Western,Mullegama,maintain,263218,0,303825,135000,1551,58,High,77,27,Conditionally Feasible,1,3,3,3,1,3,5
+C01162,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Kiriwattuduwa,improve,351614,0,131742,29929,1341,10,High,71,25,Feasible,5,3,0,0,4,2,3
+C01163,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Puwakpitiya,expand,824484,0,171705,38512,3000,23,High,51,25,Conditionally Feasible,3,2,2,1,2,3,4
+C01164,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Polgasowita,expand,690966,0,213061,36856,655,37,Medium,65,24,Feasible,2,4,2,3,5,4,4
+C01165,Existing,Clothing/ Garment,digital support and computer services,Colombo,Western,Siyambalagoda,expand,410806,0,145000,26949,3786,6,Medium,38,26,Infeasible,5,2,0,0,2,1,5
+C01166,Existing,Clothing/ Garment,small clothing retail business,Colombo,Western,Meepe,improve,601562,0,266156,81513,6384,17,Low,64,26,Feasible,7,3,2,1,2,2,5
+C01167,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Godagama,improve,544169,0,230408,54000,1032,52,Medium,64,25,Conditionally Feasible,4,4,2,2,2,4,5
+C01168,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Meegasmulla,expand,133472,0,171899,22595,2279,24,High,86,26,Conditionally Feasible,5,4,1,1,3,3,4
+C01169,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Habarakada,improve,277952,0,174529,35430,1000,26,Low,66,24,Feasible,3,4,1,1,5,2,4
+C01170,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Siyambalagoda,improve,480461,0,276537,65000,5380,30,Medium,45,24,Conditionally Feasible,5,3,1,1,3,2,4
+C01171,Existing,Beauty Saloon,web and software services,Colombo,Western,Thalduwa,maintain,414783,0,83000,6525,738,7,Low,47,25,Conditionally Feasible,0,3,0,0,1,2,5
+C01172,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Meegasmulla,maintain,77786,0,314054,131218,837,75,Low,70,26,Infeasible,5,3,3,3,3,3,5
+C01173,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Ambalangoda,maintain,331725,0,118371,17666,3321,4,Low,60,24,Feasible,2,3,0,0,4,2,5
+C01174,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Uduwana,expand,280464,0,290145,87868,3000,80,Medium,89,27,Conditionally Feasible,7,4,3,4,2,4,5
+C01175,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Habarakada,improve,416254,0,139240,16392,1000,12,Medium,49,24,Conditionally Feasible,4,2,1,0,3,3,3
+C01176,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Uduwana,improve,341271,0,154068,13462,3256,6,Low,56,24,Feasible,7,3,0,0,5,2,4
+C01177,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Godagama,improve,675884,0,280923,72394,5527,16,High,80,24,Feasible,5,4,1,1,3,2,5
+C01178,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Panagoda,expand,69584,20000,345000,90398,1535,77,Low,81,24,Infeasible,7,5,4,4,4,4,4
+C01179,Existing,Grocery/Mini-Mart,digital support and computer services,Colombo,Western,Kottawa,maintain,56789,0,180387,45047,1024,36,Low,66,26,Infeasible,1,5,2,2,4,2,5
+C01180,Existing,Clothing/ Garment,online and local clothing sales,Colombo,Western,Meegasmulla,expand,480964,0,140000,57232,2000,14,Low,70,26,Feasible,0,4,1,0,3,2,5
+C01181,Existing,Bakery/Food/Grocery,small vehicle parts retail business,Colombo,Western,Pitipana,expand,882482,0,117377,41000,1239,27,Low,60,24,Feasible,2,3,2,1,4,3,3
+C01182,Existing,Beauty Saloon,web and software services,Colombo,Western,Bope,maintain,119100,0,145673,24495,2135,9,Medium,71,27,Conditionally Feasible,2,3,1,0,3,2,5
+C01183,Existing,Beauty Saloon,home-based beauty services,Colombo,Western,Mattegoda,improve,786587,0,72376,14464,1973,4,High,50,25,Conditionally Feasible,0,4,1,0,3,2,5
+C01184,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Brahamnagama,improve,447891,0,266337,106505,1903,32,Low,66,27,Feasible,2,4,2,1,4,2,3
+C01185,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Kahathuduwa,expand,40360,23454,177582,24584,1066,23,Medium,45,25,Infeasible,7,2,2,1,4,3,5
+C01186,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Dolahena,expand,315553,0,251743,46940,1393,34,Low,75,25,Feasible,4,4,3,2,4,3,5
+C01187,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Ovitigama,maintain,622708,0,206132,33228,1865,21,Medium,66,25,Feasible,7,3,1,1,4,2,5
+C01188,Existing,Beauty Saloon,web and software services,Colombo,Western,Bope,maintain,885765,0,185064,23415,2852,23,High,73,24,Feasible,5,3,2,1,3,3,4
+C01189,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Hiripitiya,expand,597369,0,89523,22995,599,19,Low,76,26,Feasible,1,4,2,1,2,3,5
+C01190,Existing,Bakery/Food/Grocery,vehicle accessories and parts,Colombo,Western,Hiripitiya,improve,344309,0,224201,48416,1000,55,Low,51,24,Conditionally Feasible,2,3,3,2,4,4,3
+C01191,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Watareka,improve,75003,27000,142232,35000,2370,11,High,72,26,Conditionally Feasible,2,3,0,0,3,2,5
+C01192,Existing,Bakery/Food/Grocery,digital support and computer services,Colombo,Western,Pahala Hanwella,improve,483286,0,242125,26468,1000,15,High,65,26,Feasible,0,3,0,0,3,3,3
+C01193,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Arukwatta,maintain,62337,29167,176826,32075,1021,23,Low,63,27,Infeasible,2,3,1,1,3,3,5
+C01194,Existing,Beauty Saloon,personal care and salon services,Colombo,Western,Godagama,expand,184621,0,62000,19500,2000,6,Medium,43,24,Conditionally Feasible,7,3,1,0,4,2,4
+C01195,Existing,Beauty Saloon,small beauty salon,Colombo,Western,Puswelikanda,maintain,244472,0,169862,24716,1764,18,Low,57,24,Feasible,6,3,1,1,3,3,3
+C01196,Existing,Bakery/Food/Grocery,automotive spare parts sales,Colombo,Western,Pitipana,improve,337728,0,227542,59167,950,65,Low,80,27,Feasible,5,4,4,3,4,4,5
+C01197,Existing,Beauty Saloon,web and software services,Colombo,Western,Nawagamuwa,maintain,516347,0,154708,22000,1563,20,High,49,24,Conditionally Feasible,5,3,2,1,4,3,5
+C01198,Existing,Clothing/ Garment,fashion items and garments,Colombo,Western,Ranala,maintain,379423,0,270000,74473,2123,27,Medium,79,26,Conditionally Feasible,2,5,0,1,4,2,5
+C01199,Existing,Grocery/Mini-Mart,home-based food production,Colombo,Western,Godagama,expand,579445,0,104945,24000,558,30,Medium,77,27,Feasible,6,5,1,1,4,2,4
+C01200,Existing,Grocery/Mini-Mart,grocery and food retail,Colombo,Western,Kahathuduwa,maintain,162540,0,335000,128851,2000,73,Medium,62,27,Infeasible,6,3,2,3,4,3,5
