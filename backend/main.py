@@ -9,6 +9,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 from backend.database import engine, Base
 from backend.routes.analysis import router as analysis_router
 from backend.routes.intake import router as intake_router
+from backend.routes.business_plan import router as plan_router
 from backend.schemas import HealthCheckResponse
 from src.prediction.predictor import DEFAULT_MODEL_DIR
 
@@ -33,6 +34,7 @@ app.add_middleware(
 # Register routes
 app.include_router(analysis_router)
 app.include_router(intake_router)
+app.include_router(plan_router)
 
 
 @app.get("/api/health", response_model=HealthCheckResponse, tags=["Health"])

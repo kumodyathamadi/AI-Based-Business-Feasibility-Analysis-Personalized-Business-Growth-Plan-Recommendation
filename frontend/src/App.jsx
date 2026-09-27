@@ -188,7 +188,7 @@ export default function App() {
 
           {/* Business Plan */}
           {activeTab === 'plan' && structuredProfile && (
-            <BusinessPlan planData={structuredProfile.personalized_business_plan} />
+            <BusinessPlan profile={structuredProfile} />
           )}
 
           {/* Business Profile */}

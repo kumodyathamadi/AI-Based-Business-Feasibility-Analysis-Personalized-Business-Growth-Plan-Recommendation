@@ -116,10 +116,47 @@ def test_business_analyze_endpoint():
     print(f"  GET /api/business/record/{record_id} fetched successfully!")
 
 
+def test_pdf_and_docx_business_plan_generation():
+    print("\nTesting POST /api/business/plan/generate-pdf and generate-docx...")
+    payload = {
+        "business_stage": "New Startup",
+        "business_category": "Bakery",
+        "district": "Colombo",
+        "available_capital_lkr": 750000.0,
+        "monthly_budget_lkr": 120000.0,
+        "expected_price_lkr": 300.0,
+        "expected_customers_per_day": 40,
+        "entrepreneur_experience_years": 5,
+        "available_staff_count": 2,
+        "competition_level": "Moderate",
+        "has_existing_loans": False,
+        "has_equipment": True,
+        "has_supplier_contacts": True
+    }
+    analyze_res = client.post("/api/business/analyze", json=payload)
+    assert analyze_res.status_code == 200
+    profile = analyze_res.json()
+
+    # Test PDF Generation
+    res_pdf = client.post("/api/business/plan/generate-pdf", json=profile)
+    assert res_pdf.status_code == 200, f"Expected 200 PDF, got {res_pdf.status_code}"
+    assert res_pdf.headers["content-type"] == "application/pdf"
+    assert len(res_pdf.content) > 5000 # Valid PDF file size
+    print(f"  POST /api/business/plan/generate-pdf SUCCESS! Byte length: {len(res_pdf.content)}")
+
+    # Test DOCX Generation
+    res_docx = client.post("/api/business/plan/generate-docx", json=profile)
+    assert res_docx.status_code == 200, f"Expected 200 DOCX, got {res_docx.status_code}"
+    assert "officedocument.wordprocessingml.document" in res_docx.headers["content-type"]
+    assert len(res_docx.content) > 5000 # Valid DOCX file size
+    print(f"  POST /api/business/plan/generate-docx SUCCESS! Byte length: {len(res_docx.content)}")
+
+
 if __name__ == "__main__":
     test_health_check_endpoint()
     test_ai_intake_extraction_endpoint()
     test_business_analyze_endpoint()
+    test_pdf_and_docx_business_plan_generation()
     print("\n" + "=" * 60)
     print("ALL BACKEND API & AI INTAKE ASSISTANT TESTS PASSED CLEANLY!")
     print("=" * 60)

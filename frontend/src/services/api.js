@@ -112,3 +112,51 @@ export const fetchAnalysisRecordById = async (recordId) => {
     throw error;
   }
 };
+
+/**
+ * Triggers PDF Business Plan document generation & download from backend
+ */
+export const downloadBusinessPlanPdf = async (profile) => {
+  try {
+    const response = await apiClient.post('/business/plan/generate-pdf', profile, {
+      responseType: 'blob',
+    });
+    const blob = new Blob([response.data], { type: 'application/pdf' });
+    const bizName = profile.business_input?.business_name || profile.business_input?.business_category || 'Business';
+    const cleanName = bizName.replace(/[^a-zA-Z0-9_\-]/g, '_');
+    const link = document.createElement('a');
+    link.href = window.URL.createObjectURL(blob);
+    link.download = `SME360_AI_Business_Plan_${cleanName}.pdf`;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+  } catch (error) {
+    console.error('PDF Business Plan Generation Error:', error);
+    throw error;
+  }
+};
+
+/**
+ * Triggers Word (.docx) Business Plan document generation & download from backend
+ */
+export const downloadBusinessPlanDocx = async (profile) => {
+  try {
+    const response = await apiClient.post('/business/plan/generate-docx', profile, {
+      responseType: 'blob',
+    });
+    const blob = new Blob([response.data], { 
+      type: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' 
+    });
+    const bizName = profile.business_input?.business_name || profile.business_input?.business_category || 'Business';
+    const cleanName = bizName.replace(/[^a-zA-Z0-9_\-]/g, '_');
+    const link = document.createElement('a');
+    link.href = window.URL.createObjectURL(blob);
+    link.download = `SME360_AI_Business_Plan_${cleanName}.docx`;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+  } catch (error) {
+    console.error('DOCX Business Plan Generation Error:', error);
+    throw error;
+  }
+};
