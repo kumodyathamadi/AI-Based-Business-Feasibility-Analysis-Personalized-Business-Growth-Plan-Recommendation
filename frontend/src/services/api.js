@@ -24,6 +24,55 @@ export const checkHealth = async () => {
 };
 
 /**
+ * Retrieves available Business Stages and Context-Specific Business Goals
+ */
+export const getStagesAndGoals = async () => {
+  try {
+    const response = await apiClient.get('/business/intake/stages-and-goals');
+    return response.data;
+  } catch (error) {
+    console.error('Fetch Stages & Goals Error:', error);
+    return { stages: [], goals: {} };
+  }
+};
+
+/**
+ * Retrieves Dynamic Context-Aware Field Requirements (Required, Optional, Hidden)
+ */
+export const getFieldConfiguration = async (stage, goal, category) => {
+  try {
+    const response = await apiClient.post('/business/intake/config', {
+      business_stage: stage,
+      business_goal: goal,
+      business_category: category
+    });
+    return response.data;
+  } catch (error) {
+    console.error('Fetch Field Config Error:', error);
+    return { field_config: {} };
+  }
+};
+
+/**
+ * Calls AI Business Intake Assistant NLP Extraction API
+ * Parses free text (English, Singlish) and returns mapped context-aware schema fields and states
+ */
+export const extractIntakeInformation = async (text, stage = '', goal = '') => {
+  try {
+    const response = await apiClient.post('/business/intake/extract', { 
+      text, 
+      business_stage: stage, 
+      business_goal: goal 
+    });
+    return response.data;
+  } catch (error) {
+    console.error('AI Intake Extraction Error:', error);
+    const errorMessage = error.response?.data?.detail || error.message || 'Information extraction failed';
+    throw new Error(errorMessage);
+  }
+};
+
+/**
  * Executes complete Component 1 End-to-End Business Analysis
  * @param {Object} businessInput Raw SME parameters dictionary
  */
@@ -39,7 +88,7 @@ export const analyzeBusiness = async (businessInput) => {
 };
 
 /**
- * Retrieves recent analysis runs from SQLite Database
+ * Retrieves recent analysis runs from Database
  */
 export const fetchAnalysisRecords = async (limit = 10) => {
   try {

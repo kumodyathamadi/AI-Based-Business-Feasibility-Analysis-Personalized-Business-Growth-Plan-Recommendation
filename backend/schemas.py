@@ -1,3 +1,4 @@
+# pyrefly: ignore [missing-import]
 from pydantic import BaseModel, Field
 from typing import Dict, Any, List, Optional
 
@@ -5,6 +6,7 @@ from typing import Dict, Any, List, Optional
 class BusinessAnalysisRequest(BaseModel):
     """
     Pydantic Input Request Validation Schema matching Component 1 features.
+    Includes optional traceability fields for natural language intake & verification.
     """
     business_stage: str = Field(default="New", example="New")
     business_category: str = Field(default="Retail", example="Bakery")
@@ -31,6 +33,28 @@ class BusinessAnalysisRequest(BaseModel):
     available_equipment_score: int = Field(default=3, ge=1, le=5, example=4)
     required_equipment_score: int = Field(default=3, ge=1, le=5, example=4)
     supplier_availability_score: int = Field(default=4, ge=1, le=5, example=5)
+
+    # Research Traceability Extensions
+    original_business_description: Optional[str] = Field(default=None, description="Original natural language text entered by user")
+    extraction_metadata: Optional[Dict[str, Any]] = Field(default=None, description="Metadata from AI intake extraction & user verification")
+
+
+class IntakeExtractRequest(BaseModel):
+    """
+    Request payload for AI Business Intake Assistant text parsing with optional context hints.
+    """
+    text: str = Field(..., min_length=5, example="I want to start a small bakery in Homagama with Rs. 500,000 capital.")
+    business_stage: Optional[str] = Field(default="", example="New")
+    business_goal: Optional[str] = Field(default="", example="Establish New Business")
+
+
+class IntakeConfigRequest(BaseModel):
+    """
+    Request payload for retrieving context-dependent field requirements.
+    """
+    business_stage: str = Field(..., example="Existing")
+    business_goal: Optional[str] = Field(default="Open New Branch", example="Open New Branch")
+    business_category: Optional[str] = Field(default="Bakery", example="Bakery")
 
 
 class HealthCheckResponse(BaseModel):

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Building, DollarSign, Users, Rocket } from 'lucide-react';
+import { Building, DollarSign, Users, Rocket, Sparkles } from 'lucide-react';
 
-export default function BusinessForm({ onSubmit, loading }) {
+export default function BusinessForm({ onSubmit, loading, onSwitchToAi }) {
   const [formData, setFormData] = useState({
     business_stage: 'New',
     business_category: 'Bakery',
@@ -42,14 +42,28 @@ export default function BusinessForm({ onSubmit, loading }) {
 
   return (
     <div className="glass-card">
-      <div style={{ marginBottom: '1.5rem' }}>
-        <h2 style={{ fontSize: '1.35rem', fontWeight: 700, color: '#ffffff', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-          <Building size={22} style={{ color: '#60a5fa' }} />
-          SME Business Information Entry
-        </h2>
-        <p style={{ color: '#94a3b8', fontSize: '0.85rem', marginTop: '0.25rem' }}>
-          Provide operational, financial, and market parameters for the proposed or existing SME in Sri Lanka.
-        </p>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '1rem' }}>
+        <div>
+          <h2 style={{ fontSize: '1.35rem', fontWeight: 700, color: '#ffffff', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            <Building size={22} style={{ color: '#60a5fa' }} />
+            Manual SME Business Information Entry
+          </h2>
+          <p style={{ color: '#94a3b8', fontSize: '0.85rem', marginTop: '0.25rem' }}>
+            Direct manual completion of all 22 operational, financial, and market parameters.
+          </p>
+        </div>
+
+        {onSwitchToAi && (
+          <button 
+            type="button"
+            onClick={onSwitchToAi}
+            className="btn btn-secondary"
+            style={{ fontSize: '0.75rem', padding: '0.4rem 0.85rem' }}
+          >
+            <Sparkles size={14} style={{ color: '#c084fc' }} />
+            Use AI Intake Assistant
+          </button>
+        )}
       </div>
 
       <form onSubmit={handleSubmit}>
@@ -181,11 +195,11 @@ export default function BusinessForm({ onSubmit, loading }) {
         <div style={{ marginTop: '1.5rem', textAlign: 'right' }}>
           <button type="submit" disabled={loading} className="btn btn-primary" style={{ padding: '0.85rem 2rem', fontSize: '0.95rem' }}>
             {loading ? (
-              <span>Executing AI Decision Pipeline...</span>
+              <span>Executing SME360 AI Decision Pipeline...</span>
             ) : (
               <>
                 <Rocket size={18} />
-                <span>Run Complete AI Analysis</span>
+                <span>Run SME360 AI Analysis</span>
               </>
             )}
           </button>

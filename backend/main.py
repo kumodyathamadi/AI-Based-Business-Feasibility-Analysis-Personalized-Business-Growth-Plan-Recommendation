@@ -8,6 +8,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 
 from backend.database import engine, Base
 from backend.routes.analysis import router as analysis_router
+from backend.routes.intake import router as intake_router
 from backend.schemas import HealthCheckResponse
 from src.prediction.predictor import DEFAULT_MODEL_DIR
 
@@ -15,9 +16,9 @@ from src.prediction.predictor import DEFAULT_MODEL_DIR
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
-    title="SME Business Feasibility Analysis & Decision Support API",
-    description="Component 1 REST API for Sri Lankan SME Business Feasibility Prediction, SHAP Attribution, TOPSIS Strategy Ranking, What-If Simulation, and Business Planning.",
-    version="1.0.0"
+    title="SME360 AI Decision Support API",
+    description="SME360 AI REST API for Sri Lankan SME Business Feasibility Prediction, Context-Aware Natural Language AI Intake Assistant, SHAP Attribution, TOPSIS Strategy Ranking, What-If Simulation, and Business Planning.",
+    version="1.2.0"
 )
 
 # Enable CORS for frontend integration
@@ -31,6 +32,7 @@ app.add_middleware(
 
 # Register routes
 app.include_router(analysis_router)
+app.include_router(intake_router)
 
 
 @app.get("/api/health", response_model=HealthCheckResponse, tags=["Health"])
@@ -40,8 +42,8 @@ def health_check():
 
     return {
         "status": "healthy",
-        "component": "Component 1 - AI Business Feasibility Decision Support System",
-        "version": "1.0.0",
+        "component": "SME360 AI — Feasibility & Growth Decision Support Engine",
+        "version": "1.2.0",
         "model_loaded": rf_exists and prep_exists
     }
 

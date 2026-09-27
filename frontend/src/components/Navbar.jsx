@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { checkHealth } from '../services/api';
-import { Download, Sparkles } from 'lucide-react';
+import { Download } from 'lucide-react';
+import Logo from './Logo';
 
 export default function Navbar({ currentProfile, onExportJson }) {
   const [apiStatus, setApiStatus] = useState({ online: false, loading: true });
@@ -22,16 +23,14 @@ export default function Navbar({ currentProfile, onExportJson }) {
   return (
     <header className="navbar">
       <div className="brand-section">
-        <div className="brand-logo">
-          <Sparkles size={22} />
-        </div>
+        <Logo variant="header" height={42} />
         <div className="brand-title-group">
           <h1>
-            AI SME Business Feasibility Decision Support System
-            <span className="tag-component">Component 1</span>
+            SME360 AI
+            <span className="tag-component">Feasibility & Growth Engine</span>
           </h1>
           <div className="brand-subtitle">
-            Colombo District Focus — Sri Lanka Small & Medium Enterprises
+            AI-Driven SME Business Lifecycle Decision Support System
           </div>
         </div>
       </div>

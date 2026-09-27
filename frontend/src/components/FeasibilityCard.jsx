@@ -26,7 +26,7 @@ export default function FeasibilityCard({ feasibilityData, executiveSummary }) {
         {/* Result Card */}
         <div className="glass-card" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', textAlign: 'center' }}>
           <div style={{ fontSize: '0.8rem', fontWeight: 700, color: '#94a3b8', textTransform: 'uppercase', letterSpacing: '1px', marginBottom: '0.85rem' }}>
-            Predicted Feasibility Outcome
+            SME360 AI Predicted Feasibility Outcome
           </div>
           
           <div className={getBadgeClass(predicted_label)} style={{ marginBottom: '1.25rem' }}>
@@ -36,7 +36,7 @@ export default function FeasibilityCard({ feasibilityData, executiveSummary }) {
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', fontSize: '0.85rem', color: '#cbd5e1' }}>
             <Award size={18} style={{ color: '#60a5fa' }} />
-            <span>Random Forest Model Confidence:</span>
+            <span>SME360 AI Model Confidence:</span>
             <strong style={{ color: '#ffffff', fontSize: '1rem' }}>
               {(confidence_score * 100).toFixed(1)}%
             </strong>

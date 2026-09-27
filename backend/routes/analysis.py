@@ -24,6 +24,7 @@ def analyze_sme_business(
     """
     Executes Component 1 End-to-End Business Analysis Pipeline:
     Preprocessing -> Prediction -> SHAP -> Strategy Generation -> TOPSIS -> What-If -> Plan -> Structured Profile.
+    Persists original user description and extraction metadata for research traceability in PostgreSQL.
     """
     try:
         raw_input = payload.model_dump()
@@ -36,7 +37,7 @@ def analyze_sme_business(
         record_id = str(uuid.uuid4())
         structured_profile["metadata"]["record_id"] = record_id
 
-        # Save record to Database
+        # Save record to Database with traceability attributes
         record = AnalysisRecord(
             id=record_id,
             business_stage=payload.business_stage,
@@ -45,7 +46,9 @@ def analyze_sme_business(
             feasibility_label=predicted_label,
             confidence_score=confidence_score,
             input_profile=raw_input,
-            structured_profile=structured_profile
+            structured_profile=structured_profile,
+            original_business_description=payload.original_business_description,
+            extraction_metadata=payload.extraction_metadata
         )
         db.add(record)
         db.commit()
@@ -78,6 +81,7 @@ def list_analysis_records(
             "district": rec.district,
             "feasibility_label": rec.feasibility_label,
             "confidence_score": rec.confidence_score,
+            "original_business_description": rec.original_business_description,
             "created_at": rec.created_at.isoformat() if rec.created_at else None
         }
         for rec in records

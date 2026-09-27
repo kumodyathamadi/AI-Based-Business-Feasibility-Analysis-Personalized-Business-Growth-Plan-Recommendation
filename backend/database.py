@@ -49,14 +49,19 @@ except Exception as err:
     else:
         raise err
 
-# Auto-patch SQLite table column if fallback database is missing new foreign key column
+# Auto-patch SQLite table columns if fallback database is missing new traceability columns
 if active_db_url.startswith("sqlite"):
-    try:
-        with engine.connect() as conn:
-            conn.execute(text("ALTER TABLE analysis_records ADD COLUMN business_profile_id VARCHAR"))
-            conn.commit()
-    except Exception:
-        pass
+    for col_def in [
+        "ALTER TABLE analysis_records ADD COLUMN business_profile_id VARCHAR",
+        "ALTER TABLE analysis_records ADD COLUMN original_business_description TEXT",
+        "ALTER TABLE analysis_records ADD COLUMN extraction_metadata TEXT"
+    ]:
+        try:
+            with engine.connect() as conn:
+                conn.execute(text(col_def))
+                conn.commit()
+        except Exception:
+            pass
 
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()

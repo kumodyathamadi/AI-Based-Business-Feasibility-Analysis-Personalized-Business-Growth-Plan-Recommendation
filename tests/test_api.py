@@ -20,8 +20,45 @@ def test_health_check_endpoint():
     print("  /api/health response:", data)
 
 
+def test_ai_intake_extraction_endpoint():
+    print("\nTesting POST /api/business/intake/extract...")
+    
+    # Test English Extraction
+    english_payload = {
+        "text": "I want to start a small bakery in Homagama. I have around Rs. 500,000 available. I have 5 years of baking experience and expect 40 customers per day."
+    }
+    res_en = client.post("/api/business/intake/extract", json=english_payload)
+    assert res_en.status_code == 200, f"Expected 200, got {res_en.status_code}: {res_en.text}"
+    data_en = res_en.json()
+    
+    assert data_en["extracted_fields"]["business_category"]["value"] == "Bakery"
+    assert data_en["extracted_fields"]["district"]["value"] == "Colombo"
+    assert data_en["extracted_fields"]["available_capital_lkr"]["value"] == 500000.0
+    assert data_en["extracted_fields"]["entrepreneur_experience_years"]["value"] == 5
+    assert data_en["extracted_fields"]["expected_customers_per_day"]["value"] == 40
+    
+    # CRITICAL RULE CHECK: Unmentioned fields MUST be missing / None
+    assert data_en["extracted_fields"]["monthly_budget_lkr"]["value"] is None
+    assert data_en["extracted_fields"]["monthly_budget_lkr"]["status"] == "missing"
+    assert data_en["extracted_fields"]["competition_level"]["value"] is None
+    assert data_en["extracted_fields"]["competition_level"]["status"] == "missing"
+    
+    print("  English AI Intake Extraction SUCCESS! Extracted count:", data_en["summary"]["extracted_count"])
+
+    # Test Singlish Extraction
+    singlish_payload = {
+        "text": "Mama Homagama wala bakery ekak patan ganna inne. Capital 500000k thiyenawa. Baking experience awurudu 5k thiyenawa."
+    }
+    res_si = client.post("/api/business/intake/extract", json=singlish_payload)
+    assert res_si.status_code == 200
+    data_si = res_si.json()
+    assert data_si["extracted_fields"]["business_category"]["value"] == "Bakery"
+    assert data_si["extracted_fields"]["district"]["value"] == "Colombo"
+    print("  Singlish AI Intake Extraction SUCCESS!")
+
+
 def test_business_analyze_endpoint():
-    print("\nTesting POST /api/business/analyze...")
+    print("\nTesting POST /api/business/analyze with AI Intake Traceability...")
     payload = {
         "business_stage": "New",
         "business_category": "Bakery",
@@ -44,7 +81,9 @@ def test_business_analyze_endpoint():
         "required_staff_count": 3,
         "available_equipment_score": 4,
         "required_equipment_score": 4,
-        "supplier_availability_score": 5
+        "supplier_availability_score": 5,
+        "original_business_description": "I want to start a bakery in Homagama with 800k capital.",
+        "extraction_metadata": {"intake_mode": "ai_assistant", "verified_by_user": True}
     }
 
     response = client.post("/api/business/analyze", json=payload)
@@ -79,7 +118,8 @@ def test_business_analyze_endpoint():
 
 if __name__ == "__main__":
     test_health_check_endpoint()
+    test_ai_intake_extraction_endpoint()
     test_business_analyze_endpoint()
     print("\n" + "=" * 60)
-    print("ALL BACKEND API TESTS PASSED CLEANLY!")
+    print("ALL BACKEND API & AI INTAKE ASSISTANT TESTS PASSED CLEANLY!")
     print("=" * 60)

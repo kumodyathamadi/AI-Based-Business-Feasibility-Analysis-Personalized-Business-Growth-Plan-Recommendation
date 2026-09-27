@@ -37,7 +37,7 @@ export default function StrategyCard({ strategy, rank }) {
           </div>
         </div>
         <span style={{ fontSize: '0.8rem', background: '#0f172a', color: '#60a5fa', padding: '0.35rem 0.85rem', borderRadius: '20px', fontFamily: 'monospace', fontWeight: 700, border: '1px solid rgba(59, 130, 246, 0.3)' }}>
-          TOPSIS Score: {strategy.topsis_score}
+          Decision Score: {strategy.topsis_score}
         </span>
       </div>
 

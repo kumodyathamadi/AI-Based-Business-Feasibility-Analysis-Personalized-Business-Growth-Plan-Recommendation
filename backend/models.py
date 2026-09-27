@@ -51,6 +51,7 @@ class AnalysisRecord(Base):
     """
     Database Entity storing historical SME feasibility analysis runs and structured profile outputs.
     Leverages PostgreSQL JSONB columns for structured ML, SHAP, TOPSIS, and Plan outputs.
+    Stores original natural language description & extraction metadata for research traceability.
     """
     __tablename__ = "analysis_records"
 
@@ -63,6 +64,10 @@ class AnalysisRecord(Base):
     feasibility_label = Column(String, nullable=False, index=True)
     confidence_score = Column(Float, nullable=False)
     
+    # Traceability attributes
+    original_business_description = Column(Text, nullable=True)
+    extraction_metadata = Column(PortableJSON, nullable=True)
+
     # Structured JSON / JSONB columns for research pipeline artifacts
     input_profile = Column(PortableJSON, nullable=False)
     structured_profile = Column(PortableJSON, nullable=False)

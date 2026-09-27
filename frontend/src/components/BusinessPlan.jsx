@@ -19,7 +19,7 @@ export default function BusinessPlan({ planData }) {
       <div>
         <h3 style={{ fontSize: '1.1rem', fontWeight: 700, color: '#ffffff', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
           <FileText size={20} style={{ color: '#60a5fa' }} />
-          Personalized 5-Section Business & Growth Plan
+          SME360 AI Personalized Business & Growth Plan
         </h3>
         <p style={{ color: '#94a3b8', fontSize: '0.8rem', marginTop: '0.25rem' }}>
           Tailored operational and financial guidance generated directly from model feasibility predictions, SHAP attribution drivers, and TOPSIS rankings.

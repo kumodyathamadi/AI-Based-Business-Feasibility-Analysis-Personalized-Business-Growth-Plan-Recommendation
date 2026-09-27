@@ -44,7 +44,7 @@ export default function WhatIfSimulator({ scenarioData, currentInput, onScenario
       <div>
         <h3 style={{ fontSize: '1.1rem', fontWeight: 700, color: '#ffffff', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
           <Sliders size={20} style={{ color: '#60a5fa' }} />
-          Assumption-Aware What-If Scenario Simulations
+          SME360 AI What-If Scenario Simulator
         </h3>
         <p style={{ color: '#94a3b8', fontSize: '0.8rem', marginTop: '0.25rem' }}>
           Evaluate how variations in financial capital, operating budget, and customer demand alter the feasibility outcome through the exact same trained model pipeline.
