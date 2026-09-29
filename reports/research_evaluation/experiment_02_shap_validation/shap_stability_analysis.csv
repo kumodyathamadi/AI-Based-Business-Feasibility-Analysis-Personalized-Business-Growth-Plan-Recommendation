@@ -1,0 +1,4 @@
+Class,Mean Spearman Rank Correlation,Median Spearman Correlation,Mean Absolute SHAP Deviation,Stability Assessment
+Conditionally Feasible,0.9869,0.9955,0.00036,High Explanation Stability
+Feasible,0.9896,0.9963,0.00029,High Explanation Stability
+Infeasible,0.9831,0.9943,0.00029,High Explanation Stability

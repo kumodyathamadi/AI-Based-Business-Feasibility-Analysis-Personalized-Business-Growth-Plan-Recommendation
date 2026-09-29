@@ -1,0 +1,77 @@
+raw_feature,feature_name,mean_abs_shap,rank
+num__available_capital_lkr,Available Capital (LKR),0.10142395140388268,1
+num__loan_amount_lkr,Requested Loan Amount (LKR),0.06721952799882941,2
+num__customer_demand_score,Customer Demand Score (1-100),0.04161451219590165,3
+num__available_equipment_score,Available Equipment Score (1-5),0.029974501563957947,4
+num__available_staff_count,Available Staff Count,0.025520985939175792,5
+num__initial_inventory_cost_lkr,Initial Inventory Cost (LKR),0.021657101508426077,6
+num__monthly_budget_lkr,Monthly Operating Budget (LKR),0.021620992880824207,7
+num__expected_customers_per_day,Expected Daily Customers,0.02098828619356659,8
+cat__business_stage_New,Business Stage New,0.020944500313338606,9
+cat__proposed_action_start,Proposed Action Start,0.020828084069858484,10
+cat__business_stage_Existing,Business Stage Existing,0.01843936920388928,11
+num__required_staff_count,Required Staff Count,0.01724791876917181,12
+num__location_suitability_score,Location Suitability Score (1-5),0.013792984897301167,13
+num__required_equipment_score,Required Equipment Score (1-5),0.01255650656717721,14
+num__expected_price_lkr,Expected Product Price (LKR),0.011072414570688147,15
+cat__business_category_Clothing/ Garment,Business Category Clothing/ Garment,0.007232869886387563,16
+num__entrepreneur_experience_years,Entrepreneur Experience (Years),0.006631859375201586,17
+cat__business_category_Beauty Saloon,Business Category Beauty Saloon,0.005920301438622531,18
+cat__business_category_Grocery/Mini-Mart,Business Category Grocery/Mini-Mart,0.005866289442210471,19
+num__expected_operating_days_per_month,Operating Days / Month,0.004026107648342351,20
+cat__competition_level_Low,Competition Level Low,0.003776051868755298,21
+cat__business_category_Bakery/Food/Grocery,Business Category Bakery/Food/Grocery,0.003600910382566587,22
+cat__competition_level_Medium,Competition Level Medium,0.0034086718094219087,23
+cat__proposed_action_improve,Proposed Action Improve,0.0032783776868660825,24
+cat__competition_level_High,Competition Level High,0.0027080244766705167,25
+num__supplier_availability_score,Supplier Availability Score (1-5),0.0027043329667768277,26
+cat__proposed_action_maintain,Proposed Action Maintain,0.0021475521697081634,27
+cat__proposed_action_expand,Proposed Action Expand,0.001174822047735557,28
+cat__location_type_Suwapudugama,Location Type Suwapudugama,0.0010946621136659577,29
+cat__location_type_Brahamnagama,Location Type Brahamnagama,0.0009730991191159185,30
+cat__location_type_Siyambalagoda,Location Type Siyambalagoda,0.0009463379005000685,31
+cat__location_type_Waga,Location Type Waga,0.0009027337990242347,32
+cat__location_type_Hiripitiya,Location Type Hiripitiya,0.0008149145039798452,33
+cat__location_type_Kahathuduwa,Location Type Kahathuduwa,0.0007748293033918423,34
+cat__location_type_Diyagama,Location Type Diyagama,0.0007573099552031039,35
+cat__location_type_Siddamulla,Location Type Siddamulla,0.0007429806010589866,36
+cat__location_type_Bope,Location Type Bope,0.0007216982415817608,37
+cat__location_type_Mullegama,Location Type Mullegama,0.0007113828542318481,38
+cat__location_type_Thalduwa,Location Type Thalduwa,0.0007056775289835697,39
+cat__location_type_Panaluwa,Location Type Panaluwa,0.0006982663132225761,40
+cat__location_type_Pitipana,Location Type Pitipana,0.0006537759035763151,41
+cat__location_type_Ovitigama,Location Type Ovitigama,0.0006434566115996577,42
+cat__location_type_Pahala Hanwella,Location Type Pahala Hanwella,0.0006383236214757086,43
+cat__location_type_Polgasowita,Location Type Polgasowita,0.0006144057688999367,44
+cat__location_type_Godagama,Location Type Godagama,0.0006039227860135528,45
+cat__location_type_Uduwana,Location Type Uduwana,0.0005485382019273323,46
+cat__location_type_Jalthara,Location Type Jalthara,0.0005032639534399609,47
+cat__location_type_Meepe,Location Type Meepe,0.0004829178630981757,48
+cat__location_type_Malwana,Location Type Malwana,0.0004756735735411604,49
+cat__location_type_Mambulgoda,Location Type Mambulgoda,0.00047352052049626903,50
+cat__location_type_Palagama,Location Type Palagama,0.0004634367526725381,51
+cat__location_type_Meegasmulla,Location Type Meegasmulla,0.0004546472379199429,52
+cat__location_type_Henwattha,Location Type Henwattha,0.00045022585089376,53
+cat__location_type_Panagoda,Location Type Panagoda,0.0004488052865361505,54
+cat__location_type_Udagama,Location Type Udagama,0.0004438250229134466,55
+cat__location_type_Pitumpe,Location Type Pitumpe,0.0004287005674567788,56
+cat__location_type_Kosgama,Location Type Kosgama,0.0004127047105078944,57
+cat__location_type_Puwakpitiya,Location Type Puwakpitiya,0.0003479293807306302,58
+cat__location_type_Ranala,Location Type Ranala,0.0003455441820060208,59
+cat__location_type_Habarakada,Location Type Habarakada,0.00034497770095156345,60
+cat__location_type_Kiriwattuduwa,Location Type Kiriwattuduwa,0.000344551455824967,61
+cat__location_type_Arukwatta,Location Type Arukwatta,0.00034063872741396813,62
+cat__location_type_Watareka,Location Type Watareka,0.00032272399161908027,63
+cat__location_type_Ambalangoda,Location Type Ambalangoda,0.00031960550709849616,64
+cat__location_type_Kottawa,Location Type Kottawa,0.00030283579255062197,65
+cat__location_type_Dolahena,Location Type Dolahena,0.0002957477949719287,66
+cat__location_type_Henpitiya,Location Type Henpitiya,0.0002852545797334829,67
+cat__location_type_Puswelikanda,Location Type Puswelikanda,0.00028126520936542484,68
+cat__location_type_Nawagamuwa,Location Type Nawagamuwa,0.000271708007711031,69
+cat__location_type_Meegoda,Location Type Meegoda,0.0002593969916133234,70
+cat__location_type_Henpita,Location Type Henpita,0.00025460164767472914,71
+cat__location_type_Prasannanpura,Location Type Prasannanpura,0.0002510369595361337,72
+cat__location_type_Mattegoda,Location Type Mattegoda,0.0002250082582884357,73
+cat__location_type_Weniwelkola,Location Type Weniwelkola,0.00021912895547970975,74
+cat__province_Western,Province Western,0.0,75
+cat__district_Colombo,District Colombo,0.0,76

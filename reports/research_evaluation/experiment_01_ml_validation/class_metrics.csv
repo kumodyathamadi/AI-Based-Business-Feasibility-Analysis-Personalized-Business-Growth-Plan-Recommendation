@@ -1,0 +1,4 @@
+Class,Precision,Recall,F1-Score,Support,ROC-AUC,PR-AUC,Brier Score
+Conditionally Feasible,0.902,0.8932,0.8976,103,0.9434,0.9575,0.1209
+Feasible,0.8889,0.8511,0.8696,47,0.9822,0.9493,0.0682
+Infeasible,0.8182,0.9,0.8571,30,0.9818,0.9218,0.0485

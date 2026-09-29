@@ -1,0 +1,5 @@
+Actual Class,Predicted Class,Error Count,Percentage of Total Errors (%)
+Conditionally Feasible,Feasible,5,23.81
+Conditionally Feasible,Infeasible,6,28.57
+Feasible,Conditionally Feasible,7,33.33
+Infeasible,Conditionally Feasible,3,14.29

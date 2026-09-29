@@ -74,7 +74,7 @@ export default function App() {
 
       {/* Main SaaS Layout with Sidebar + Workspace */}
       <div className="main-layout">
-        
+
         {/* Left Sidebar Navigation */}
         <Sidebar
           activeTab={activeTab}
@@ -84,12 +84,12 @@ export default function App() {
 
         {/* Primary Content Viewport */}
         <main className="content-viewport">
-          
+
           {/* Top Breadcrumb Navigation */}
-          <Breadcrumbs 
-            activeTab={activeTab} 
-            activeProfile={structuredProfile} 
-            onNavigate={setActiveTab} 
+          <Breadcrumbs
+            activeTab={activeTab}
+            activeProfile={structuredProfile}
+            onNavigate={setActiveTab}
           />
 
           {/* 1. Dashboard View */}
@@ -132,9 +132,9 @@ export default function App() {
 
           {/* Business Overview */}
           {activeTab === 'overview' && structuredProfile && (
-            <BusinessOverview 
-              profile={structuredProfile} 
-              onNavigate={setActiveTab} 
+            <BusinessOverview
+              profile={structuredProfile}
+              onNavigate={setActiveTab}
             />
           )}
 
@@ -201,7 +201,7 @@ export default function App() {
 
       {/* Product Footer */}
       <footer style={{ borderTop: '1px solid var(--border-color)', padding: '1rem 2rem', textAlign: 'center', fontSize: '0.75rem', color: '#64748b', background: 'rgba(9, 13, 22, 0.95)' }}>
-        <strong style={{ color: '#94a3b8' }}>SME360 AI</strong> — Smarter Decisions • Stronger SMEs | AI-Driven SME Business Lifecycle Decision Support System
+        <strong style={{ color: '#94a3b8' }}>SME360 AI</strong> - Smarter Decisions • Stronger SMEs | AI-Driven SME Business Lifecycle Decision Support System
       </footer>
     </div>
   );

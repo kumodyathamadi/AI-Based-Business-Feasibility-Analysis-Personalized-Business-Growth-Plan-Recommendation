@@ -1,0 +1,7 @@
+Case Type,case_id,business_category,district,capital_lkr,actual_class,predicted_class,confidence
+Correct Conditionally Feasible,C00193,Grocery/Mini-Mart,Colombo,175175,Conditionally Feasible,Conditionally Feasible,0.535
+Misclassified Conditionally Feasible,C00944,Beauty Saloon,Colombo,58457,Conditionally Feasible,Infeasible,0.52
+Correct Feasible,C00658,Clothing/ Garment,Colombo,366413,Feasible,Feasible,0.61
+Misclassified Feasible,C00546,Clothing/ Garment,Colombo,457115,Feasible,Conditionally Feasible,0.59
+Correct Infeasible,C01068,Beauty Saloon,Colombo,20174,Infeasible,Infeasible,0.55
+Misclassified Infeasible,C00783,Bakery/Food/Grocery,Colombo,15280,Infeasible,Conditionally Feasible,0.58
