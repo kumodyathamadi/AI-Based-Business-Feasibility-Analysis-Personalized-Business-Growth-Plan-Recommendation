@@ -1,0 +1,65 @@
+{
+  "plan_metadata": {
+    "business_category": "Grocery/Mini-Mart",
+    "district": "Colombo",
+    "feasibility_label": "Conditionally Feasible"
+  },
+  "executive_overview": {
+    "title": "1. Executive Business Overview",
+    "business_summary": "Evaluation for a New Grocery/Mini-Mart located in Colombo, Sri Lanka. The AI feasibility decision support system predicts an outcome of 'Conditionally Feasible' with 71.0% model confidence.",
+    "key_enablers": [
+      "Available Equipment Score (1-5)",
+      "Available Capital (LKR)",
+      "Location Suitability Score (1-5)"
+    ],
+    "key_risk_hurdles": [
+      "Required Equipment Score (1-5)",
+      "Expected Daily Customers",
+      "Required Staff Count"
+    ],
+    "recommended_primary_strategy": "Hybrid Digital & Local Delivery Model"
+  },
+  "operational_plan": {
+    "title": "2. Operational Setup & Resource Management",
+    "staffing_requirements": "Available Staff: 1 | Required Staff: 0. Staff capacity is balanced.",
+    "equipment_readiness": "Equipment Score: 1/5 vs Required: 1/5.",
+    "supplier_logistics": "Supplier Availability Score: 4/5 (Colombo SME Supply Network)."
+  },
+  "marketing_plan": {
+    "title": "3. Marketing & Customer Acquisition",
+    "demand_score": "Customer Demand Index: 56/100",
+    "target_daily_customers": 10,
+    "pricing_structure": "LKR 2,170.00 per unit / service",
+    "promotional_tactics": [
+      "Local targeted signage and community engagement in Colombo.",
+      "Digital social media presence targeting Colombo suburban consumers.",
+      "Introductory pricing and bundled customer loyalty promotions."
+    ]
+  },
+  "financial_plan": {
+    "title": "4. Financial Planning & Capital Requirements",
+    "available_capital_lkr": 730108.0,
+    "monthly_operating_budget_lkr": 185000.0,
+    "requested_loan_lkr": 0.0,
+    "capital_runway_months": 3.9,
+    "counterfactual_guidance": "Multiple operational dimensions (capital, demand, equipment) require joint enhancement."
+  },
+  "action_roadmap": {
+    "title": "5. Time-Phased Action Roadmap",
+    "phase_1_immediate_0_to_3_months": [
+      "Register business name and obtain local municipal authority permits.",
+      "Implement core operational strategy: Hybrid Digital & Local Delivery Model.",
+      "Procure initial inventory and establish supplier agreement terms.",
+      "Launch targeted local social media campaign."
+    ],
+    "phase_2_growth_3_to_12_months": [
+      "Track monthly cash flow against LKR 185,000.00 operating budget.",
+      "Evaluate customer footfall and aim to hit target daily volume.",
+      "Review What-If scenario results for potential capital expansion."
+    ],
+    "phase_3_scale_1_year_plus": [
+      "Assess secondary location feasibility in neighboring Colombo hubs.",
+      "Re-run AI Feasibility pipeline with actual 12-month operational metrics."
+    ]
+  }
+}

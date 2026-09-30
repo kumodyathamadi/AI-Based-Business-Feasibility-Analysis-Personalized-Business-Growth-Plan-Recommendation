@@ -1,0 +1,13 @@
+case_id,business_category,district,base_prediction,base_feasible_prob,scenario_id,scenario_title,modifications,new_prediction,new_feasible_prob,feasibility_probability_delta,prediction_shift
+C00001,Grocery/Mini-Mart,Colombo,Conditionally Feasible,0.245,SCEN_01,+50% Capital Injection,available_capital_lkr=1095162.0,Conditionally Feasible,0.255,0.01,No Shift (Conditionally Feasible)
+C00001,Grocery/Mini-Mart,Colombo,Conditionally Feasible,0.245,SCEN_02,"Secured SME Working Loan (LKR 500,000)","loan_amount_lkr=500000.0, available_capital_lkr=1230108.0",Conditionally Feasible,0.16,-0.085,No Shift (Conditionally Feasible)
+C00001,Grocery/Mini-Mart,Colombo,Conditionally Feasible,0.245,SCEN_03,+30% Customer Footfall Boost,"expected_customers_per_day=13, customer_demand_score=71",Conditionally Feasible,0.345,0.1,No Shift (Conditionally Feasible)
+C00001,Grocery/Mini-Mart,Colombo,Conditionally Feasible,0.245,SCEN_04,Optimized Operating Cost (-20% Monthly Budget),monthly_budget_lkr=148000.0,Conditionally Feasible,0.32,0.075,No Shift (Conditionally Feasible)
+C00002,Grocery/Mini-Mart,Colombo,Infeasible,0.0,SCEN_01,+50% Capital Injection,available_capital_lkr=145857.0,Infeasible,0.025,0.025,No Shift (Infeasible)
+C00002,Grocery/Mini-Mart,Colombo,Infeasible,0.0,SCEN_02,"Secured SME Working Loan (LKR 500,000)","loan_amount_lkr=528234.0, available_capital_lkr=597238.0",Conditionally Feasible,0.03,0.03,Shifted: Infeasible → Conditionally Feasible
+C00002,Grocery/Mini-Mart,Colombo,Infeasible,0.0,SCEN_03,+30% Customer Footfall Boost,"expected_customers_per_day=58, customer_demand_score=69",Infeasible,0.0,0.0,No Shift (Infeasible)
+C00002,Grocery/Mini-Mart,Colombo,Infeasible,0.0,SCEN_04,Optimized Operating Cost (-20% Monthly Budget),monthly_budget_lkr=217192.80000000002,Infeasible,0.0,0.0,No Shift (Infeasible)
+C00018,Grocery/Mini-Mart,Colombo,Feasible,0.55,SCEN_01,+50% Capital Injection,available_capital_lkr=552295.5,Feasible,0.565,0.015,No Shift (Feasible)
+C00018,Grocery/Mini-Mart,Colombo,Feasible,0.55,SCEN_02,"Secured SME Working Loan (LKR 500,000)","loan_amount_lkr=500000.0, available_capital_lkr=868197.0",Conditionally Feasible,0.275,-0.275,Shifted: Feasible → Conditionally Feasible
+C00018,Grocery/Mini-Mart,Colombo,Feasible,0.55,SCEN_03,+30% Customer Footfall Boost,"expected_customers_per_day=19, customer_demand_score=94",Conditionally Feasible,0.46,-0.09,Shifted: Feasible → Conditionally Feasible
+C00018,Grocery/Mini-Mart,Colombo,Feasible,0.55,SCEN_04,Optimized Operating Cost (-20% Monthly Budget),monthly_budget_lkr=94123.20000000001,Feasible,0.56,0.01,No Shift (Feasible)

@@ -51,7 +51,7 @@ exp03_matrix = []
 all_case_strategies = {}
 
 for sample in sample_cases:
-    row = df.iloc[sample["index"]].to_dict()
+    row = df.iloc[int(sample["index"])].to_dict()
     case_id = row.get("case_id", f"CASE_{sample['index']}")
     
     input_df, cleaned_input = validate_and_format_input(row)

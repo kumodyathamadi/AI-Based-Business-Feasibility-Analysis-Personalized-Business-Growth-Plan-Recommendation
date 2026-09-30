@@ -1,0 +1,4 @@
+case_id,business_category,district,base_prediction,base_feasible_prob,base_capital_lkr,counterfactual_found,target_outcome,target_feasible_prob,required_capital_lkr,additional_capital_needed_lkr,capital_multiplier,recommendation
+C00001,Grocery/Mini-Mart,Colombo,Conditionally Feasible,0.245,730108.0,False,Feasible (Unreachable in Single Dimension),N/A,N/A,N/A,N/A,"Multiple operational dimensions (capital, demand, equipment) require joint enhancement."
+C00002,Grocery/Mini-Mart,Colombo,Infeasible,0.0,97238.0,False,Feasible (Unreachable in Single Dimension),N/A,N/A,N/A,N/A,"Multiple operational dimensions (capital, demand, equipment) require joint enhancement."
+C00018,Grocery/Mini-Mart,Colombo,Feasible,0.55,368197.0,True,Feasible,0.55,368197.0,0.0,1.0,"Increasing available capital by LKR 0.00 (total LKR 368,197.00) elevates predicted feasibility to 'Feasible' with 55.00% confidence."
