@@ -1,0 +1,5 @@
+strategy_id,strategy_name,financial_viability (Benefit),implementation_feasibility (Benefit),market_demand_alignment (Benefit),operational_risk (Cost),resource_efficiency (Benefit),topsis_score,baseline_rank
+STRAT_03,Hybrid Digital & Local Delivery Model,8.2,8.5,8.8,4.2,8.5,0.7005,1
+STRAT_01,Lean Bootstrapped Launch (Grocery/Mini-Mart),8.5,9.0,7.0,3.0,8.8,0.6507,2
+STRAT_04,Premium Quality & Niche Differentiation,8.0,8.0,7.8,4.8,8.0,0.4528,3
+STRAT_02,Market Expansion & Customer Acquisition (Grocery/Mini-Mart),7.5,7.2,9.2,6.5,7.5,0.3493,4
